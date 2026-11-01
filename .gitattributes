@@ -9,3 +9,6 @@
 *.parquet binary
 *.png binary
 *.pdf binary
+
+# frozen inputs are hashed byte for byte (MANIFEST.sha256): never convert them
+data/frozen/** -text
