@@ -1,0 +1,3 @@
+metric,n_matched,treated_mean,control_mean,matched_ratio,p_perm,verdict
+defended_rim_fga_residual,23,3.5961779363605935,2.904861722360912,1.2379859284447514,0.1804,ATTENUATED
+defended_rim_fg_pct_residual,23,0.05595648601588861,0.05027702098981144,1.1129634356663276,0.3216,ATTENUATED

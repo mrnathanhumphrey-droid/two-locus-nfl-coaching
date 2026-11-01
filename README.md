@@ -4,15 +4,16 @@ Replication package for **"The Portable Coach: Which NFL Coaching Effects Transf
 Confidently"** (Humphrey, 2026; extended abstract: [docs/Sloan_Two_Locus_NFL_Abstract.pdf](docs/Sloan_Two_Locus_NFL_Abstract.pdf)).
 The internal name of the analysis is *two-locus*.
 
-**One command reproduces the layered analysis from frozen inputs** (no download, no scraping). The run ends by
-checking each output against `results/expected/`. See [Scope](#scope) for which of the abstract's results this
-package covers today.
+**One command reproduces every number in the extended abstract from frozen inputs** (no download, no scraping).
+The run prints each abstract figure next to the value it reproduced (see
+[Every number in the abstract](#every-number-in-the-abstract)), then checks all 63 outputs against
+`results/expected/`.
 
 ```bash
 git clone https://github.com/mrnathanhumphrey-droid/two-locus-nfl-coaching
 cd two-locus-nfl-coaching
 pip install -r requirements.txt          # pinned: the versions the expected results were produced with
-bash reproduce.sh                        # about 5 minutes; ends with "submitted: 27 of 27 outputs match"
+bash reproduce.sh                        # about 12 minutes; ends with "submitted: 63 of 63 outputs match"
 ```
 
 | Command | What it does |
@@ -45,29 +46,37 @@ discipline (real coaching changes vs continuous-staff placebo team-seasons).
 | Team identity vs coaching history | `snr_test_svi_analogue.py` | `snr_svi_*.csv` |
 | Coach fingerprints | `coach_fingerprint_clustering.py` | `*_fingerprint_clusters.csv`, `figures/` |
 
-Headline values, as produced by `bash reproduce.sh` (file: `results/expected/submitted/`):
+**The revision analyses** (`scripts/revision/`, outputs in `results/<mode>/revision/`) produce the abstract's
+portability, concept-family and defensive-coordinator results:
 
-| Finding | Value | File |
+| Analysis | Script | Output |
 |---|---|---|
-| HC mid-season change, pass-rate shift | 1.364×, p=0.002, n=45 | `hc_midseason_vs_offseason_results.csv` |
-| HC off-season change, plays shift | 1.169×, p=0.021, n=142 | `hc_midseason_vs_offseason_results.csv` |
-| OC change, red-zone shotgun-rate shift | 1.343×, p=0.0002, n=175 | `oc_rz_focused_summary.csv` |
-| HC portability (pass rate) | r=0.386, one-sided p=0.0044, slope 0.306, n=43 | `hc_predictive_validation_summary.csv` |
-| OC portability (red-zone shotgun rate) | r=0.483, p<0.0001, slope 0.460, n=151 | `oc_predictive_validation_summary.csv` |
+| Hierarchical random-coefficient portability (PyMC, 4 chains, seed 42) | `fit_rc_event_study_pymc.py` | `oc_rc_summary.json`, `hc_rc_summary.json`, posteriors |
+| Portability with team-quality covariates | `rc_propensity_refit.py` | `*_propensity_refit.json` |
+| Hierarchical slope vs the OLS placebo distribution (Figure 1) | `rc_placebo_and_propensity.py` | `placebo_comparison.json` |
+| OC concept-family portability (Figure 2) | `oc_concept_family_portability.py`, `make_sloan_figures.py` | `oc_concept_family_results.csv`, `figures/` |
+| DC role isolation, by era | `dc_within_hc_event_study.py`, `build_extended_defensive_panel.py`, `dc_within_hc_extended.py`, `dc_within_hc_era_strat.py` | `dc_within_hc_*.csv` |
 
-## Scope
+**The NBA transfer check** (`scripts/nba/`, outputs in `results/<mode>/nba/`) runs the same framework on the NBA.
+Opponent three-point rate is the defensive locus that survives the naive event study, roster-retention matching
+(`propensity_with_roster_results.csv`) and predictive validation (`opp_3pt_predictive_validation_summary.csv`).
 
-This package reproduces the layered event-study analysis, the headline effects above, and the predictive
-validation, which estimates its slopes by ordinary least squares.
+## Every number in the abstract
 
-Several results in the extended abstract come from later revision analyses that are **not yet in this package**:
-- the hierarchical random-coefficient portability slopes (OC 0.469, HC 0.279, with 95% intervals)
-- the concept-family portability slopes (0.41–0.50)
-- the defensive-coordinator role-isolation result (opponent plays 6.37×)
-- the NBA transfer check
+`bash reproduce.sh` prints this table from the run's own outputs (`scripts/build/check_abstract.py`):
 
-They will be added under the same frozen-input, expected-output discipline. Until then, the OLS slopes here
-(OC 0.460, HC 0.306) are the predictive-validation estimates this package reproduces.
+| Abstract figure | Reproduced | File |
+|---|---|---|
+| HC mid-season firing, pass rate 1.36× (p=.002) | 1.3640, p=0.0020 | `hc_midseason_vs_offseason_results.csv` |
+| HC off-season change, pace 1.17× (p=.021) | 1.1688, p=0.0210 | `hc_midseason_vs_offseason_results.csv` |
+| OC change, red-zone shotgun rate 1.34× (p=.0002) | 1.3425, p=0.0002 | `oc_rz_focused_summary.csv` |
+| OC portability slope 0.469 [0.32, 0.62] | 0.4690 [0.3202, 0.6208] | `revision/oc_rc_summary.json` |
+| HC portability slope 0.279 [−0.01, 0.56] | 0.2790 [−0.0082, 0.5546] | `revision/hc_rc_summary.json` |
+| Six concept families porting at slopes 0.41–0.50 | 6 families, 0.4105–0.4950 | `revision/oc_concept_family_results.csv` |
+| DC change 2017–2024, opponent plays 6.37× (p=.007) | 6.3693, p=0.0070 | `revision/dc_within_hc_era_strat.csv` |
+| NBA: head-coach perimeter defense survives | survives roster matching (1.2754×, p=0.0482) | `nba/propensity_with_roster_results.csv` |
+
+The HC interval's upper end reproduces as 0.5546, which rounds to 0.55; the abstract prints 0.56.
 
 ## Two data windows
 
@@ -76,11 +85,16 @@ The study ran in two passes, and each test reproduces on the data it ran on:
   - Layers 1 to 3
   - the event studies
   - within-game
-  - the defensive decomposition
   - team identity
   - fingerprints
-- **Through 2025:** the predictive validation, its robustness checks and propensity matching, which were re-run
-  after the 2025 season was added.
+- **Through 2025:**
+  - the predictive validation, its robustness checks and propensity matching, re-run after the 2025 season was
+    added
+  - the revision analyses
+  - the defensive decomposition, whose results are identical in either window; it runs here because the
+    revision analyses read its defensive outcome panel
+
+The NBA analysis reads its own frozen inputs and has no window.
 
 `reproduce.sh` stages each window in turn (`scripts/build/stage.py`).
 
@@ -101,13 +115,25 @@ Its outputs are in `results/expected/corrected/`.
 ## Layout
 
 ```
-data/frozen/          the inputs (see data/frozen/SOURCES.md), with MANIFEST.sha256
-scripts/              the analysis scripts
-scripts/build/        stage.py (data windows), panels.py + the original panel builders, check_results.py
-results/expected/     the expected outputs, submitted and corrected
+data/frozen/          the inputs (see data/frozen/SOURCES.md), with MANIFEST.sha256; NBA inputs in data/frozen/nba/
+scripts/              the layered analysis
+scripts/revision/     the revision analyses
+scripts/nba/          the NBA transfer check
+scripts/build/        stage.py (data windows), panels.py + the original panel builders, check_results.py,
+                      check_abstract.py
+results/expected/     the expected outputs, submitted and corrected (63 each)
 docs/                 the extended abstract (PDF) and the research notes behind each layer
-figures/              fingerprint figures (regenerated by the run)
+figures/              fingerprint and abstract figures (regenerated by the run)
 ```
+
+The analysis scripts are the research code with only their path lines changed. Three scripts that printed a
+result without saving it now also write it to a CSV:
+- `dc_within_hc_era_strat.py`
+- `propensity_with_roster.py`
+- `nextgen_propensity.py`
+
+`snr_within_game_placebo_audit.py`, a helper module `oc_schematic_isolation.py` imports, was missing from the
+first release and is restored from the research code.
 
 `scripts/00_fetch_data.py`, `_fetch_coaching.py` and `phase4_coach_pages.py` are the original collection scripts,
 kept for provenance. They are not needed to reproduce the results. The live sources have changed since the data
@@ -123,8 +149,13 @@ layered decomposition itself was built iteratively, each layer's result motivati
 
 ## Data
 
-nflverse (CC-BY-4.0) and coaching facts compiled from Pro Football Reference, cited per row. Full attribution is
-in [data/frozen/SOURCES.md](data/frozen/SOURCES.md).
+Every dataset is included exactly as the analysis used it, attributed to its source:
+- nflverse (CC-BY-4.0)
+- NFL coaching facts compiled from Pro Football Reference
+- NBA box scores and tracking from nba.com
+- NBA coaching facts compiled from Basketball-Reference
+
+Full attribution is in [data/frozen/SOURCES.md](data/frozen/SOURCES.md).
 
 ## License
 

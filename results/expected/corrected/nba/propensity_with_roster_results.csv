@@ -1,0 +1,3 @@
+metric,n_matched,treated_mean,control_mean,matched_ratio,p_perm,verdict
+possessions_residual,52,2.980861320805041,2.6339762351469678,1.1316963612007374,0.1968,ATTENUATED but directional
+opp_three_pt_rate_residual,52,0.03903608961802193,0.030606510229143864,1.27541785475599,0.0482,SURVIVES MATCHING

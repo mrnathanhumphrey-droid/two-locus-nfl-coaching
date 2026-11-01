@@ -8,4 +8,7 @@ pyarrow==19.0.1
 beautifulsoup4==4.14.3
 requests==2.34.2
 seaborn==0.13.2
+pymc==6.0.1
+pytensor==3.0.3
+arviz==1.1.0
 # optional, only for the original PFR collection scripts (not needed to reproduce): curl_cffi==0.15.0

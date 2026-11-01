@@ -63,11 +63,12 @@ def stage(mode: str, window: int) -> None:
     write(pd.read_parquet(FROZEN / "draft_picks.parquet"), "nfl/combine/draft_picks.parquet")
     rost = pd.read_parquet(FROZEN / "rosters_2002_2024.parquet", columns=["season", "gsis_id", "position"])
     part = pd.read_parquet(FROZEN / "participation_2016_2024.parquet")
-    dpbp = pd.read_parquet(FROZEN / "pbp_defense_2016_2024.parquet")
+    dpbp = pd.read_parquet(FROZEN / "pbp_defense_2000_2024.parquet")
     for y in range(2016, 2025):
         write(rost[rost["season"] == y], f"nfl/rosters/weekly_rosters_{y}.parquet")
         write(part[part["season"] == y].drop(columns="season"), f"raw/participation/pbp_participation_{y}.parquet")
-        write(dpbp[dpbp["season"] == y], f"nflfastR/play_by_play_{y}.parquet")
+    for y in sorted(dpbp["season"].unique()):   # 2000-2024: the extended defensive panel reads them all
+        write(dpbp[dpbp["season"] == y], f"nflfastR/play_by_play_{int(y)}.parquet")
     (DATA / "raw" / "pfr").mkdir(parents=True, exist_ok=True)
     shutil.copyfile(FROZEN / "coaching_history.csv", DATA / "raw" / "pfr" / "coaching_history.csv")
     print(f"staged: {mode}, seasons through {window} ({len(sr):,} team-games, {len(pbp):,} plays)")

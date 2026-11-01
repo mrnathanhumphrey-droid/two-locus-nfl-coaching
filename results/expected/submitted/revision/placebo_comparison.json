@@ -1,0 +1,28 @@
+{
+  "placebo_comparison": {
+    "hc": {
+      "ols_observed": 0.3061139090811046,
+      "ols_observed_pct": 12.9,
+      "bayes_shrunk_slope": 0.2790217930719705,
+      "bayes_in_ols_placebo_pct": 0.07116476643130035,
+      "bayes_in_ols_placebo_z": -3.1898847675346538,
+      "placebo_median": 0.3206972640853863,
+      "placebo_95ci": [
+        0.2959477148737708,
+        0.3471620559168333
+      ]
+    },
+    "oc": {
+      "ols_observed": 0.4597215723758592,
+      "ols_observed_pct": 100.0,
+      "bayes_shrunk_slope": 0.46896756524506517,
+      "bayes_in_ols_placebo_pct": 100.0,
+      "bayes_in_ols_placebo_z": 18.65420690782217,
+      "placebo_median": 0.1360093427373237,
+      "placebo_95ci": [
+        0.1007549996907394,
+        0.1707229291063312
+      ]
+    }
+  }
+}

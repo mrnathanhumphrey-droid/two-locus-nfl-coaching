@@ -32,8 +32,18 @@ fi
 # the two data windows the study ran on (see scripts/build/stage.py)
 WINDOW_2024="snr_test_static hc_midseason_vs_offseason oc_change_event_study oc_rz_focused_followup
   oc_schematic_isolation dc_change_event_study dc_rz_focused_followup hc_offseason_defense_test
-  snr_test_within_game defensive_personnel_vs_coaching_decomp coach_fingerprint_clustering snr_test_svi_analogue"
-WINDOW_2025="hc_predictive_validation oc_predictive_validation predictive_validation_robustness hc_propensity_matched"
+  snr_test_within_game coach_fingerprint_clustering snr_test_svi_analogue"
+# defensive_personnel_vs_coaching_decomp gives identical results in either window; it runs here because the
+# Sloan revision analyses read its defensive outcome panel
+WINDOW_2025="hc_predictive_validation oc_predictive_validation predictive_validation_robustness hc_propensity_matched
+  defensive_personnel_vs_coaching_decomp"
+# the Sloan revision analyses (scripts/revision), in dependency order, on the through-2025 data
+REVISION="oc_concept_family_portability fit_rc_event_study_pymc rc_propensity_refit rc_placebo_and_propensity
+  dc_within_hc_event_study build_extended_defensive_panel dc_within_hc_extended dc_within_hc_era_strat make_sloan_figures"
+# the NBA transfer check (scripts/nba): same framework, nba.com data in data/frozen/nba
+NBA="build_schematic_residuals layer1_partition layer2_midseason_vs_offseason layer2_offseason_hc_event_study
+  layer2_defensive_analog hc_predictive_validation opp_3pt_predictive_validation propensity_with_roster
+  nextgen_event_study nextgen_propensity coach_fingerprint_clustering"
 
 OUT="results/$MODE"; rm -rf "$OUT"; mkdir -p "$OUT"
 for W in 2024 2025; do
@@ -46,7 +56,27 @@ for W in 2024 2025; do
   # collect this window's outputs before the next stage clears the layout
   cp data/*.csv "$OUT"/ 2>/dev/null || true
   cp data/nfl/*.csv "$OUT"/ 2>/dev/null || true
+  if [[ "$W" == "2025" ]]; then
+    cp data/*.csv data/nfl/        # the revision scripts read these from data/nfl, as the research layout kept them
+    mkdir -p data/nfl/sloan_revision_outputs "$OUT/revision"
+    for s in $REVISION; do
+      echo "==> [$MODE, revision] $s"
+      "$PY" -u "scripts/revision/$s.py" > "$OUT/revision/$s.log" 2>&1 || { echo "   FAILED, see $OUT/revision/$s.log"; exit 1; }
+    done
+    cp data/nfl/sloan_revision_outputs/*.{csv,json,parquet} "$OUT/revision/"
+  fi
 done
 
+rm -rf data/nba; mkdir -p data/nba/data/results data/nba/data/parquet "$OUT/nba"
+for s in $NBA; do
+  echo "==> [$MODE, nba] $s"
+  "$PY" -u "scripts/nba/$s.py" > "$OUT/nba/$s.log" 2>&1 || { echo "   FAILED, see $OUT/nba/$s.log"; exit 1; }
+done
+cp data/nba/data/results/*.csv data/nba/data/parquet/*.parquet "$OUT/nba/"
+
 echo ""
+if [[ "$MODE" == "submitted" ]]; then
+  "$PY" scripts/build/check_abstract.py || true    # every abstract figure vs its reproduced value (a report)
+  echo ""
+fi
 "$PY" scripts/build/check_results.py "$MODE"

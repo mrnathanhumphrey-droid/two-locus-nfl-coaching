@@ -1,0 +1,2 @@
+test,n_events,pearson_r,p_one_sided,p_two_sided,ols_slope,ols_r2,direction_agreement,verdict
+NBA opp_3pt_rate portability,24,0.549786883476895,0.0026,0.0064,0.5560014518278905,0.30226561724323686,0.7083333333333334,PORTABLE - defensive perimeter scheme forecasts shift
