@@ -64,6 +64,7 @@ for W in 2024 2025; do
       "$PY" -u "scripts/revision/$s.py" > "$OUT/revision/$s.log" 2>&1 || { echo "   FAILED, see $OUT/revision/$s.log"; exit 1; }
     done
     cp data/nfl/sloan_revision_outputs/*.{csv,json,parquet} "$OUT/revision/"
+    cp data/nfl/sloan_revision_outputs/*.png figures/    # Figure 1 of the extended abstract
   fi
 done
 
