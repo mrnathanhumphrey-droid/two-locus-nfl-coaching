@@ -125,7 +125,7 @@ def main():
 
     if not args.skip_pfr:
         print("\n=== Pro Football Reference coaching corpus ===")
-        print("Running scripts/_fetch_coaching.py (1 req/sec polite throttle)...")
+        print("Running scripts/_fetch_coaching.py (4 s between requests)...")
         print("This takes ~10-15 minutes on first run; subsequent runs are cached.")
         import subprocess
         rc = subprocess.call([sys.executable, str(REPO / "scripts" / "_fetch_coaching.py")])
@@ -136,7 +136,7 @@ def main():
 
     print("\n=== DONE ===")
     print(f"Raw data at: {RAW}")
-    print(f"Next: run scripts/01_build_panels.py (state_residuals + RZ residuals + staff panel)")
+    print("These raw files are for provenance; the results reproduce from data/frozen (bash reproduce.sh).")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,3 @@
+test,n_matched,treated_mean,control_mean,ratio,p_perm,verdict
+mid_season_pass_rate,40,0.07038373554448811,0.057625018220447966,1.221409341255753,0.1594,ATTENUATED but directional
+offseason_plays,102,4.499380252790903,4.139507228596276,1.086936199001798,0.2088,ATTENUATED but directional

@@ -1,0 +1,16 @@
+metric,value
+hc_placebo_median_slope,0.2912002996142002
+hc_placebo_ci_lo,0.26712962142519775
+hc_placebo_ci_hi,0.3155553325073357
+hc_observed_slope,0.3688608474419484
+hc_observed_pct,100.0
+oc_placebo_median_slope,0.137168947685273
+oc_placebo_ci_lo,0.10188366651797134
+oc_placebo_ci_hi,0.1706434972412276
+oc_observed_slope,0.4597215723758592
+oc_observed_pct,100.0
+hc_drop_reid_slope,0.3081617652483572
+hc_drop_reid_r2,0.16484582707572448
+hc_drop_reid_r,0.4060121021296343
+hc_drop_reid_pearson_perm_p,0.0016
+hc_drop_reid_n,54.0

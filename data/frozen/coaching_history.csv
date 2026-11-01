@@ -1,0 +1,862 @@
+season,team,team_full_name,head_coach,head_coach_record,head_coach_games_split,offensive_coordinator,defensive_coordinator,special_teams_coordinator,assistant_head_coach,notes,source_url
+1999,atl,Atlanta Falcons,Dan Reeves,Dan Reeves (5-11-0),,George Sefcik,Rich Brooks,,,,https://www.pro-football-reference.com/teams/atl/1999.htm
+1999,buf,Buffalo Bills,Wade Phillips,Wade Phillips (11-5-0),,Joe Pendry,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/buf/1999.htm
+1999,car,Carolina Panthers,George Seifert,George Seifert (8-8-0),,Gil Haskell,John Marshall,,,,https://www.pro-football-reference.com/teams/car/1999.htm
+1999,chi,Chicago Bears,Dick Jauron,Dick Jauron (6-10-0),,Gary Crowton,Greg Blache,,,,https://www.pro-football-reference.com/teams/chi/1999.htm
+1999,cin,Cincinnati Bengals,Bruce Coslet,Bruce Coslet (4-12-0),,Ken Anderson,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/cin/1999.htm
+1999,cle,Cleveland Browns,Chris Palmer,Chris Palmer (2-14-0),,,Bob Slowik,,,,https://www.pro-football-reference.com/teams/cle/1999.htm
+1999,clt,Indianapolis Colts,Jim Mora,Jim Mora (13-3-0),,Tom Moore,Vic Fangio,,,,https://www.pro-football-reference.com/teams/clt/1999.htm
+1999,crd,Arizona Cardinals,Vince Tobin,Vince Tobin (6-10-0),,Marc Trestman,Dave McGinnis,,,,https://www.pro-football-reference.com/teams/crd/1999.htm
+1999,dal,Dallas Cowboys,Chan Gailey,Chan Gailey (8-8-0),,,Dave Campo,,,,https://www.pro-football-reference.com/teams/dal/1999.htm
+1999,den,Denver Broncos,Mike Shanahan,Mike Shanahan (6-10-0),,Gary Kubiak,Greg Robinson,,,,https://www.pro-football-reference.com/teams/den/1999.htm
+1999,det,Detroit Lions,Bobby Ross,Bobby Ross (8-8-0),,Sylvester Croom,Larry Peccatiello,,,,https://www.pro-football-reference.com/teams/det/1999.htm
+1999,gnb,Green Bay Packers,Ray Rhodes,Ray Rhodes (8-8-0),,Sherman Lewis,Emmitt Thomas,,,,https://www.pro-football-reference.com/teams/gnb/1999.htm
+1999,jax,Jacksonville Jaguars,Tom Coughlin,Tom Coughlin (14-2-0),,,Dom Capers,,,,https://www.pro-football-reference.com/teams/jax/1999.htm
+1999,kan,Kansas City Chiefs,Gunther Cunningham,Gunther Cunningham (9-7-0),,Jimmy Raye,Kurt Schottenheimer,,,,https://www.pro-football-reference.com/teams/kan/1999.htm
+1999,mia,Miami Dolphins,Jimmy Johnson,Jimmy Johnson (9-7-0),,Kippy Brown,"George Hill , Dave Wannstedt",,,,https://www.pro-football-reference.com/teams/mia/1999.htm
+1999,min,Minnesota Vikings,Dennis Green,Dennis Green (10-6-0),,Ray Sherman,Foge Fazio,,,,https://www.pro-football-reference.com/teams/min/1999.htm
+1999,nor,New Orleans Saints,Mike Ditka,Mike Ditka (3-13-0),,Danny Abramowicz,Zaven Yaralian,,,,https://www.pro-football-reference.com/teams/nor/1999.htm
+1999,nwe,New England Patriots,Pete Carroll,Pete Carroll (8-8-0),,Ernie Zampese,Steve Sidwell,,,,https://www.pro-football-reference.com/teams/nwe/1999.htm
+1999,nyg,New York Giants,Jim Fassel,Jim Fassel (7-9-0),,Jim Skipper,John Fox,,,,https://www.pro-football-reference.com/teams/nyg/1999.htm
+1999,nyj,New York Jets,Bill Parcells,Bill Parcells (8-8-0),,Charlie Weis,Bill Belichick,,,,https://www.pro-football-reference.com/teams/nyj/1999.htm
+1999,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (13-3-0),,Les Steckel,Gregg Williams,,,,https://www.pro-football-reference.com/teams/oti/1999.htm
+1999,phi,Philadelphia Eagles,Andy Reid,Andy Reid (5-11-0),,Rod Dowhower,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/1999.htm
+1999,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (6-10-0),,Kevin Gilbride,Jim Haslett,,,,https://www.pro-football-reference.com/teams/pit/1999.htm
+1999,rai,Las Vegas Raiders,Jon Gruden,Jon Gruden (8-8-0),,Bill Callahan,Willie Shaw,,,,https://www.pro-football-reference.com/teams/rai/1999.htm
+1999,ram,Los Angeles Rams,Dick Vermeil,Dick Vermeil (13-3-0),,Mike Martz,Peter Giunta,,,,https://www.pro-football-reference.com/teams/ram/1999.htm
+1999,rav,Baltimore Ravens,Brian Billick,Brian Billick (8-8-0),,Matt Cavanaugh,Marvin Lewis,,,,https://www.pro-football-reference.com/teams/rav/1999.htm
+1999,sdg,Los Angeles Chargers,Mike Riley,Mike Riley (8-8-0),,Geep Chryst,Joe Pascale,,,,https://www.pro-football-reference.com/teams/sdg/1999.htm
+1999,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (9-7-0),,Mike Sherman,Jim Lind,,,,https://www.pro-football-reference.com/teams/sea/1999.htm
+1999,sfo,San Francisco 49ers,Steve Mariucci,Steve Mariucci (4-12-0),,Marty Mornhinweg,Jim Mora,,,,https://www.pro-football-reference.com/teams/sfo/1999.htm
+1999,tam,Tampa Bay Buccaneers,Tony Dungy,Tony Dungy (11-5-0),,Mike Shula,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/1999.htm
+1999,was,Washington Commanders,Norv Turner,Norv Turner (10-6-0),,,Mike Nolan,,,,https://www.pro-football-reference.com/teams/was/1999.htm
+2000,atl,Atlanta Falcons,Dan Reeves,Dan Reeves (4-12-0),,George Sefcik,Rich Brooks,,,,https://www.pro-football-reference.com/teams/atl/2000.htm
+2000,buf,Buffalo Bills,Wade Phillips,Wade Phillips (8-8-0),,Joe Pendry,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/buf/2000.htm
+2000,car,Carolina Panthers,George Seifert,George Seifert (7-9-0),,"Bill Musgrave , Richard Williamson",John Marshall,,,,https://www.pro-football-reference.com/teams/car/2000.htm
+2000,chi,Chicago Bears,Dick Jauron,Dick Jauron (5-11-0),,Gary Crowton,Greg Blache,,,,https://www.pro-football-reference.com/teams/chi/2000.htm
+2000,cin,Cincinnati Bengals,"Bruce Coslet, Dick LeBeau",Bruce Coslet (0-3-0) and Dick LeBeau (4-9-0),Bruce Coslet (0-3-0) and Dick LeBeau (4-9-0),Ken Anderson,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/cin/2000.htm
+2000,cle,Cleveland Browns,Chris Palmer,Chris Palmer (3-13-0),,Pete Carmichael,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/cle/2000.htm
+2000,clt,Indianapolis Colts,Jim Mora,Jim Mora (10-6-0),,Tom Moore,Vic Fangio,,,,https://www.pro-football-reference.com/teams/clt/2000.htm
+2000,crd,Arizona Cardinals,"Dave McGinnis, Vince Tobin",Dave McGinnis (1-8-0) and Vince Tobin (2-5-0),Dave McGinnis (1-8-0) and Vince Tobin (2-5-0),Marc Trestman,"Larry Marmie , Dave McGinnis",,,,https://www.pro-football-reference.com/teams/crd/2000.htm
+2000,dal,Dallas Cowboys,Dave Campo,Dave Campo (5-11-0),,Jack Reilly,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2000.htm
+2000,den,Denver Broncos,Mike Shanahan,Mike Shanahan (11-5-0),,Gary Kubiak,Greg Robinson,,,,https://www.pro-football-reference.com/teams/den/2000.htm
+2000,det,Detroit Lions,"Gary Moeller, Bobby Ross",Gary Moeller (4-3-0) and Bobby Ross (5-4-0),Gary Moeller (4-3-0) and Bobby Ross (5-4-0),Sylvester Croom,Larry Peccatiello,,,,https://www.pro-football-reference.com/teams/det/2000.htm
+2000,gnb,Green Bay Packers,Mike Sherman,Mike Sherman (9-7-0),,Tom Rossley,Ed Donatell,,,,https://www.pro-football-reference.com/teams/gnb/2000.htm
+2000,jax,Jacksonville Jaguars,Tom Coughlin,Tom Coughlin (7-9-0),,,Dom Capers,,,,https://www.pro-football-reference.com/teams/jax/2000.htm
+2000,kan,Kansas City Chiefs,Gunther Cunningham,Gunther Cunningham (7-9-0),,Jimmy Raye,Kurt Schottenheimer,,,,https://www.pro-football-reference.com/teams/kan/2000.htm
+2000,mia,Miami Dolphins,Dave Wannstedt,Dave Wannstedt (11-5-0),,Chan Gailey,Jim Bates,,,,https://www.pro-football-reference.com/teams/mia/2000.htm
+2000,min,Minnesota Vikings,Dennis Green,Dennis Green (11-5-0),,Sherman Lewis,Emmitt Thomas,,,,https://www.pro-football-reference.com/teams/min/2000.htm
+2000,nor,New Orleans Saints,Jim Haslett,Jim Haslett (10-6-0),,Mike McCarthy,Ron Zook,,,,https://www.pro-football-reference.com/teams/nor/2000.htm
+2000,nwe,New England Patriots,Bill Belichick,Bill Belichick (5-11-0),,Charlie Weis,,,,,https://www.pro-football-reference.com/teams/nwe/2000.htm
+2000,nyg,New York Giants,Jim Fassel,Jim Fassel (12-4-0),,Sean Payton,John Fox,,,,https://www.pro-football-reference.com/teams/nyg/2000.htm
+2000,nyj,New York Jets,Al Groh,Al Groh (9-7-0),,Dan Henning,Mike Nolan,,,,https://www.pro-football-reference.com/teams/nyj/2000.htm
+2000,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (13-3-0),,Mike Heimerdinger,Gregg Williams,,,,https://www.pro-football-reference.com/teams/oti/2000.htm
+2000,phi,Philadelphia Eagles,Andy Reid,Andy Reid (11-5-0),,Rod Dowhower,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2000.htm
+2000,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (9-7-0),,Kevin Gilbride,Tim Lewis,,,,https://www.pro-football-reference.com/teams/pit/2000.htm
+2000,rai,Las Vegas Raiders,Jon Gruden,Jon Gruden (12-4-0),,Bill Callahan,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/rai/2000.htm
+2000,ram,Los Angeles Rams,Mike Martz,Mike Martz (10-6-0),,Bobby Jackson,Peter Giunta,,,,https://www.pro-football-reference.com/teams/ram/2000.htm
+2000,rav,Baltimore Ravens,Brian Billick,Brian Billick (12-4-0),,Matt Cavanaugh,Marvin Lewis,,,,https://www.pro-football-reference.com/teams/rav/2000.htm
+2000,sdg,Los Angeles Chargers,Mike Riley,Mike Riley (1-15-0),,Geep Chryst,Joe Pascale,,,,https://www.pro-football-reference.com/teams/sdg/2000.htm
+2000,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (6-10-0),,Gil Haskell,Steve Sidwell,,,,https://www.pro-football-reference.com/teams/sea/2000.htm
+2000,sfo,San Francisco 49ers,Steve Mariucci,Steve Mariucci (6-10-0),,Marty Mornhinweg,Jim Mora,,,,https://www.pro-football-reference.com/teams/sfo/2000.htm
+2000,tam,Tampa Bay Buccaneers,Tony Dungy,Tony Dungy (10-6-0),,Les Steckel,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2000.htm
+2000,was,Washington Commanders,"Terry Robiskie, Norv Turner",Terry Robiskie (1-2-0) and Norv Turner (7-6-0),Terry Robiskie (1-2-0) and Norv Turner (7-6-0),,Ray Rhodes,,,,https://www.pro-football-reference.com/teams/was/2000.htm
+2001,atl,Atlanta Falcons,Dan Reeves,Dan Reeves (7-9-0),,George Sefcik,Don Blackmon,,,,https://www.pro-football-reference.com/teams/atl/2001.htm
+2001,buf,Buffalo Bills,Gregg Williams,Gregg Williams (3-13-0),,Mike Sheppard,Jerry Gray,,,,https://www.pro-football-reference.com/teams/buf/2001.htm
+2001,car,Carolina Panthers,George Seifert,George Seifert (1-15-0),,Richard Williamson,John Marshall,,,,https://www.pro-football-reference.com/teams/car/2001.htm
+2001,chi,Chicago Bears,Dick Jauron,Dick Jauron (13-3-0),,John Shoop,Greg Blache,,,,https://www.pro-football-reference.com/teams/chi/2001.htm
+2001,cin,Cincinnati Bengals,Dick LeBeau,Dick LeBeau (6-10-0),,Bob Bratkowski,Mark Duffner,,,,https://www.pro-football-reference.com/teams/cin/2001.htm
+2001,cle,Cleveland Browns,Butch Davis,Butch Davis (7-9-0),,Bruce Arians,Foge Fazio,,,,https://www.pro-football-reference.com/teams/cle/2001.htm
+2001,clt,Indianapolis Colts,Jim Mora,Jim Mora (6-10-0),,Tom Moore,Vic Fangio,,,,https://www.pro-football-reference.com/teams/clt/2001.htm
+2001,crd,Arizona Cardinals,Dave McGinnis,Dave McGinnis (7-9-0),,Rich Olson,Larry Marmie,,,,https://www.pro-football-reference.com/teams/crd/2001.htm
+2001,dal,Dallas Cowboys,Dave Campo,Dave Campo (5-11-0),,Jack Reilly,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2001.htm
+2001,den,Denver Broncos,Mike Shanahan,Mike Shanahan (8-8-0),,Gary Kubiak,Ray Rhodes,,,,https://www.pro-football-reference.com/teams/den/2001.htm
+2001,det,Detroit Lions,Marty Mornhinweg,Marty Mornhinweg (2-14-0),,Maurice Carthon,Vince Tobin,,,,https://www.pro-football-reference.com/teams/det/2001.htm
+2001,gnb,Green Bay Packers,Mike Sherman,Mike Sherman (12-4-0),,Tom Rossley,Ed Donatell,,,,https://www.pro-football-reference.com/teams/gnb/2001.htm
+2001,jax,Jacksonville Jaguars,Tom Coughlin,Tom Coughlin (6-10-0),,Bobby Petrino,Gary Moeller,,,,https://www.pro-football-reference.com/teams/jax/2001.htm
+2001,kan,Kansas City Chiefs,Dick Vermeil,Dick Vermeil (6-10-0),,Al Saunders,Greg Robinson,,,,https://www.pro-football-reference.com/teams/kan/2001.htm
+2001,mia,Miami Dolphins,Dave Wannstedt,Dave Wannstedt (11-5-0),,Chan Gailey,Jim Bates,,,,https://www.pro-football-reference.com/teams/mia/2001.htm
+2001,min,Minnesota Vikings,"Mike Tice, Dennis Green",Mike Tice (0-1-0) and Dennis Green (5-10-0),Mike Tice (0-1-0) and Dennis Green (5-10-0),Sherman Lewis,Emmitt Thomas,,,,https://www.pro-football-reference.com/teams/min/2001.htm
+2001,nor,New Orleans Saints,Jim Haslett,Jim Haslett (7-9-0),,Mike McCarthy,Ron Zook,,,,https://www.pro-football-reference.com/teams/nor/2001.htm
+2001,nwe,New England Patriots,Bill Belichick,Bill Belichick (11-5-0),,Charlie Weis,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/nwe/2001.htm
+2001,nyg,New York Giants,Jim Fassel,Jim Fassel (7-9-0),,Sean Payton,John Fox,,,,https://www.pro-football-reference.com/teams/nyg/2001.htm
+2001,nyj,New York Jets,Herm Edwards,Herm Edwards (10-6-0),,Paul Hackett,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/nyj/2001.htm
+2001,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (7-9-0),,Mike Heimerdinger,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2001.htm
+2001,phi,Philadelphia Eagles,Andy Reid,Andy Reid (11-5-0),,Rod Dowhower,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2001.htm
+2001,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (13-3-0),,Mike Mularkey,Tim Lewis,,,,https://www.pro-football-reference.com/teams/pit/2001.htm
+2001,rai,Las Vegas Raiders,Jon Gruden,Jon Gruden (10-6-0),,Bill Callahan,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/rai/2001.htm
+2001,ram,Los Angeles Rams,Mike Martz,Mike Martz (14-2-0),,Bobby Jackson,Lovie Smith,,,,https://www.pro-football-reference.com/teams/ram/2001.htm
+2001,rav,Baltimore Ravens,Brian Billick,Brian Billick (10-6-0),,Matt Cavanaugh,Marvin Lewis,,,,https://www.pro-football-reference.com/teams/rav/2001.htm
+2001,sdg,Los Angeles Chargers,Mike Riley,Mike Riley (5-11-0),,Norv Turner,"Mark Banker , Joe Pascale , Jim Vechiarella",,,,https://www.pro-football-reference.com/teams/sdg/2001.htm
+2001,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (9-7-0),,Gil Haskell,Steve Sidwell,,,,https://www.pro-football-reference.com/teams/sea/2001.htm
+2001,sfo,San Francisco 49ers,Steve Mariucci,Steve Mariucci (12-4-0),,Greg Knapp,Jim Mora,,,,https://www.pro-football-reference.com/teams/sfo/2001.htm
+2001,tam,Tampa Bay Buccaneers,Tony Dungy,Tony Dungy (9-7-0),,Clyde Christensen,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2001.htm
+2001,was,Washington Commanders,Marty Schottenheimer,Marty Schottenheimer (8-8-0),,Jimmy Raye,Kurt Schottenheimer,,,,https://www.pro-football-reference.com/teams/was/2001.htm
+2002,atl,Atlanta Falcons,Dan Reeves,Dan Reeves (9-6-1),,,Wade Phillips,,,,https://www.pro-football-reference.com/teams/atl/2002.htm
+2002,buf,Buffalo Bills,Gregg Williams,Gregg Williams (8-8-0),,Kevin Gilbride,Jerry Gray,,,,https://www.pro-football-reference.com/teams/buf/2002.htm
+2002,car,Carolina Panthers,John Fox,John Fox (7-9-0),,Dan Henning,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/car/2002.htm
+2002,chi,Chicago Bears,Dick Jauron,Dick Jauron (4-12-0),,John Shoop,Greg Blache,,,,https://www.pro-football-reference.com/teams/chi/2002.htm
+2002,cin,Cincinnati Bengals,Dick LeBeau,Dick LeBeau (2-14-0),,Bob Bratkowski,Mark Duffner,,,,https://www.pro-football-reference.com/teams/cin/2002.htm
+2002,cle,Cleveland Browns,Butch Davis,Butch Davis (9-7-0),,Bruce Arians,Foge Fazio,,,,https://www.pro-football-reference.com/teams/cle/2002.htm
+2002,clt,Indianapolis Colts,Tony Dungy,Tony Dungy (10-6-0),,Tom Moore,Ron Meeks,,,,https://www.pro-football-reference.com/teams/clt/2002.htm
+2002,crd,Arizona Cardinals,Dave McGinnis,Dave McGinnis (5-11-0),,Rich Olson,Larry Marmie,,,,https://www.pro-football-reference.com/teams/crd/2002.htm
+2002,dal,Dallas Cowboys,Dave Campo,Dave Campo (5-11-0),,Bruce Coslet,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2002.htm
+2002,den,Denver Broncos,Mike Shanahan,Mike Shanahan (9-7-0),,Gary Kubiak,Ray Rhodes,,,,https://www.pro-football-reference.com/teams/den/2002.htm
+2002,det,Detroit Lions,Marty Mornhinweg,Marty Mornhinweg (3-13-0),,Maurice Carthon,Kurt Schottenheimer,,,,https://www.pro-football-reference.com/teams/det/2002.htm
+2002,gnb,Green Bay Packers,Mike Sherman,Mike Sherman (12-4-0),,Tom Rossley,Ed Donatell,,,,https://www.pro-football-reference.com/teams/gnb/2002.htm
+2002,htx,Houston Texans,Dom Capers,Dom Capers (4-12-0),,Chris Palmer,Vic Fangio,,,,https://www.pro-football-reference.com/teams/htx/2002.htm
+2002,jax,Jacksonville Jaguars,Tom Coughlin,Tom Coughlin (6-10-0),,,John Pease,,,,https://www.pro-football-reference.com/teams/jax/2002.htm
+2002,kan,Kansas City Chiefs,Dick Vermeil,Dick Vermeil (8-8-0),,Al Saunders,Greg Robinson,,,,https://www.pro-football-reference.com/teams/kan/2002.htm
+2002,mia,Miami Dolphins,Dave Wannstedt,Dave Wannstedt (9-7-0),,Norv Turner,Jim Bates,,,,https://www.pro-football-reference.com/teams/mia/2002.htm
+2002,min,Minnesota Vikings,Mike Tice,Mike Tice (6-10-0),,Scott Linehan,Willie Shaw,,,,https://www.pro-football-reference.com/teams/min/2002.htm
+2002,nor,New Orleans Saints,Jim Haslett,Jim Haslett (9-7-0),,Mike McCarthy,Rick Venturi,,,,https://www.pro-football-reference.com/teams/nor/2002.htm
+2002,nwe,New England Patriots,Bill Belichick,Bill Belichick (9-7-0),,Charlie Weis,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/nwe/2002.htm
+2002,nyg,New York Giants,Jim Fassel,Jim Fassel (10-6-0),,Sean Payton,Johnny Lynn,,,,https://www.pro-football-reference.com/teams/nyg/2002.htm
+2002,nyj,New York Jets,Herm Edwards,Herm Edwards (9-7-0),,Paul Hackett,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/nyj/2002.htm
+2002,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (11-5-0),,Mike Heimerdinger,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2002.htm
+2002,phi,Philadelphia Eagles,Andy Reid,Andy Reid (12-4-0),,Brad Childress,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2002.htm
+2002,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (10-5-1),,Mike Mularkey,Tim Lewis,,,,https://www.pro-football-reference.com/teams/pit/2002.htm
+2002,rai,Las Vegas Raiders,Bill Callahan,Bill Callahan (11-5-0),,Marc Trestman,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/rai/2002.htm
+2002,ram,Los Angeles Rams,Mike Martz,Mike Martz (7-9-0),,Bobby Jackson,Lovie Smith,,,,https://www.pro-football-reference.com/teams/ram/2002.htm
+2002,rav,Baltimore Ravens,Brian Billick,Brian Billick (7-9-0),,Matt Cavanaugh,Mike Nolan,,,,https://www.pro-football-reference.com/teams/rav/2002.htm
+2002,sdg,Los Angeles Chargers,Marty Schottenheimer,Marty Schottenheimer (8-8-0),,Cam Cameron,Dale Lindsey,,,,https://www.pro-football-reference.com/teams/sdg/2002.htm
+2002,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (7-9-0),,Gil Haskell,Steve Sidwell,,,,https://www.pro-football-reference.com/teams/sea/2002.htm
+2002,sfo,San Francisco 49ers,Steve Mariucci,Steve Mariucci (10-6-0),,Greg Knapp,Jim Mora,,,,https://www.pro-football-reference.com/teams/sfo/2002.htm
+2002,tam,Tampa Bay Buccaneers,Jon Gruden,Jon Gruden (12-4-0),,Bill Muir,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2002.htm
+2002,was,Washington Commanders,Steve Spurrier,Steve Spurrier (7-9-0),,,Marvin Lewis,,,,https://www.pro-football-reference.com/teams/was/2002.htm
+2003,atl,Atlanta Falcons,"Wade Phillips, Dan Reeves",Wade Phillips (2-1-0) and Dan Reeves (3-10-0),Wade Phillips (2-1-0) and Dan Reeves (3-10-0),Pete Mangurian,Wade Phillips,,,,https://www.pro-football-reference.com/teams/atl/2003.htm
+2003,buf,Buffalo Bills,Gregg Williams,Gregg Williams (6-10-0),,Kevin Gilbride,Jerry Gray,,,,https://www.pro-football-reference.com/teams/buf/2003.htm
+2003,car,Carolina Panthers,John Fox,John Fox (11-5-0),,Dan Henning,Mike Trgovac,,,,https://www.pro-football-reference.com/teams/car/2003.htm
+2003,chi,Chicago Bears,Dick Jauron,Dick Jauron (7-9-0),,John Shoop,Greg Blache,,,,https://www.pro-football-reference.com/teams/chi/2003.htm
+2003,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (8-8-0),,Bob Bratkowski,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/cin/2003.htm
+2003,cle,Cleveland Browns,Butch Davis,Butch Davis (5-11-0),,Bruce Arians,Dave Campo,,,,https://www.pro-football-reference.com/teams/cle/2003.htm
+2003,clt,Indianapolis Colts,Tony Dungy,Tony Dungy (12-4-0),,Tom Moore,Ron Meeks,,,,https://www.pro-football-reference.com/teams/clt/2003.htm
+2003,crd,Arizona Cardinals,Dave McGinnis,Dave McGinnis (4-12-0),,Jerry Sullivan,Larry Marmie,,,,https://www.pro-football-reference.com/teams/crd/2003.htm
+2003,dal,Dallas Cowboys,Bill Parcells,Bill Parcells (10-6-0),,Maurice Carthon,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2003.htm
+2003,den,Denver Broncos,Mike Shanahan,Mike Shanahan (10-6-0),,Gary Kubiak,Larry Coyer,,,,https://www.pro-football-reference.com/teams/den/2003.htm
+2003,det,Detroit Lions,Steve Mariucci,Steve Mariucci (5-11-0),,Sherman Lewis,Kurt Schottenheimer,,,,https://www.pro-football-reference.com/teams/det/2003.htm
+2003,gnb,Green Bay Packers,Mike Sherman,Mike Sherman (10-6-0),,Tom Rossley,Ed Donatell,,,,https://www.pro-football-reference.com/teams/gnb/2003.htm
+2003,htx,Houston Texans,Dom Capers,Dom Capers (5-11-0),,Chris Palmer,Vic Fangio,,,,https://www.pro-football-reference.com/teams/htx/2003.htm
+2003,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (5-11-0),,Bill Musgrave,Mike Smith,,,,https://www.pro-football-reference.com/teams/jax/2003.htm
+2003,kan,Kansas City Chiefs,Dick Vermeil,Dick Vermeil (13-3-0),,Al Saunders,Greg Robinson,,,,https://www.pro-football-reference.com/teams/kan/2003.htm
+2003,mia,Miami Dolphins,Dave Wannstedt,Dave Wannstedt (10-6-0),,Norv Turner,Jim Bates,,,,https://www.pro-football-reference.com/teams/mia/2003.htm
+2003,min,Minnesota Vikings,Mike Tice,Mike Tice (9-7-0),,Scott Linehan,George O'Leary,,,,https://www.pro-football-reference.com/teams/min/2003.htm
+2003,nor,New Orleans Saints,Jim Haslett,Jim Haslett (8-8-0),,Mike McCarthy,Rick Venturi,,,,https://www.pro-football-reference.com/teams/nor/2003.htm
+2003,nwe,New England Patriots,Bill Belichick,Bill Belichick (14-2-0),,Charlie Weis,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/nwe/2003.htm
+2003,nyg,New York Giants,Jim Fassel,Jim Fassel (4-12-0),,,Johnny Lynn,,,,https://www.pro-football-reference.com/teams/nyg/2003.htm
+2003,nyj,New York Jets,Herm Edwards,Herm Edwards (6-10-0),,Paul Hackett,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/nyj/2003.htm
+2003,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (12-4-0),,Mike Heimerdinger,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2003.htm
+2003,phi,Philadelphia Eagles,Andy Reid,Andy Reid (12-4-0),,Brad Childress,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2003.htm
+2003,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (6-10-0),,Mike Mularkey,Tim Lewis,,,,https://www.pro-football-reference.com/teams/pit/2003.htm
+2003,rai,Las Vegas Raiders,Bill Callahan,Bill Callahan (4-12-0),,Marc Trestman,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/rai/2003.htm
+2003,ram,Los Angeles Rams,Mike Martz,Mike Martz (12-4-0),,Steve Fairchild,Lovie Smith,,,,https://www.pro-football-reference.com/teams/ram/2003.htm
+2003,rav,Baltimore Ravens,Brian Billick,Brian Billick (10-6-0),,Matt Cavanaugh,Mike Nolan,,,,https://www.pro-football-reference.com/teams/rav/2003.htm
+2003,sdg,Los Angeles Chargers,Marty Schottenheimer,Marty Schottenheimer (4-12-0),,Cam Cameron,Dale Lindsey,,,,https://www.pro-football-reference.com/teams/sdg/2003.htm
+2003,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (10-6-0),,Gil Haskell,Ray Rhodes,,,,https://www.pro-football-reference.com/teams/sea/2003.htm
+2003,sfo,San Francisco 49ers,Dennis Erickson,Dennis Erickson (7-9-0),,Greg Knapp,Jim Mora,,,,https://www.pro-football-reference.com/teams/sfo/2003.htm
+2003,tam,Tampa Bay Buccaneers,Jon Gruden,Jon Gruden (7-9-0),,Bill Muir,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2003.htm
+2003,was,Washington Commanders,Steve Spurrier,Steve Spurrier (5-11-0),,Hue Jackson,George Edwards,,,,https://www.pro-football-reference.com/teams/was/2003.htm
+2004,atl,Atlanta Falcons,Jim Mora,Jim Mora (11-5-0),,Greg Knapp,Ed Donatell,,,,https://www.pro-football-reference.com/teams/atl/2004.htm
+2004,buf,Buffalo Bills,Mike Mularkey,Mike Mularkey (9-7-0),,Tom Clements,Jerry Gray,,,,https://www.pro-football-reference.com/teams/buf/2004.htm
+2004,car,Carolina Panthers,John Fox,John Fox (7-9-0),,Dan Henning,Mike Trgovac,,,,https://www.pro-football-reference.com/teams/car/2004.htm
+2004,chi,Chicago Bears,Lovie Smith,Lovie Smith (5-11-0),,Terry Shea,Ron Rivera,,,,https://www.pro-football-reference.com/teams/chi/2004.htm
+2004,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (8-8-0),,Bob Bratkowski,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/cin/2004.htm
+2004,cle,Cleveland Browns,"Terry Robiskie, Butch Davis",Terry Robiskie (1-4-0) and Butch Davis (3-8-0),Terry Robiskie (1-4-0) and Butch Davis (3-8-0),"Rob Chudzinski , Terry Robiskie",Dave Campo,,,,https://www.pro-football-reference.com/teams/cle/2004.htm
+2004,clt,Indianapolis Colts,Tony Dungy,Tony Dungy (12-4-0),,Tom Moore,Ron Meeks,,,,https://www.pro-football-reference.com/teams/clt/2004.htm
+2004,crd,Arizona Cardinals,Dennis Green,Dennis Green (6-10-0),,Alex Wood,Clancy Pendergast,,,,https://www.pro-football-reference.com/teams/crd/2004.htm
+2004,dal,Dallas Cowboys,Bill Parcells,Bill Parcells (6-10-0),,Maurice Carthon,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2004.htm
+2004,den,Denver Broncos,Mike Shanahan,Mike Shanahan (10-6-0),,Gary Kubiak,Larry Coyer,,,,https://www.pro-football-reference.com/teams/den/2004.htm
+2004,det,Detroit Lions,Steve Mariucci,Steve Mariucci (6-10-0),,Sherman Lewis,Dick Jauron,,,,https://www.pro-football-reference.com/teams/det/2004.htm
+2004,gnb,Green Bay Packers,Mike Sherman,Mike Sherman (10-6-0),,Tom Rossley,Bob Slowik,,,,https://www.pro-football-reference.com/teams/gnb/2004.htm
+2004,htx,Houston Texans,Dom Capers,Dom Capers (7-9-0),,Chris Palmer,Vic Fangio,,,,https://www.pro-football-reference.com/teams/htx/2004.htm
+2004,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (9-7-0),,Bill Musgrave,Mike Smith,,,,https://www.pro-football-reference.com/teams/jax/2004.htm
+2004,kan,Kansas City Chiefs,Dick Vermeil,Dick Vermeil (7-9-0),,Al Saunders,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/kan/2004.htm
+2004,mia,Miami Dolphins,"Dave Wannstedt, Jim Bates",Dave Wannstedt (1-8-0) and Jim Bates (3-4-0),Dave Wannstedt (1-8-0) and Jim Bates (3-4-0),Chris Foerster,Jim Bates,,,,https://www.pro-football-reference.com/teams/mia/2004.htm
+2004,min,Minnesota Vikings,Mike Tice,Mike Tice (8-8-0),,Scott Linehan,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/min/2004.htm
+2004,nor,New Orleans Saints,Jim Haslett,Jim Haslett (8-8-0),,Mike McCarthy,Rick Venturi,,,,https://www.pro-football-reference.com/teams/nor/2004.htm
+2004,nwe,New England Patriots,Bill Belichick,Bill Belichick (14-2-0),,Charlie Weis,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/nwe/2004.htm
+2004,nyg,New York Giants,Tom Coughlin,Tom Coughlin (6-10-0),,John Hufnagel,Tim Lewis,,,,https://www.pro-football-reference.com/teams/nyg/2004.htm
+2004,nyj,New York Jets,Herm Edwards,Herm Edwards (10-6-0),,Paul Hackett,Donnie Henderson,,,,https://www.pro-football-reference.com/teams/nyj/2004.htm
+2004,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (5-11-0),,Mike Heimerdinger,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2004.htm
+2004,phi,Philadelphia Eagles,Andy Reid,Andy Reid (13-3-0),,Brad Childress,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2004.htm
+2004,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (15-1-0),,Ken Whisenhunt,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2004.htm
+2004,rai,Las Vegas Raiders,Norv Turner,Norv Turner (5-11-0),,Jimmy Raye,Rob Ryan,,,,https://www.pro-football-reference.com/teams/rai/2004.htm
+2004,ram,Los Angeles Rams,Mike Martz,Mike Martz (8-8-0),,Steve Fairchild,Larry Marmie,,,,https://www.pro-football-reference.com/teams/ram/2004.htm
+2004,rav,Baltimore Ravens,Brian Billick,Brian Billick (9-7-0),,Matt Cavanaugh,Mike Nolan,,,,https://www.pro-football-reference.com/teams/rav/2004.htm
+2004,sdg,Los Angeles Chargers,Marty Schottenheimer,Marty Schottenheimer (12-4-0),,Cam Cameron,Wade Phillips,,,,https://www.pro-football-reference.com/teams/sdg/2004.htm
+2004,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (9-7-0),,Gil Haskell,Ray Rhodes,,,,https://www.pro-football-reference.com/teams/sea/2004.htm
+2004,sfo,San Francisco 49ers,Dennis Erickson,Dennis Erickson (2-14-0),,Ted Tollner,Willy Robinson,,,,https://www.pro-football-reference.com/teams/sfo/2004.htm
+2004,tam,Tampa Bay Buccaneers,Jon Gruden,Jon Gruden (5-11-0),,Bill Muir,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2004.htm
+2004,was,Washington Commanders,Joe Gibbs,Joe Gibbs (6-10-0),,Don Breaux,Gregg Williams,,,,https://www.pro-football-reference.com/teams/was/2004.htm
+2005,atl,Atlanta Falcons,Jim Mora,Jim Mora (8-8-0),,Greg Knapp,Ed Donatell,,,,https://www.pro-football-reference.com/teams/atl/2005.htm
+2005,buf,Buffalo Bills,Mike Mularkey,Mike Mularkey (5-11-0),,Tom Clements,Jerry Gray,,,,https://www.pro-football-reference.com/teams/buf/2005.htm
+2005,car,Carolina Panthers,John Fox,John Fox (11-5-0),,Dan Henning,Mike Trgovac,,,,https://www.pro-football-reference.com/teams/car/2005.htm
+2005,chi,Chicago Bears,Lovie Smith,Lovie Smith (11-5-0),,Ron Turner,Ron Rivera,,,,https://www.pro-football-reference.com/teams/chi/2005.htm
+2005,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (11-5-0),,Bob Bratkowski,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/cin/2005.htm
+2005,cle,Cleveland Browns,Romeo Crennel,Romeo Crennel (6-10-0),,Maurice Carthon,Todd Grantham,,,,https://www.pro-football-reference.com/teams/cle/2005.htm
+2005,clt,Indianapolis Colts,Tony Dungy,Tony Dungy (14-2-0),,Tom Moore,Ron Meeks,,,,https://www.pro-football-reference.com/teams/clt/2005.htm
+2005,crd,Arizona Cardinals,Dennis Green,Dennis Green (5-11-0),,Keith Rowen,Clancy Pendergast,,,,https://www.pro-football-reference.com/teams/crd/2005.htm
+2005,dal,Dallas Cowboys,Bill Parcells,Bill Parcells (9-7-0),,,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2005.htm
+2005,den,Denver Broncos,Mike Shanahan,Mike Shanahan (13-3-0),,Gary Kubiak,Larry Coyer,,,,https://www.pro-football-reference.com/teams/den/2005.htm
+2005,det,Detroit Lions,"Dick Jauron, Steve Mariucci",Dick Jauron (1-4-0) and Steve Mariucci (4-7-0),Dick Jauron (1-4-0) and Steve Mariucci (4-7-0),"Greg Olson , Ted Tollner",Dick Jauron,,,,https://www.pro-football-reference.com/teams/det/2005.htm
+2005,gnb,Green Bay Packers,Mike Sherman,Mike Sherman (4-12-0),,Tom Rossley,Jim Bates,,,,https://www.pro-football-reference.com/teams/gnb/2005.htm
+2005,htx,Houston Texans,Dom Capers,Dom Capers (2-14-0),,"Chris Palmer , Joe Pendry",Vic Fangio,,,,https://www.pro-football-reference.com/teams/htx/2005.htm
+2005,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (12-4-0),,Carl Smith,Mike Smith,,,,https://www.pro-football-reference.com/teams/jax/2005.htm
+2005,kan,Kansas City Chiefs,Dick Vermeil,Dick Vermeil (10-6-0),,Al Saunders,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/kan/2005.htm
+2005,mia,Miami Dolphins,Nick Saban,Nick Saban (9-7-0),,Scott Linehan,Richard Smith,,,,https://www.pro-football-reference.com/teams/mia/2005.htm
+2005,min,Minnesota Vikings,Mike Tice,Mike Tice (9-7-0),,Steve Loney,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/min/2005.htm
+2005,nor,New Orleans Saints,Jim Haslett,Jim Haslett (3-13-0),,Mike Sheppard,Rick Venturi,,,,https://www.pro-football-reference.com/teams/nor/2005.htm
+2005,nwe,New England Patriots,Bill Belichick,Bill Belichick (10-6-0),,,Eric Mangini,,,,https://www.pro-football-reference.com/teams/nwe/2005.htm
+2005,nyg,New York Giants,Tom Coughlin,Tom Coughlin (11-5-0),,John Hufnagel,Tim Lewis,,,,https://www.pro-football-reference.com/teams/nyg/2005.htm
+2005,nyj,New York Jets,Herm Edwards,Herm Edwards (4-12-0),,Mike Heimerdinger,Donnie Henderson,,,,https://www.pro-football-reference.com/teams/nyj/2005.htm
+2005,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (4-12-0),,Norm Chow,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2005.htm
+2005,phi,Philadelphia Eagles,Andy Reid,Andy Reid (6-10-0),,Brad Childress,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2005.htm
+2005,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (11-5-0),,Ken Whisenhunt,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2005.htm
+2005,rai,Las Vegas Raiders,Norv Turner,Norv Turner (4-12-0),,Jimmy Raye,Rob Ryan,,,,https://www.pro-football-reference.com/teams/rai/2005.htm
+2005,ram,Los Angeles Rams,"Mike Martz, Joe Vitt",Mike Martz (2-3-0) and Joe Vitt (4-7-0),Mike Martz (2-3-0) and Joe Vitt (4-7-0),Steve Fairchild,Larry Marmie,,,,https://www.pro-football-reference.com/teams/ram/2005.htm
+2005,rav,Baltimore Ravens,Brian Billick,Brian Billick (6-10-0),,Jim Fassel,Rex Ryan,,,,https://www.pro-football-reference.com/teams/rav/2005.htm
+2005,sdg,Los Angeles Chargers,Marty Schottenheimer,Marty Schottenheimer (9-7-0),,Cam Cameron,Wade Phillips,,,,https://www.pro-football-reference.com/teams/sdg/2005.htm
+2005,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (13-3-0),,Gil Haskell,"John Marshall , Ray Rhodes",,,,https://www.pro-football-reference.com/teams/sea/2005.htm
+2005,sfo,San Francisco 49ers,Mike Nolan,Mike Nolan (4-12-0),,Mike McCarthy,Bill Davis,,,,https://www.pro-football-reference.com/teams/sfo/2005.htm
+2005,tam,Tampa Bay Buccaneers,Jon Gruden,Jon Gruden (11-5-0),,Bill Muir,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2005.htm
+2005,was,Washington Commanders,Joe Gibbs,Joe Gibbs (10-6-0),,Don Breaux,Gregg Williams,,,,https://www.pro-football-reference.com/teams/was/2005.htm
+2006,atl,Atlanta Falcons,Jim Mora,Jim Mora (7-9-0),,Greg Knapp,Ed Donatell,,,,https://www.pro-football-reference.com/teams/atl/2006.htm
+2006,buf,Buffalo Bills,Dick Jauron,Dick Jauron (7-9-0),,Steve Fairchild,Perry Fewell,,,,https://www.pro-football-reference.com/teams/buf/2006.htm
+2006,car,Carolina Panthers,John Fox,John Fox (8-8-0),,Dan Henning,Mike Trgovac,,,,https://www.pro-football-reference.com/teams/car/2006.htm
+2006,chi,Chicago Bears,Lovie Smith,Lovie Smith (13-3-0),,Ron Turner,Ron Rivera,,,,https://www.pro-football-reference.com/teams/chi/2006.htm
+2006,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (8-8-0),,Bob Bratkowski,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/cin/2006.htm
+2006,cle,Cleveland Browns,Romeo Crennel,Romeo Crennel (4-12-0),,"Maurice Carthon , Jeff Davidson",Todd Grantham,,,,https://www.pro-football-reference.com/teams/cle/2006.htm
+2006,clt,Indianapolis Colts,Tony Dungy,Tony Dungy (12-4-0),,Tom Moore,Ron Meeks,,,,https://www.pro-football-reference.com/teams/clt/2006.htm
+2006,crd,Arizona Cardinals,Dennis Green,Dennis Green (5-11-0),,"Mike Kruczek , Keith Rowen",Clancy Pendergast,,,,https://www.pro-football-reference.com/teams/crd/2006.htm
+2006,dal,Dallas Cowboys,Bill Parcells,Bill Parcells (9-7-0),,,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2006.htm
+2006,den,Denver Broncos,Mike Shanahan,Mike Shanahan (9-7-0),,Rick Dennison,Larry Coyer,,,,https://www.pro-football-reference.com/teams/den/2006.htm
+2006,det,Detroit Lions,Rod Marinelli,Rod Marinelli (3-13-0),,Mike Martz,Donnie Henderson,,,,https://www.pro-football-reference.com/teams/det/2006.htm
+2006,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (8-8-0),,Jeff Jagodzinski,Bob Sanders,,,,https://www.pro-football-reference.com/teams/gnb/2006.htm
+2006,htx,Houston Texans,Gary Kubiak,Gary Kubiak (6-10-0),,Troy Calhoun,Richard Smith,,,,https://www.pro-football-reference.com/teams/htx/2006.htm
+2006,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (8-8-0),,Carl Smith,Mike Smith,,,,https://www.pro-football-reference.com/teams/jax/2006.htm
+2006,kan,Kansas City Chiefs,Herm Edwards,Herm Edwards (9-7-0),,Mike Solari,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/kan/2006.htm
+2006,mia,Miami Dolphins,Nick Saban,Nick Saban (6-10-0),,Mike Mularkey,Dom Capers,,,,https://www.pro-football-reference.com/teams/mia/2006.htm
+2006,min,Minnesota Vikings,Brad Childress,Brad Childress (6-10-0),,Darrell Bevell,Mike Tomlin,,,,https://www.pro-football-reference.com/teams/min/2006.htm
+2006,nor,New Orleans Saints,Sean Payton,Sean Payton (10-6-0),,Doug Marrone,Gary Gibbs,,,,https://www.pro-football-reference.com/teams/nor/2006.htm
+2006,nwe,New England Patriots,Bill Belichick,Bill Belichick (12-4-0),,Josh McDaniels,Dean Pees,,,,https://www.pro-football-reference.com/teams/nwe/2006.htm
+2006,nyg,New York Giants,Tom Coughlin,Tom Coughlin (8-8-0),,John Hufnagel,Tim Lewis,,,,https://www.pro-football-reference.com/teams/nyg/2006.htm
+2006,nyj,New York Jets,Eric Mangini,Eric Mangini (10-6-0),,Brian Schottenheimer,Bob Sutton,,,,https://www.pro-football-reference.com/teams/nyj/2006.htm
+2006,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (8-8-0),,Norm Chow,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2006.htm
+2006,phi,Philadelphia Eagles,Andy Reid,Andy Reid (10-6-0),,Marty Mornhinweg,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2006.htm
+2006,pit,Pittsburgh Steelers,Bill Cowher,Bill Cowher (8-8-0),,Ken Whisenhunt,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2006.htm
+2006,rai,Las Vegas Raiders,Art Shell,Art Shell (2-14-0),,"John Shoop , Tom Walsh",Rob Ryan,,,,https://www.pro-football-reference.com/teams/rai/2006.htm
+2006,ram,Los Angeles Rams,Scott Linehan,Scott Linehan (8-8-0),,Greg Olson,Jim Haslett,,,,https://www.pro-football-reference.com/teams/ram/2006.htm
+2006,rav,Baltimore Ravens,Brian Billick,Brian Billick (13-3-0),,Jim Fassel,Rex Ryan,,,,https://www.pro-football-reference.com/teams/rav/2006.htm
+2006,sdg,Los Angeles Chargers,Marty Schottenheimer,Marty Schottenheimer (14-2-0),,Cam Cameron,Wade Phillips,,,,https://www.pro-football-reference.com/teams/sdg/2006.htm
+2006,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (9-7-0),,Gil Haskell,John Marshall,,,,https://www.pro-football-reference.com/teams/sea/2006.htm
+2006,sfo,San Francisco 49ers,Mike Nolan,Mike Nolan (7-9-0),,Norv Turner,Bill Davis,,,,https://www.pro-football-reference.com/teams/sfo/2006.htm
+2006,tam,Tampa Bay Buccaneers,Jon Gruden,Jon Gruden (4-12-0),,Bill Muir,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2006.htm
+2006,was,Washington Commanders,Joe Gibbs,Joe Gibbs (5-11-0),,"Don Breaux , Al Saunders",Gregg Williams,,,,https://www.pro-football-reference.com/teams/was/2006.htm
+2007,atl,Atlanta Falcons,"Emmitt Thomas, Bobby Petrino",Emmitt Thomas (1-2-0) and Bobby Petrino (3-10-0),Emmitt Thomas (1-2-0) and Bobby Petrino (3-10-0),Hue Jackson,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/atl/2007.htm
+2007,buf,Buffalo Bills,Dick Jauron,Dick Jauron (7-9-0),,Steve Fairchild,Perry Fewell,,,,https://www.pro-football-reference.com/teams/buf/2007.htm
+2007,car,Carolina Panthers,John Fox,John Fox (7-9-0),,Jeff Davidson,Mike Trgovac,,,,https://www.pro-football-reference.com/teams/car/2007.htm
+2007,chi,Chicago Bears,Lovie Smith,Lovie Smith (7-9-0),,Ron Turner,Bob Babich,,,,https://www.pro-football-reference.com/teams/chi/2007.htm
+2007,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (7-9-0),,Bob Bratkowski,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/cin/2007.htm
+2007,cle,Cleveland Browns,Romeo Crennel,Romeo Crennel (10-6-0),,Rob Chudzinski,Todd Grantham,,,,https://www.pro-football-reference.com/teams/cle/2007.htm
+2007,clt,Indianapolis Colts,Tony Dungy,Tony Dungy (13-3-0),,Tom Moore,Ron Meeks,,,,https://www.pro-football-reference.com/teams/clt/2007.htm
+2007,crd,Arizona Cardinals,Ken Whisenhunt,Ken Whisenhunt (8-8-0),,Todd Haley,Clancy Pendergast,,,,https://www.pro-football-reference.com/teams/crd/2007.htm
+2007,dal,Dallas Cowboys,Wade Phillips,Wade Phillips (13-3-0),,Jason Garrett,Brian Stewart,,,,https://www.pro-football-reference.com/teams/dal/2007.htm
+2007,den,Denver Broncos,Mike Shanahan,Mike Shanahan (7-9-0),,Rick Dennison,Bob Slowik,,,,https://www.pro-football-reference.com/teams/den/2007.htm
+2007,det,Detroit Lions,Rod Marinelli,Rod Marinelli (7-9-0),,Mike Martz,Joe Barry,,,,https://www.pro-football-reference.com/teams/det/2007.htm
+2007,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (13-3-0),,Joe Philbin,Bob Sanders,,,,https://www.pro-football-reference.com/teams/gnb/2007.htm
+2007,htx,Houston Texans,Gary Kubiak,Gary Kubiak (8-8-0),,Mike Sherman,Richard Smith,,,,https://www.pro-football-reference.com/teams/htx/2007.htm
+2007,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (11-5-0),,Dirk Koetter,Mike Smith,,,,https://www.pro-football-reference.com/teams/jax/2007.htm
+2007,kan,Kansas City Chiefs,Herm Edwards,Herm Edwards (4-12-0),,Mike Solari,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/kan/2007.htm
+2007,mia,Miami Dolphins,Cam Cameron,Cam Cameron (1-15-0),,,Dom Capers,,,,https://www.pro-football-reference.com/teams/mia/2007.htm
+2007,min,Minnesota Vikings,Brad Childress,Brad Childress (8-8-0),,Darrell Bevell,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/min/2007.htm
+2007,nor,New Orleans Saints,Sean Payton,Sean Payton (7-9-0),,Doug Marrone,Gary Gibbs,,,,https://www.pro-football-reference.com/teams/nor/2007.htm
+2007,nwe,New England Patriots,Bill Belichick,Bill Belichick (16-0-0),,Josh McDaniels,Dean Pees,,,,https://www.pro-football-reference.com/teams/nwe/2007.htm
+2007,nyg,New York Giants,Tom Coughlin,Tom Coughlin (10-6-0),,Kevin Gilbride,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/nyg/2007.htm
+2007,nyj,New York Jets,Eric Mangini,Eric Mangini (4-12-0),,Brian Schottenheimer,Bob Sutton,,,,https://www.pro-football-reference.com/teams/nyj/2007.htm
+2007,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (10-6-0),,Norm Chow,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2007.htm
+2007,phi,Philadelphia Eagles,Andy Reid,Andy Reid (8-8-0),,Marty Mornhinweg,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2007.htm
+2007,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (10-6-0),,Bruce Arians,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2007.htm
+2007,rai,Las Vegas Raiders,Lane Kiffin,Lane Kiffin (4-12-0),,Greg Knapp,Rob Ryan,,,,https://www.pro-football-reference.com/teams/rai/2007.htm
+2007,ram,Los Angeles Rams,Scott Linehan,Scott Linehan (3-13-0),,Greg Olson,Jim Haslett,,,,https://www.pro-football-reference.com/teams/ram/2007.htm
+2007,rav,Baltimore Ravens,Brian Billick,Brian Billick (5-11-0),,Rick Neuheisel,Rex Ryan,,,,https://www.pro-football-reference.com/teams/rav/2007.htm
+2007,sdg,Los Angeles Chargers,Norv Turner,Norv Turner (11-5-0),,Clarence Shelmon,Ted Cottrell,,,,https://www.pro-football-reference.com/teams/sdg/2007.htm
+2007,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (10-6-0),,Gil Haskell,John Marshall,,,,https://www.pro-football-reference.com/teams/sea/2007.htm
+2007,sfo,San Francisco 49ers,Mike Nolan,Mike Nolan (5-11-0),,Jim Hostler,Greg Manusky,,,,https://www.pro-football-reference.com/teams/sfo/2007.htm
+2007,tam,Tampa Bay Buccaneers,Jon Gruden,Jon Gruden (9-7-0),,Bill Muir,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2007.htm
+2007,was,Washington Commanders,Joe Gibbs,Joe Gibbs (9-7-0),,"Don Breaux , Al Saunders",Gregg Williams,,,,https://www.pro-football-reference.com/teams/was/2007.htm
+2008,atl,Atlanta Falcons,Mike Smith,Mike Smith (11-5-0),,Mike Mularkey,Brian VanGorder,,,,https://www.pro-football-reference.com/teams/atl/2008.htm
+2008,buf,Buffalo Bills,Dick Jauron,Dick Jauron (7-9-0),,Turk Schonert,Perry Fewell,,,,https://www.pro-football-reference.com/teams/buf/2008.htm
+2008,car,Carolina Panthers,John Fox,John Fox (12-4-0),,Jeff Davidson,Mike Trgovac,,,,https://www.pro-football-reference.com/teams/car/2008.htm
+2008,chi,Chicago Bears,Lovie Smith,Lovie Smith (9-7-0),,Ron Turner,Bob Babich,,,,https://www.pro-football-reference.com/teams/chi/2008.htm
+2008,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (4-11-1),,Bob Bratkowski,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/cin/2008.htm
+2008,cle,Cleveland Browns,Romeo Crennel,Romeo Crennel (4-12-0),,Rob Chudzinski,Mel Tucker,,,,https://www.pro-football-reference.com/teams/cle/2008.htm
+2008,clt,Indianapolis Colts,Tony Dungy,Tony Dungy (12-4-0),,Tom Moore,Ron Meeks,,,,https://www.pro-football-reference.com/teams/clt/2008.htm
+2008,crd,Arizona Cardinals,Ken Whisenhunt,Ken Whisenhunt (9-7-0),,Todd Haley,Clancy Pendergast,,,,https://www.pro-football-reference.com/teams/crd/2008.htm
+2008,dal,Dallas Cowboys,Wade Phillips,Wade Phillips (9-7-0),,Jason Garrett,Brian Stewart,,,,https://www.pro-football-reference.com/teams/dal/2008.htm
+2008,den,Denver Broncos,Mike Shanahan,Mike Shanahan (8-8-0),,Rick Dennison,Bob Slowik,,,,https://www.pro-football-reference.com/teams/den/2008.htm
+2008,det,Detroit Lions,Rod Marinelli,Rod Marinelli (0-16-0),,Jim Colletto,Joe Barry,,,,https://www.pro-football-reference.com/teams/det/2008.htm
+2008,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (6-10-0),,Joe Philbin,Bob Sanders,,,,https://www.pro-football-reference.com/teams/gnb/2008.htm
+2008,htx,Houston Texans,Gary Kubiak,Gary Kubiak (8-8-0),,Kyle Shanahan,Richard Smith,,,,https://www.pro-football-reference.com/teams/htx/2008.htm
+2008,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (5-11-0),,Dirk Koetter,Gregg Williams,,,,https://www.pro-football-reference.com/teams/jax/2008.htm
+2008,kan,Kansas City Chiefs,Herm Edwards,Herm Edwards (2-14-0),,Chan Gailey,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/kan/2008.htm
+2008,mia,Miami Dolphins,Tony Sparano,Tony Sparano (11-5-0),,Dan Henning,Paul Pasqualoni,,,,https://www.pro-football-reference.com/teams/mia/2008.htm
+2008,min,Minnesota Vikings,Brad Childress,Brad Childress (10-6-0),,Darrell Bevell,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/min/2008.htm
+2008,nor,New Orleans Saints,Sean Payton,Sean Payton (8-8-0),,Doug Marrone,Gary Gibbs,,,,https://www.pro-football-reference.com/teams/nor/2008.htm
+2008,nwe,New England Patriots,Bill Belichick,Bill Belichick (11-5-0),,Josh McDaniels,Dean Pees,,,,https://www.pro-football-reference.com/teams/nwe/2008.htm
+2008,nyg,New York Giants,Tom Coughlin,Tom Coughlin (12-4-0),,Kevin Gilbride,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/nyg/2008.htm
+2008,nyj,New York Jets,Eric Mangini,Eric Mangini (9-7-0),,Brian Schottenheimer,Bob Sutton,,,,https://www.pro-football-reference.com/teams/nyj/2008.htm
+2008,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (13-3-0),,Mike Heimerdinger,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/oti/2008.htm
+2008,phi,Philadelphia Eagles,Andy Reid,Andy Reid (9-6-1),,Marty Mornhinweg,Jim Johnson,,,,https://www.pro-football-reference.com/teams/phi/2008.htm
+2008,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (12-4-0),,Bruce Arians,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2008.htm
+2008,rai,Las Vegas Raiders,"Lane Kiffin, Tom Cable",Lane Kiffin (1-3-0) and Tom Cable (4-8-0),Lane Kiffin (1-3-0) and Tom Cable (4-8-0),Greg Knapp,Rob Ryan,,,,https://www.pro-football-reference.com/teams/rai/2008.htm
+2008,ram,Los Angeles Rams,"Scott Linehan, Jim Haslett",Scott Linehan (0-4-0) and Jim Haslett (2-10-0),Scott Linehan (0-4-0) and Jim Haslett (2-10-0),Al Saunders,"Jim Haslett , Rick Venturi",,,,https://www.pro-football-reference.com/teams/ram/2008.htm
+2008,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (11-5-0),,Cam Cameron,Rex Ryan,,,,https://www.pro-football-reference.com/teams/rav/2008.htm
+2008,sdg,Los Angeles Chargers,Norv Turner,Norv Turner (8-8-0),,Clarence Shelmon,"Ted Cottrell , Ron Rivera",,,,https://www.pro-football-reference.com/teams/sdg/2008.htm
+2008,sea,Seattle Seahawks,Mike Holmgren,Mike Holmgren (4-12-0),,Gil Haskell,John Marshall,,,,https://www.pro-football-reference.com/teams/sea/2008.htm
+2008,sfo,San Francisco 49ers,"Mike Nolan, Mike Singletary",Mike Nolan (2-5-0) and Mike Singletary (5-4-0),Mike Nolan (2-5-0) and Mike Singletary (5-4-0),Mike Martz,Greg Manusky,,,,https://www.pro-football-reference.com/teams/sfo/2008.htm
+2008,tam,Tampa Bay Buccaneers,Jon Gruden,Jon Gruden (9-7-0),,Bill Muir,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/tam/2008.htm
+2008,was,Washington Commanders,Jim Zorn,Jim Zorn (8-8-0),,Sherman Smith,Greg Blache,,,,https://www.pro-football-reference.com/teams/was/2008.htm
+2009,atl,Atlanta Falcons,Mike Smith,Mike Smith (9-7-0),,Mike Mularkey,Brian VanGorder,,,,https://www.pro-football-reference.com/teams/atl/2009.htm
+2009,buf,Buffalo Bills,"Perry Fewell, Dick Jauron",Perry Fewell (3-4-0) and Dick Jauron (3-6-0),Perry Fewell (3-4-0) and Dick Jauron (3-6-0),Alex Van Pelt,Perry Fewell,,,,https://www.pro-football-reference.com/teams/buf/2009.htm
+2009,car,Carolina Panthers,John Fox,John Fox (8-8-0),,Jeff Davidson,Ron Meeks,,,,https://www.pro-football-reference.com/teams/car/2009.htm
+2009,chi,Chicago Bears,Lovie Smith,Lovie Smith (7-9-0),,Ron Turner,Bob Babich,,,,https://www.pro-football-reference.com/teams/chi/2009.htm
+2009,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (10-6-0),,Bob Bratkowski,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/cin/2009.htm
+2009,cle,Cleveland Browns,Eric Mangini,Eric Mangini (5-11-0),,Brian Daboll,Rob Ryan,,,,https://www.pro-football-reference.com/teams/cle/2009.htm
+2009,clt,Indianapolis Colts,Jim Caldwell,Jim Caldwell (14-2-0),,Tom Moore,Larry Coyer,,,,https://www.pro-football-reference.com/teams/clt/2009.htm
+2009,crd,Arizona Cardinals,Ken Whisenhunt,Ken Whisenhunt (10-6-0),,,Bill Davis,,,,https://www.pro-football-reference.com/teams/crd/2009.htm
+2009,dal,Dallas Cowboys,Wade Phillips,Wade Phillips (11-5-0),,Jason Garrett,,,,,https://www.pro-football-reference.com/teams/dal/2009.htm
+2009,den,Denver Broncos,Josh McDaniels,Josh McDaniels (8-8-0),,Mike McCoy,Mike Nolan,,,,https://www.pro-football-reference.com/teams/den/2009.htm
+2009,det,Detroit Lions,Jim Schwartz,Jim Schwartz (2-14-0),,Scott Linehan,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/det/2009.htm
+2009,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (11-5-0),,Joe Philbin,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2009.htm
+2009,htx,Houston Texans,Gary Kubiak,Gary Kubiak (9-7-0),,Kyle Shanahan,Frank Bush,,,,https://www.pro-football-reference.com/teams/htx/2009.htm
+2009,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (7-9-0),,Dirk Koetter,Mel Tucker,,,,https://www.pro-football-reference.com/teams/jax/2009.htm
+2009,kan,Kansas City Chiefs,Todd Haley,Todd Haley (4-12-0),,Todd Haley,Clancy Pendergast,,,,https://www.pro-football-reference.com/teams/kan/2009.htm
+2009,mia,Miami Dolphins,Tony Sparano,Tony Sparano (7-9-0),,Dan Henning,Paul Pasqualoni,,,,https://www.pro-football-reference.com/teams/mia/2009.htm
+2009,min,Minnesota Vikings,Brad Childress,Brad Childress (12-4-0),,Darrell Bevell,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/min/2009.htm
+2009,nor,New Orleans Saints,Sean Payton,Sean Payton (13-3-0),,Pete Carmichael,Gregg Williams,,,,https://www.pro-football-reference.com/teams/nor/2009.htm
+2009,nwe,New England Patriots,Bill Belichick,Bill Belichick (10-6-0),,,Dean Pees,,,,https://www.pro-football-reference.com/teams/nwe/2009.htm
+2009,nyg,New York Giants,Tom Coughlin,Tom Coughlin (8-8-0),,Kevin Gilbride,Bill Sheridan,,,,https://www.pro-football-reference.com/teams/nyg/2009.htm
+2009,nyj,New York Jets,Rex Ryan,Rex Ryan (9-7-0),,Brian Schottenheimer,Mike Pettine,,,,https://www.pro-football-reference.com/teams/nyj/2009.htm
+2009,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (8-8-0),,Mike Heimerdinger,Chuck Cecil,,,,https://www.pro-football-reference.com/teams/oti/2009.htm
+2009,phi,Philadelphia Eagles,Andy Reid,Andy Reid (11-5-0),,Marty Mornhinweg,Sean McDermott,,,,https://www.pro-football-reference.com/teams/phi/2009.htm
+2009,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (9-7-0),,Bruce Arians,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2009.htm
+2009,rai,Las Vegas Raiders,Tom Cable,Tom Cable (5-11-0),,,John Marshall,,,,https://www.pro-football-reference.com/teams/rai/2009.htm
+2009,ram,Los Angeles Rams,Steve Spagnuolo,Steve Spagnuolo (1-15-0),,Pat Shurmur,Ken Flajole,,,,https://www.pro-football-reference.com/teams/ram/2009.htm
+2009,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (9-7-0),,Cam Cameron,Greg Mattison,,,,https://www.pro-football-reference.com/teams/rav/2009.htm
+2009,sdg,Los Angeles Chargers,Norv Turner,Norv Turner (13-3-0),,Clarence Shelmon,Ron Rivera,,,,https://www.pro-football-reference.com/teams/sdg/2009.htm
+2009,sea,Seattle Seahawks,Jim Mora,Jim Mora (5-11-0),,Greg Knapp,Gus Bradley,,,,https://www.pro-football-reference.com/teams/sea/2009.htm
+2009,sfo,San Francisco 49ers,Mike Singletary,Mike Singletary (8-8-0),,Jimmy Raye,Greg Manusky,,,,https://www.pro-football-reference.com/teams/sfo/2009.htm
+2009,tam,Tampa Bay Buccaneers,Raheem Morris,Raheem Morris (3-13-0),,Greg Olson,Jim Bates,,,,https://www.pro-football-reference.com/teams/tam/2009.htm
+2009,was,Washington Commanders,Jim Zorn,Jim Zorn (4-12-0),,Sherman Smith,Greg Blache,,,,https://www.pro-football-reference.com/teams/was/2009.htm
+2010,atl,Atlanta Falcons,Mike Smith,Mike Smith (13-3-0),,Mike Mularkey,Brian VanGorder,,,,https://www.pro-football-reference.com/teams/atl/2010.htm
+2010,buf,Buffalo Bills,Chan Gailey,Chan Gailey (4-12-0),,Curtis Modkins,George Edwards,,,,https://www.pro-football-reference.com/teams/buf/2010.htm
+2010,car,Carolina Panthers,John Fox,John Fox (2-14-0),,Jeff Davidson,Ron Meeks,,,,https://www.pro-football-reference.com/teams/car/2010.htm
+2010,chi,Chicago Bears,Lovie Smith,Lovie Smith (11-5-0),,Mike Martz,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/chi/2010.htm
+2010,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (4-12-0),,Bob Bratkowski,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/cin/2010.htm
+2010,cle,Cleveland Browns,Eric Mangini,Eric Mangini (5-11-0),,Brian Daboll,Rob Ryan,,,,https://www.pro-football-reference.com/teams/cle/2010.htm
+2010,clt,Indianapolis Colts,Jim Caldwell,Jim Caldwell (10-6-0),,Clyde Christensen,Larry Coyer,,,,https://www.pro-football-reference.com/teams/clt/2010.htm
+2010,crd,Arizona Cardinals,Ken Whisenhunt,Ken Whisenhunt (5-11-0),,,Bill Davis,,,,https://www.pro-football-reference.com/teams/crd/2010.htm
+2010,dal,Dallas Cowboys,"Wade Phillips, Jason Garrett",Wade Phillips (1-7-0) and Jason Garrett (5-3-0),Wade Phillips (1-7-0) and Jason Garrett (5-3-0),Jason Garrett,Paul Pasqualoni,,,,https://www.pro-football-reference.com/teams/dal/2010.htm
+2010,den,Denver Broncos,"Eric Studesville, Josh McDaniels",Eric Studesville (1-3-0) and Josh McDaniels (3-9-0),Eric Studesville (1-3-0) and Josh McDaniels (3-9-0),Mike McCoy,Don Martindale,,,,https://www.pro-football-reference.com/teams/den/2010.htm
+2010,det,Detroit Lions,Jim Schwartz,Jim Schwartz (6-10-0),,Scott Linehan,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/det/2010.htm
+2010,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (10-6-0),,Joe Philbin,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2010.htm
+2010,htx,Houston Texans,Gary Kubiak,Gary Kubiak (6-10-0),,Rick Dennison,Frank Bush,,,,https://www.pro-football-reference.com/teams/htx/2010.htm
+2010,jax,Jacksonville Jaguars,Jack Del Rio,Jack Del Rio (8-8-0),,Dirk Koetter,Mel Tucker,,,,https://www.pro-football-reference.com/teams/jax/2010.htm
+2010,kan,Kansas City Chiefs,Todd Haley,Todd Haley (10-6-0),,Charlie Weis,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/kan/2010.htm
+2010,mia,Miami Dolphins,Tony Sparano,Tony Sparano (7-9-0),,Dan Henning,Mike Nolan,,,,https://www.pro-football-reference.com/teams/mia/2010.htm
+2010,min,Minnesota Vikings,"Brad Childress, Leslie Frazier",Brad Childress (3-7-0) and Leslie Frazier (3-3-0),Brad Childress (3-7-0) and Leslie Frazier (3-3-0),Darrell Bevell,"Leslie Frazier , Fred Pagac",,,,https://www.pro-football-reference.com/teams/min/2010.htm
+2010,nor,New Orleans Saints,Sean Payton,Sean Payton (11-5-0),,Pete Carmichael,Gregg Williams,,,,https://www.pro-football-reference.com/teams/nor/2010.htm
+2010,nwe,New England Patriots,Bill Belichick,Bill Belichick (14-2-0),,,,,,,https://www.pro-football-reference.com/teams/nwe/2010.htm
+2010,nyg,New York Giants,Tom Coughlin,Tom Coughlin (10-6-0),,Kevin Gilbride,Perry Fewell,,,,https://www.pro-football-reference.com/teams/nyg/2010.htm
+2010,nyj,New York Jets,Rex Ryan,Rex Ryan (11-5-0),,Brian Schottenheimer,Mike Pettine,,,,https://www.pro-football-reference.com/teams/nyj/2010.htm
+2010,oti,Tennessee Titans,Jeff Fisher,Jeff Fisher (6-10-0),,Mike Heimerdinger,Chuck Cecil,,,,https://www.pro-football-reference.com/teams/oti/2010.htm
+2010,phi,Philadelphia Eagles,Andy Reid,Andy Reid (10-6-0),,Marty Mornhinweg,Sean McDermott,,,,https://www.pro-football-reference.com/teams/phi/2010.htm
+2010,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (12-4-0),,Bruce Arians,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2010.htm
+2010,rai,Las Vegas Raiders,Tom Cable,Tom Cable (8-8-0),,Hue Jackson,John Marshall,,,,https://www.pro-football-reference.com/teams/rai/2010.htm
+2010,ram,Los Angeles Rams,Steve Spagnuolo,Steve Spagnuolo (7-9-0),,Pat Shurmur,Ken Flajole,,,,https://www.pro-football-reference.com/teams/ram/2010.htm
+2010,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (12-4-0),,Cam Cameron,Greg Mattison,,,,https://www.pro-football-reference.com/teams/rav/2010.htm
+2010,sdg,Los Angeles Chargers,Norv Turner,Norv Turner (9-7-0),,Clarence Shelmon,Ron Rivera,,,,https://www.pro-football-reference.com/teams/sdg/2010.htm
+2010,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (7-9-0),,Jeremy Bates,Gus Bradley,,,,https://www.pro-football-reference.com/teams/sea/2010.htm
+2010,sfo,San Francisco 49ers,"Jim Tomsula, Mike Singletary",Jim Tomsula (1-0-0) and Mike Singletary (5-10-0),Jim Tomsula (1-0-0) and Mike Singletary (5-10-0),Jimmy Raye,Greg Manusky,,,,https://www.pro-football-reference.com/teams/sfo/2010.htm
+2010,tam,Tampa Bay Buccaneers,Raheem Morris,Raheem Morris (10-6-0),,Greg Olson,,,,,https://www.pro-football-reference.com/teams/tam/2010.htm
+2010,was,Washington Commanders,Mike Shanahan,Mike Shanahan (6-10-0),,Kyle Shanahan,Jim Haslett,,,,https://www.pro-football-reference.com/teams/was/2010.htm
+2011,atl,Atlanta Falcons,Mike Smith,Mike Smith (10-6-0),,Mike Mularkey,Brian VanGorder,,,,https://www.pro-football-reference.com/teams/atl/2011.htm
+2011,buf,Buffalo Bills,Chan Gailey,Chan Gailey (6-10-0),,Curtis Modkins,George Edwards,,,,https://www.pro-football-reference.com/teams/buf/2011.htm
+2011,car,Carolina Panthers,Ron Rivera,Ron Rivera (6-10-0),,Rob Chudzinski,Sean McDermott,,,,https://www.pro-football-reference.com/teams/car/2011.htm
+2011,chi,Chicago Bears,Lovie Smith,Lovie Smith (8-8-0),,Mike Martz,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/chi/2011.htm
+2011,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (9-7-0),,Jay Gruden,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/cin/2011.htm
+2011,cle,Cleveland Browns,Pat Shurmur,Pat Shurmur (4-12-0),,,Dick Jauron,,,,https://www.pro-football-reference.com/teams/cle/2011.htm
+2011,clt,Indianapolis Colts,Jim Caldwell,Jim Caldwell (2-14-0),,Clyde Christensen,Larry Coyer,,,,https://www.pro-football-reference.com/teams/clt/2011.htm
+2011,crd,Arizona Cardinals,Ken Whisenhunt,Ken Whisenhunt (8-8-0),,Mike Miller,Ray Horton,,,,https://www.pro-football-reference.com/teams/crd/2011.htm
+2011,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (8-8-0),,,Rob Ryan,,,,https://www.pro-football-reference.com/teams/dal/2011.htm
+2011,den,Denver Broncos,John Fox,John Fox (8-8-0),,Mike McCoy,Dennis Allen,,,,https://www.pro-football-reference.com/teams/den/2011.htm
+2011,det,Detroit Lions,Jim Schwartz,Jim Schwartz (10-6-0),,Scott Linehan,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/det/2011.htm
+2011,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (15-1-0),,Joe Philbin,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2011.htm
+2011,htx,Houston Texans,Gary Kubiak,Gary Kubiak (10-6-0),,Rick Dennison,Wade Phillips,,,,https://www.pro-football-reference.com/teams/htx/2011.htm
+2011,jax,Jacksonville Jaguars,"Mel Tucker, Jack Del Rio",Mel Tucker (2-3-0) and Jack Del Rio (3-8-0),Mel Tucker (2-3-0) and Jack Del Rio (3-8-0),Dirk Koetter,Mel Tucker,,,,https://www.pro-football-reference.com/teams/jax/2011.htm
+2011,kan,Kansas City Chiefs,"Romeo Crennel, Todd Haley",Romeo Crennel (2-1-0) and Todd Haley (5-8-0),Romeo Crennel (2-1-0) and Todd Haley (5-8-0),Bill Muir,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/kan/2011.htm
+2011,mia,Miami Dolphins,"Todd Bowles, Tony Sparano",Todd Bowles (2-1-0) and Tony Sparano (4-9-0),Todd Bowles (2-1-0) and Tony Sparano (4-9-0),Brian Daboll,Mike Nolan,,,,https://www.pro-football-reference.com/teams/mia/2011.htm
+2011,min,Minnesota Vikings,Leslie Frazier,Leslie Frazier (3-13-0),,Bill Musgrave,Fred Pagac,,,,https://www.pro-football-reference.com/teams/min/2011.htm
+2011,nor,New Orleans Saints,Sean Payton,Sean Payton (13-3-0),,Pete Carmichael,Gregg Williams,,,,https://www.pro-football-reference.com/teams/nor/2011.htm
+2011,nwe,New England Patriots,Bill Belichick,Bill Belichick (13-3-0),,Bill O'Brien,,,,,https://www.pro-football-reference.com/teams/nwe/2011.htm
+2011,nyg,New York Giants,Tom Coughlin,Tom Coughlin (9-7-0),,Kevin Gilbride,Perry Fewell,,,,https://www.pro-football-reference.com/teams/nyg/2011.htm
+2011,nyj,New York Jets,Rex Ryan,Rex Ryan (8-8-0),,Brian Schottenheimer,Mike Pettine,,,,https://www.pro-football-reference.com/teams/nyj/2011.htm
+2011,oti,Tennessee Titans,Mike Munchak,Mike Munchak (9-7-0),,Chris Palmer,Jerry Gray,,,,https://www.pro-football-reference.com/teams/oti/2011.htm
+2011,phi,Philadelphia Eagles,Andy Reid,Andy Reid (8-8-0),,Marty Mornhinweg,Juan Castillo,,,,https://www.pro-football-reference.com/teams/phi/2011.htm
+2011,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (12-4-0),,Bruce Arians,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2011.htm
+2011,rai,Las Vegas Raiders,Hue Jackson,Hue Jackson (8-8-0),,Al Saunders,Chuck Bresnahan,,,,https://www.pro-football-reference.com/teams/rai/2011.htm
+2011,ram,Los Angeles Rams,Steve Spagnuolo,Steve Spagnuolo (2-14-0),,Josh McDaniels,Ken Flajole,,,,https://www.pro-football-reference.com/teams/ram/2011.htm
+2011,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (12-4-0),,Cam Cameron,Chuck Pagano,,,,https://www.pro-football-reference.com/teams/rav/2011.htm
+2011,sdg,Los Angeles Chargers,Norv Turner,Norv Turner (8-8-0),,Clarence Shelmon,Greg Manusky,,,,https://www.pro-football-reference.com/teams/sdg/2011.htm
+2011,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (7-9-0),,Darrell Bevell,Gus Bradley,,,,https://www.pro-football-reference.com/teams/sea/2011.htm
+2011,sfo,San Francisco 49ers,Jim Harbaugh,Jim Harbaugh (13-3-0),,Greg Roman,Vic Fangio,,,,https://www.pro-football-reference.com/teams/sfo/2011.htm
+2011,tam,Tampa Bay Buccaneers,Raheem Morris,Raheem Morris (4-12-0),,Greg Olson,Keith Millard,,,,https://www.pro-football-reference.com/teams/tam/2011.htm
+2011,was,Washington Commanders,Mike Shanahan,Mike Shanahan (5-11-0),,Kyle Shanahan,Jim Haslett,,,,https://www.pro-football-reference.com/teams/was/2011.htm
+2012,atl,Atlanta Falcons,Mike Smith,Mike Smith (13-3-0),,Dirk Koetter,Mike Nolan,,,,https://www.pro-football-reference.com/teams/atl/2012.htm
+2012,buf,Buffalo Bills,Chan Gailey,Chan Gailey (6-10-0),,Curtis Modkins,Dave Wannstedt,,,,https://www.pro-football-reference.com/teams/buf/2012.htm
+2012,car,Carolina Panthers,Ron Rivera,Ron Rivera (7-9-0),,Rob Chudzinski,Sean McDermott,,,,https://www.pro-football-reference.com/teams/car/2012.htm
+2012,chi,Chicago Bears,Lovie Smith,Lovie Smith (10-6-0),,Mike Tice,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/chi/2012.htm
+2012,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (10-6-0),,Jay Gruden,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/cin/2012.htm
+2012,cle,Cleveland Browns,Pat Shurmur,Pat Shurmur (5-11-0),,Brad Childress,Dick Jauron,,,,https://www.pro-football-reference.com/teams/cle/2012.htm
+2012,clt,Indianapolis Colts,Chuck Pagano,Chuck Pagano (11-5-0),,Bruce Arians,Greg Manusky,,,,https://www.pro-football-reference.com/teams/clt/2012.htm
+2012,crd,Arizona Cardinals,Ken Whisenhunt,Ken Whisenhunt (5-11-0),,Mike Miller,Ray Horton,,,,https://www.pro-football-reference.com/teams/crd/2012.htm
+2012,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (8-8-0),,Bill Callahan,Rob Ryan,,,,https://www.pro-football-reference.com/teams/dal/2012.htm
+2012,den,Denver Broncos,John Fox,John Fox (13-3-0),,Mike McCoy,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/den/2012.htm
+2012,det,Detroit Lions,Jim Schwartz,Jim Schwartz (4-12-0),,Scott Linehan,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/det/2012.htm
+2012,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (11-5-0),,Tom Clements,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2012.htm
+2012,htx,Houston Texans,Gary Kubiak,Gary Kubiak (12-4-0),,Rick Dennison,Wade Phillips,,,,https://www.pro-football-reference.com/teams/htx/2012.htm
+2012,jax,Jacksonville Jaguars,Mike Mularkey,Mike Mularkey (2-14-0),,Bob Bratkowski,Mel Tucker,,,,https://www.pro-football-reference.com/teams/jax/2012.htm
+2012,kan,Kansas City Chiefs,Romeo Crennel,Romeo Crennel (2-14-0),,Brian Daboll,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/kan/2012.htm
+2012,mia,Miami Dolphins,Joe Philbin,Joe Philbin (7-9-0),,Mike Sherman,Kevin Coyle,,,,https://www.pro-football-reference.com/teams/mia/2012.htm
+2012,min,Minnesota Vikings,Leslie Frazier,Leslie Frazier (10-6-0),,Bill Musgrave,Alan Williams,,,,https://www.pro-football-reference.com/teams/min/2012.htm
+2012,nor,New Orleans Saints,Aaron Kromer,Aaron Kromer (2-4-0) (co-coach with Joe Vitt 5-5-0),,Pete Carmichael,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/nor/2012.htm
+2012,nwe,New England Patriots,Bill Belichick,Bill Belichick (12-4-0),,Josh McDaniels,Matt Patricia,,,,https://www.pro-football-reference.com/teams/nwe/2012.htm
+2012,nyg,New York Giants,Tom Coughlin,Tom Coughlin (9-7-0),,Kevin Gilbride,Perry Fewell,,,,https://www.pro-football-reference.com/teams/nyg/2012.htm
+2012,nyj,New York Jets,Rex Ryan,Rex Ryan (6-10-0),,Tony Sparano,Mike Pettine,,,,https://www.pro-football-reference.com/teams/nyj/2012.htm
+2012,oti,Tennessee Titans,Mike Munchak,Mike Munchak (6-10-0),,Chris Palmer,Jerry Gray,,,,https://www.pro-football-reference.com/teams/oti/2012.htm
+2012,phi,Philadelphia Eagles,Andy Reid,Andy Reid (4-12-0),,Marty Mornhinweg,"Todd Bowles , Juan Castillo",,,,https://www.pro-football-reference.com/teams/phi/2012.htm
+2012,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (8-8-0),,Todd Haley,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2012.htm
+2012,rai,Las Vegas Raiders,Dennis Allen,Dennis Allen (4-12-0),,Greg Knapp,Jason Tarver,,,,https://www.pro-football-reference.com/teams/rai/2012.htm
+2012,ram,Los Angeles Rams,Jeff Fisher,Jeff Fisher (7-8-1),,Brian Schottenheimer,,,,,https://www.pro-football-reference.com/teams/ram/2012.htm
+2012,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (10-6-0),,"Jim Caldwell , Cam Cameron",Dean Pees,,,,https://www.pro-football-reference.com/teams/rav/2012.htm
+2012,sdg,Los Angeles Chargers,Norv Turner,Norv Turner (7-9-0),,Hal Hunter,John Pagano,,,,https://www.pro-football-reference.com/teams/sdg/2012.htm
+2012,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (11-5-0),,Darrell Bevell,Gus Bradley,,,,https://www.pro-football-reference.com/teams/sea/2012.htm
+2012,sfo,San Francisco 49ers,Jim Harbaugh,Jim Harbaugh (11-4-1),,Greg Roman,Vic Fangio,,,,https://www.pro-football-reference.com/teams/sfo/2012.htm
+2012,tam,Tampa Bay Buccaneers,Greg Schiano,Greg Schiano (7-9-0),,Mike Sullivan,Bill Sheridan,,,,https://www.pro-football-reference.com/teams/tam/2012.htm
+2012,was,Washington Commanders,Mike Shanahan,Mike Shanahan (10-6-0),,Kyle Shanahan,Jim Haslett,,,,https://www.pro-football-reference.com/teams/was/2012.htm
+2013,atl,Atlanta Falcons,Mike Smith,Mike Smith (4-12-0),,Dirk Koetter,Mike Nolan,,,,https://www.pro-football-reference.com/teams/atl/2013.htm
+2013,buf,Buffalo Bills,Doug Marrone,Doug Marrone (6-10-0),,Nathaniel Hackett,Mike Pettine,,,,https://www.pro-football-reference.com/teams/buf/2013.htm
+2013,car,Carolina Panthers,Ron Rivera,Ron Rivera (12-4-0),,Mike Shula,Sean McDermott,,,,https://www.pro-football-reference.com/teams/car/2013.htm
+2013,chi,Chicago Bears,Marc Trestman,Marc Trestman (8-8-0),,Aaron Kromer,Mel Tucker,,,,https://www.pro-football-reference.com/teams/chi/2013.htm
+2013,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (11-5-0),,Jay Gruden,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/cin/2013.htm
+2013,cle,Cleveland Browns,Rob Chudzinski,Rob Chudzinski (4-12-0),,Norv Turner,Ray Horton,,,,https://www.pro-football-reference.com/teams/cle/2013.htm
+2013,clt,Indianapolis Colts,Chuck Pagano,Chuck Pagano (11-5-0),,Pep Hamilton,Greg Manusky,,,,https://www.pro-football-reference.com/teams/clt/2013.htm
+2013,crd,Arizona Cardinals,Bruce Arians,Bruce Arians (10-6-0),,Harold Goodwin,Todd Bowles,,,,https://www.pro-football-reference.com/teams/crd/2013.htm
+2013,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (8-8-0),,Bill Callahan,Monte Kiffin,,,,https://www.pro-football-reference.com/teams/dal/2013.htm
+2013,den,Denver Broncos,John Fox,John Fox (13-3-0),,Adam Gase,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/den/2013.htm
+2013,det,Detroit Lions,Jim Schwartz,Jim Schwartz (7-9-0),,Scott Linehan,Gunther Cunningham,,,,https://www.pro-football-reference.com/teams/det/2013.htm
+2013,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (8-7-1),,Tom Clements,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2013.htm
+2013,htx,Houston Texans,"Wade Phillips, Gary Kubiak",Wade Phillips (0-3-0) and Gary Kubiak (2-11-0),Wade Phillips (0-3-0) and Gary Kubiak (2-11-0),Rick Dennison,Wade Phillips,,,,https://www.pro-football-reference.com/teams/htx/2013.htm
+2013,jax,Jacksonville Jaguars,Gus Bradley,Gus Bradley (4-12-0),,Jedd Fisch,Bob Babich,,,,https://www.pro-football-reference.com/teams/jax/2013.htm
+2013,kan,Kansas City Chiefs,Andy Reid,Andy Reid (11-5-0),,Doug Pederson,Bob Sutton,,,,https://www.pro-football-reference.com/teams/kan/2013.htm
+2013,mia,Miami Dolphins,Joe Philbin,Joe Philbin (8-8-0),,Mike Sherman,Kevin Coyle,,,,https://www.pro-football-reference.com/teams/mia/2013.htm
+2013,min,Minnesota Vikings,Leslie Frazier,Leslie Frazier (5-10-1),,Bill Musgrave,Alan Williams,,,,https://www.pro-football-reference.com/teams/min/2013.htm
+2013,nor,New Orleans Saints,Sean Payton,Sean Payton (11-5-0),,Pete Carmichael,Rob Ryan,,,,https://www.pro-football-reference.com/teams/nor/2013.htm
+2013,nwe,New England Patriots,Bill Belichick,Bill Belichick (12-4-0),,Josh McDaniels,Matt Patricia,,,,https://www.pro-football-reference.com/teams/nwe/2013.htm
+2013,nyg,New York Giants,Tom Coughlin,Tom Coughlin (7-9-0),,Kevin Gilbride,Perry Fewell,,,,https://www.pro-football-reference.com/teams/nyg/2013.htm
+2013,nyj,New York Jets,Rex Ryan,Rex Ryan (8-8-0),,Marty Mornhinweg,Dennis Thurman,,,,https://www.pro-football-reference.com/teams/nyj/2013.htm
+2013,oti,Tennessee Titans,Mike Munchak,Mike Munchak (7-9-0),,Dowell Loggains,Jerry Gray,,,,https://www.pro-football-reference.com/teams/oti/2013.htm
+2013,phi,Philadelphia Eagles,Chip Kelly,Chip Kelly (10-6-0),,Pat Shurmur,Bill Davis,,,,https://www.pro-football-reference.com/teams/phi/2013.htm
+2013,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (8-8-0),,Todd Haley,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2013.htm
+2013,rai,Las Vegas Raiders,Dennis Allen,Dennis Allen (4-12-0),,Greg Olson,Jason Tarver,,,,https://www.pro-football-reference.com/teams/rai/2013.htm
+2013,ram,Los Angeles Rams,Jeff Fisher,Jeff Fisher (7-9-0),,Brian Schottenheimer,Tim Walton,,,,https://www.pro-football-reference.com/teams/ram/2013.htm
+2013,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (8-8-0),,Jim Caldwell,Dean Pees,,,,https://www.pro-football-reference.com/teams/rav/2013.htm
+2013,sdg,Los Angeles Chargers,Mike McCoy,Mike McCoy (9-7-0),,Ken Whisenhunt,John Pagano,,,,https://www.pro-football-reference.com/teams/sdg/2013.htm
+2013,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (13-3-0),,Darrell Bevell,Dan Quinn,,,,https://www.pro-football-reference.com/teams/sea/2013.htm
+2013,sfo,San Francisco 49ers,Jim Harbaugh,Jim Harbaugh (12-4-0),,Greg Roman,Vic Fangio,,,,https://www.pro-football-reference.com/teams/sfo/2013.htm
+2013,tam,Tampa Bay Buccaneers,Greg Schiano,Greg Schiano (4-12-0),,Mike Sullivan,Bill Sheridan,,,,https://www.pro-football-reference.com/teams/tam/2013.htm
+2013,was,Washington Commanders,Mike Shanahan,Mike Shanahan (3-13-0),,Kyle Shanahan,Jim Haslett,,,,https://www.pro-football-reference.com/teams/was/2013.htm
+2014,atl,Atlanta Falcons,Mike Smith,Mike Smith (6-10-0),,Dirk Koetter,Mike Nolan,,,,https://www.pro-football-reference.com/teams/atl/2014.htm
+2014,buf,Buffalo Bills,Doug Marrone,Doug Marrone (9-7-0),,Nathaniel Hackett,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/buf/2014.htm
+2014,car,Carolina Panthers,Ron Rivera,Ron Rivera (7-8-1),,Mike Shula,Sean McDermott,,,,https://www.pro-football-reference.com/teams/car/2014.htm
+2014,chi,Chicago Bears,Marc Trestman,Marc Trestman (5-11-0),,Aaron Kromer,Mel Tucker,,,,https://www.pro-football-reference.com/teams/chi/2014.htm
+2014,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (10-5-1),,Hue Jackson,Paul Guenther,,,,https://www.pro-football-reference.com/teams/cin/2014.htm
+2014,cle,Cleveland Browns,Mike Pettine,Mike Pettine (7-9-0),,Kyle Shanahan,Jim O'Neil,,,,https://www.pro-football-reference.com/teams/cle/2014.htm
+2014,clt,Indianapolis Colts,Chuck Pagano,Chuck Pagano (11-5-0),,Pep Hamilton,Greg Manusky,,,,https://www.pro-football-reference.com/teams/clt/2014.htm
+2014,crd,Arizona Cardinals,Bruce Arians,Bruce Arians (11-5-0),,Harold Goodwin,Todd Bowles,,,,https://www.pro-football-reference.com/teams/crd/2014.htm
+2014,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (12-4-0),,Bill Callahan,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/dal/2014.htm
+2014,den,Denver Broncos,John Fox,John Fox (12-4-0),,Adam Gase,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/den/2014.htm
+2014,det,Detroit Lions,Jim Caldwell,Jim Caldwell (11-5-0),,Joe Lombardi,Teryl Austin,,,,https://www.pro-football-reference.com/teams/det/2014.htm
+2014,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (12-4-0),,Tom Clements,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2014.htm
+2014,htx,Houston Texans,Bill O'Brien,Bill O'Brien (9-7-0),,,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/htx/2014.htm
+2014,jax,Jacksonville Jaguars,Gus Bradley,Gus Bradley (3-13-0),,Jedd Fisch,Bob Babich,,,,https://www.pro-football-reference.com/teams/jax/2014.htm
+2014,kan,Kansas City Chiefs,Andy Reid,Andy Reid (9-7-0),,Doug Pederson,Bob Sutton,,,,https://www.pro-football-reference.com/teams/kan/2014.htm
+2014,mia,Miami Dolphins,Joe Philbin,Joe Philbin (8-8-0),,Bill Lazor,Kevin Coyle,,,,https://www.pro-football-reference.com/teams/mia/2014.htm
+2014,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (7-9-0),,Norv Turner,George Edwards,,,,https://www.pro-football-reference.com/teams/min/2014.htm
+2014,nor,New Orleans Saints,Sean Payton,Sean Payton (7-9-0),,Pete Carmichael,Rob Ryan,,,,https://www.pro-football-reference.com/teams/nor/2014.htm
+2014,nwe,New England Patriots,Bill Belichick,Bill Belichick (12-4-0),,Josh McDaniels,Matt Patricia,,,,https://www.pro-football-reference.com/teams/nwe/2014.htm
+2014,nyg,New York Giants,Tom Coughlin,Tom Coughlin (6-10-0),,Ben McAdoo,Perry Fewell,,,,https://www.pro-football-reference.com/teams/nyg/2014.htm
+2014,nyj,New York Jets,Rex Ryan,Rex Ryan (4-12-0),,Marty Mornhinweg,Dennis Thurman,,,,https://www.pro-football-reference.com/teams/nyj/2014.htm
+2014,oti,Tennessee Titans,Ken Whisenhunt,Ken Whisenhunt (2-14-0),,Jason Michael,Ray Horton,,,,https://www.pro-football-reference.com/teams/oti/2014.htm
+2014,phi,Philadelphia Eagles,Chip Kelly,Chip Kelly (10-6-0),,Pat Shurmur,Bill Davis,,,,https://www.pro-football-reference.com/teams/phi/2014.htm
+2014,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (11-5-0),,Todd Haley,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/pit/2014.htm
+2014,rai,Las Vegas Raiders,"Dennis Allen, Tony Sparano",Dennis Allen (0-4-0) and Tony Sparano (3-9-0),Dennis Allen (0-4-0) and Tony Sparano (3-9-0),Greg Olson,Jason Tarver,,,,https://www.pro-football-reference.com/teams/rai/2014.htm
+2014,ram,Los Angeles Rams,Jeff Fisher,Jeff Fisher (6-10-0),,Brian Schottenheimer,Gregg Williams,,,,https://www.pro-football-reference.com/teams/ram/2014.htm
+2014,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (10-6-0),,Gary Kubiak,Dean Pees,,,,https://www.pro-football-reference.com/teams/rav/2014.htm
+2014,sdg,Los Angeles Chargers,Mike McCoy,Mike McCoy (9-7-0),,Frank Reich,John Pagano,,,,https://www.pro-football-reference.com/teams/sdg/2014.htm
+2014,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (12-4-0),,Darrell Bevell,Dan Quinn,,,,https://www.pro-football-reference.com/teams/sea/2014.htm
+2014,sfo,San Francisco 49ers,Jim Harbaugh,Jim Harbaugh (8-8-0),,Greg Roman,Vic Fangio,,,,https://www.pro-football-reference.com/teams/sfo/2014.htm
+2014,tam,Tampa Bay Buccaneers,Lovie Smith,Lovie Smith (2-14-0),,Jeff Tedford,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/tam/2014.htm
+2014,was,Washington Commanders,Jay Gruden,Jay Gruden (4-12-0),,Sean McVay,Jim Haslett,,,,https://www.pro-football-reference.com/teams/was/2014.htm
+2015,atl,Atlanta Falcons,Dan Quinn,Dan Quinn (8-8-0),,Kyle Shanahan,Richard Smith,,,,https://www.pro-football-reference.com/teams/atl/2015.htm
+2015,buf,Buffalo Bills,Rex Ryan,Rex Ryan (8-8-0),,Greg Roman,Dennis Thurman,,,,https://www.pro-football-reference.com/teams/buf/2015.htm
+2015,car,Carolina Panthers,Ron Rivera,Ron Rivera (15-1-0),,Mike Shula,Sean McDermott,,,,https://www.pro-football-reference.com/teams/car/2015.htm
+2015,chi,Chicago Bears,John Fox,John Fox (6-10-0),,Adam Gase,Vic Fangio,,,,https://www.pro-football-reference.com/teams/chi/2015.htm
+2015,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (12-4-0),,Hue Jackson,Paul Guenther,,,,https://www.pro-football-reference.com/teams/cin/2015.htm
+2015,cle,Cleveland Browns,Mike Pettine,Mike Pettine (3-13-0),,John DeFilippo,Jim O'Neil,,,,https://www.pro-football-reference.com/teams/cle/2015.htm
+2015,clt,Indianapolis Colts,Chuck Pagano,Chuck Pagano (8-8-0),,"Rob Chudzinski , Pep Hamilton",Greg Manusky,,,,https://www.pro-football-reference.com/teams/clt/2015.htm
+2015,crd,Arizona Cardinals,Bruce Arians,Bruce Arians (13-3-0),,Harold Goodwin,James Bettcher,,,,https://www.pro-football-reference.com/teams/crd/2015.htm
+2015,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (4-12-0),,Scott Linehan,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/dal/2015.htm
+2015,den,Denver Broncos,Gary Kubiak,Gary Kubiak (12-4-0),,Rick Dennison,Wade Phillips,,,,https://www.pro-football-reference.com/teams/den/2015.htm
+2015,det,Detroit Lions,Jim Caldwell,Jim Caldwell (7-9-0),,"Jim Bob Cooter , Joe Lombardi",Teryl Austin,,,,https://www.pro-football-reference.com/teams/det/2015.htm
+2015,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (10-6-0),,Edgar Bennett,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2015.htm
+2015,htx,Houston Texans,Bill O'Brien,Bill O'Brien (9-7-0),,George Godsey,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/htx/2015.htm
+2015,jax,Jacksonville Jaguars,Gus Bradley,Gus Bradley (5-11-0),,Greg Olson,Bob Babich,,,,https://www.pro-football-reference.com/teams/jax/2015.htm
+2015,kan,Kansas City Chiefs,Andy Reid,Andy Reid (11-5-0),,Doug Pederson,Bob Sutton,,,,https://www.pro-football-reference.com/teams/kan/2015.htm
+2015,mia,Miami Dolphins,"Joe Philbin, Dan Campbell",Joe Philbin (1-3-0) and Dan Campbell (5-7-0),Joe Philbin (1-3-0) and Dan Campbell (5-7-0),"Bill Lazor , Zac Taylor","Lou Anarumo , Kevin Coyle",,,,https://www.pro-football-reference.com/teams/mia/2015.htm
+2015,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (11-5-0),,Norv Turner,George Edwards,,,,https://www.pro-football-reference.com/teams/min/2015.htm
+2015,nor,New Orleans Saints,Sean Payton,Sean Payton (7-9-0),,Pete Carmichael,"Dennis Allen , Rob Ryan",,,,https://www.pro-football-reference.com/teams/nor/2015.htm
+2015,nwe,New England Patriots,Bill Belichick,Bill Belichick (12-4-0),,Josh McDaniels,Matt Patricia,,,,https://www.pro-football-reference.com/teams/nwe/2015.htm
+2015,nyg,New York Giants,Tom Coughlin,Tom Coughlin (6-10-0),,Ben McAdoo,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/nyg/2015.htm
+2015,nyj,New York Jets,Todd Bowles,Todd Bowles (10-6-0),,Chan Gailey,Kacy Rodgers,,,,https://www.pro-football-reference.com/teams/nyj/2015.htm
+2015,oti,Tennessee Titans,"Ken Whisenhunt, Mike Mularkey",Ken Whisenhunt (1-6-0) and Mike Mularkey (2-7-0),Ken Whisenhunt (1-6-0) and Mike Mularkey (2-7-0),Jason Michael,Ray Horton,,,,https://www.pro-football-reference.com/teams/oti/2015.htm
+2015,phi,Philadelphia Eagles,"Pat Shurmur, Chip Kelly",Pat Shurmur (1-0-0) and Chip Kelly (6-9-0),Pat Shurmur (1-0-0) and Chip Kelly (6-9-0),Pat Shurmur,Bill Davis,,,,https://www.pro-football-reference.com/teams/phi/2015.htm
+2015,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (10-6-0),,Todd Haley,Keith Butler,,,,https://www.pro-football-reference.com/teams/pit/2015.htm
+2015,rai,Las Vegas Raiders,Jack Del Rio,Jack Del Rio (7-9-0),,Bill Musgrave,Ken Norton,,,,https://www.pro-football-reference.com/teams/rai/2015.htm
+2015,ram,Los Angeles Rams,Jeff Fisher,Jeff Fisher (7-9-0),,"Rob Boras , Frank Cignetti",Gregg Williams,,,,https://www.pro-football-reference.com/teams/ram/2015.htm
+2015,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (5-11-0),,Marc Trestman,Dean Pees,,,,https://www.pro-football-reference.com/teams/rav/2015.htm
+2015,sdg,Los Angeles Chargers,Mike McCoy,Mike McCoy (4-12-0),,Frank Reich,John Pagano,,,,https://www.pro-football-reference.com/teams/sdg/2015.htm
+2015,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (10-6-0),,Darrell Bevell,Kris Richard,,,,https://www.pro-football-reference.com/teams/sea/2015.htm
+2015,sfo,San Francisco 49ers,Jim Tomsula,Jim Tomsula (5-11-0),,Geep Chryst,Eric Mangini,,,,https://www.pro-football-reference.com/teams/sfo/2015.htm
+2015,tam,Tampa Bay Buccaneers,Lovie Smith,Lovie Smith (6-10-0),,Dirk Koetter,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/tam/2015.htm
+2015,was,Washington Commanders,Jay Gruden,Jay Gruden (9-7-0),,Sean McVay,Joe Barry,,,,https://www.pro-football-reference.com/teams/was/2015.htm
+2016,atl,Atlanta Falcons,Dan Quinn,Dan Quinn (11-5-0),,Kyle Shanahan,Richard Smith,,,,https://www.pro-football-reference.com/teams/atl/2016.htm
+2016,buf,Buffalo Bills,"Anthony Lynn, Rex Ryan",Anthony Lynn (0-1-0) and Rex Ryan (7-8-0),Anthony Lynn (0-1-0) and Rex Ryan (7-8-0),"Anthony Lynn , Greg Roman",Dennis Thurman,,,,https://www.pro-football-reference.com/teams/buf/2016.htm
+2016,car,Carolina Panthers,Ron Rivera,Ron Rivera (6-10-0),,Mike Shula,Sean McDermott,,,,https://www.pro-football-reference.com/teams/car/2016.htm
+2016,chi,Chicago Bears,John Fox,John Fox (3-13-0),,Dowell Loggains,Vic Fangio,,,,https://www.pro-football-reference.com/teams/chi/2016.htm
+2016,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (6-9-1),,Ken Zampese,Paul Guenther,,,,https://www.pro-football-reference.com/teams/cin/2016.htm
+2016,cle,Cleveland Browns,Hue Jackson,Hue Jackson (1-15-0),,,Ray Horton,,,,https://www.pro-football-reference.com/teams/cle/2016.htm
+2016,clt,Indianapolis Colts,Chuck Pagano,Chuck Pagano (8-8-0),,Rob Chudzinski,Ted Monachino,,,,https://www.pro-football-reference.com/teams/clt/2016.htm
+2016,crd,Arizona Cardinals,Bruce Arians,Bruce Arians (7-8-1),,Harold Goodwin,James Bettcher,,,,https://www.pro-football-reference.com/teams/crd/2016.htm
+2016,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (13-3-0),,Scott Linehan,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/dal/2016.htm
+2016,den,Denver Broncos,Gary Kubiak,Gary Kubiak (9-7-0),,Rick Dennison,Wade Phillips,,,,https://www.pro-football-reference.com/teams/den/2016.htm
+2016,det,Detroit Lions,Jim Caldwell,Jim Caldwell (9-7-0),,Jim Bob Cooter,Teryl Austin,,,,https://www.pro-football-reference.com/teams/det/2016.htm
+2016,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (10-6-0),,Edgar Bennett,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2016.htm
+2016,htx,Houston Texans,Bill O'Brien,Bill O'Brien (9-7-0),,George Godsey,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/htx/2016.htm
+2016,jax,Jacksonville Jaguars,"Doug Marrone, Gus Bradley",Doug Marrone (1-1-0) and Gus Bradley (2-12-0),Doug Marrone (1-1-0) and Gus Bradley (2-12-0),"Nathaniel Hackett , Greg Olson",Todd Wash,,,,https://www.pro-football-reference.com/teams/jax/2016.htm
+2016,kan,Kansas City Chiefs,Andy Reid,Andy Reid (12-4-0),,Brad Childress,Bob Sutton,,,,https://www.pro-football-reference.com/teams/kan/2016.htm
+2016,mia,Miami Dolphins,Adam Gase,Adam Gase (10-6-0),,Clyde Christensen,Vance Joseph,,,,https://www.pro-football-reference.com/teams/mia/2016.htm
+2016,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (8-8-0),,"Pat Shurmur , Norv Turner",George Edwards,,,,https://www.pro-football-reference.com/teams/min/2016.htm
+2016,nor,New Orleans Saints,Sean Payton,Sean Payton (7-9-0),,Pete Carmichael,Dennis Allen,,,,https://www.pro-football-reference.com/teams/nor/2016.htm
+2016,nwe,New England Patriots,Bill Belichick,Bill Belichick (14-2-0),,Josh McDaniels,Matt Patricia,,,,https://www.pro-football-reference.com/teams/nwe/2016.htm
+2016,nyg,New York Giants,Ben McAdoo,Ben McAdoo (11-5-0),,Mike Sullivan,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/nyg/2016.htm
+2016,nyj,New York Jets,Todd Bowles,Todd Bowles (5-11-0),,Chan Gailey,Kacy Rodgers,,,,https://www.pro-football-reference.com/teams/nyj/2016.htm
+2016,oti,Tennessee Titans,Mike Mularkey,Mike Mularkey (9-7-0),,Terry Robiskie,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/oti/2016.htm
+2016,phi,Philadelphia Eagles,Doug Pederson,Doug Pederson (7-9-0),,Frank Reich,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/phi/2016.htm
+2016,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (11-5-0),,Todd Haley,Keith Butler,,,,https://www.pro-football-reference.com/teams/pit/2016.htm
+2016,rai,Las Vegas Raiders,Jack Del Rio,Jack Del Rio (12-4-0),,Bill Musgrave,Ken Norton,,,,https://www.pro-football-reference.com/teams/rai/2016.htm
+2016,ram,Los Angeles Rams,"John Fassel, Jeff Fisher",John Fassel (0-3-0) and Jeff Fisher (4-9-0),John Fassel (0-3-0) and Jeff Fisher (4-9-0),Rob Boras,Gregg Williams,,,,https://www.pro-football-reference.com/teams/ram/2016.htm
+2016,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (8-8-0),,"Marty Mornhinweg , Marc Trestman",Dean Pees,,,,https://www.pro-football-reference.com/teams/rav/2016.htm
+2016,sdg,Los Angeles Chargers,Mike McCoy,Mike McCoy (5-11-0),,Ken Whisenhunt,John Pagano,,,,https://www.pro-football-reference.com/teams/sdg/2016.htm
+2016,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (10-5-1),,Darrell Bevell,Kris Richard,,,,https://www.pro-football-reference.com/teams/sea/2016.htm
+2016,sfo,San Francisco 49ers,Chip Kelly,Chip Kelly (2-14-0),,Curtis Modkins,Jim O'Neil,,,,https://www.pro-football-reference.com/teams/sfo/2016.htm
+2016,tam,Tampa Bay Buccaneers,Dirk Koetter,Dirk Koetter (9-7-0),,Todd Monken,Mike Smith,,,,https://www.pro-football-reference.com/teams/tam/2016.htm
+2016,was,Washington Commanders,Jay Gruden,Jay Gruden (8-7-1),,Sean McVay,Joe Barry,,,,https://www.pro-football-reference.com/teams/was/2016.htm
+2017,atl,Atlanta Falcons,Dan Quinn,Dan Quinn (10-6-0),,Steve Sarkisian,Marquand Manuel,,,,https://www.pro-football-reference.com/teams/atl/2017.htm
+2017,buf,Buffalo Bills,Sean McDermott,Sean McDermott (9-7-0),,Rick Dennison,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/buf/2017.htm
+2017,car,Carolina Panthers,Ron Rivera,Ron Rivera (11-5-0),,Mike Shula,Steve Wilks,,,,https://www.pro-football-reference.com/teams/car/2017.htm
+2017,chi,Chicago Bears,John Fox,John Fox (5-11-0),,Dowell Loggains,Vic Fangio,,,,https://www.pro-football-reference.com/teams/chi/2017.htm
+2017,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (7-9-0),,"Bill Lazor , Ken Zampese",Paul Guenther,,,,https://www.pro-football-reference.com/teams/cin/2017.htm
+2017,cle,Cleveland Browns,Hue Jackson,Hue Jackson (0-16-0),,,Gregg Williams,,,,https://www.pro-football-reference.com/teams/cle/2017.htm
+2017,clt,Indianapolis Colts,Chuck Pagano,Chuck Pagano (4-12-0),,Rob Chudzinski,Ted Monachino,,,,https://www.pro-football-reference.com/teams/clt/2017.htm
+2017,crd,Arizona Cardinals,Bruce Arians,Bruce Arians (8-8-0),,Harold Goodwin,James Bettcher,,,,https://www.pro-football-reference.com/teams/crd/2017.htm
+2017,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (9-7-0),,Scott Linehan,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/dal/2017.htm
+2017,den,Denver Broncos,Vance Joseph,Vance Joseph (5-11-0),,"Mike McCoy , Bill Musgrave",Joe Woods,,,,https://www.pro-football-reference.com/teams/den/2017.htm
+2017,det,Detroit Lions,Jim Caldwell,Jim Caldwell (9-7-0),,Jim Bob Cooter,Teryl Austin,,,,https://www.pro-football-reference.com/teams/det/2017.htm
+2017,gnb,Green Bay Packers,Mike McCarthy,Mike McCarthy (7-9-0),,Edgar Bennett,Dom Capers,,,,https://www.pro-football-reference.com/teams/gnb/2017.htm
+2017,htx,Houston Texans,Bill O'Brien,Bill O'Brien (4-12-0),,,Mike Vrabel,,,,https://www.pro-football-reference.com/teams/htx/2017.htm
+2017,jax,Jacksonville Jaguars,Doug Marrone,Doug Marrone (10-6-0),,Nathaniel Hackett,Todd Wash,,,,https://www.pro-football-reference.com/teams/jax/2017.htm
+2017,kan,Kansas City Chiefs,Andy Reid,Andy Reid (10-6-0),,Matt Nagy,Bob Sutton,,,,https://www.pro-football-reference.com/teams/kan/2017.htm
+2017,mia,Miami Dolphins,Adam Gase,Adam Gase (6-10-0),,Clyde Christensen,Matt Burke,,,,https://www.pro-football-reference.com/teams/mia/2017.htm
+2017,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (13-3-0),,Pat Shurmur,George Edwards,,,,https://www.pro-football-reference.com/teams/min/2017.htm
+2017,nor,New Orleans Saints,Sean Payton,Sean Payton (11-5-0),,Pete Carmichael,Dennis Allen,,,,https://www.pro-football-reference.com/teams/nor/2017.htm
+2017,nwe,New England Patriots,Bill Belichick,Bill Belichick (13-3-0),,Josh McDaniels,Matt Patricia,,,,https://www.pro-football-reference.com/teams/nwe/2017.htm
+2017,nyg,New York Giants,"Steve Spagnuolo, Ben McAdoo",Steve Spagnuolo (1-3-0) and Ben McAdoo (2-10-0),Steve Spagnuolo (1-3-0) and Ben McAdoo (2-10-0),Mike Sullivan,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/nyg/2017.htm
+2017,nyj,New York Jets,Todd Bowles,Todd Bowles (5-11-0),,John Morton,Kacy Rodgers,,,,https://www.pro-football-reference.com/teams/nyj/2017.htm
+2017,oti,Tennessee Titans,Mike Mularkey,Mike Mularkey (9-7-0),,Terry Robiskie,Dick LeBeau,,,,https://www.pro-football-reference.com/teams/oti/2017.htm
+2017,phi,Philadelphia Eagles,Doug Pederson,Doug Pederson (13-3-0),,Frank Reich,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/phi/2017.htm
+2017,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (13-3-0),,Todd Haley,Keith Butler,,,,https://www.pro-football-reference.com/teams/pit/2017.htm
+2017,rai,Las Vegas Raiders,Jack Del Rio,Jack Del Rio (6-10-0),,Todd Downing,"Ken Norton , John Pagano",,,,https://www.pro-football-reference.com/teams/rai/2017.htm
+2017,ram,Los Angeles Rams,Sean McVay,Sean McVay (11-5-0),,Matt LaFleur,Wade Phillips,,,,https://www.pro-football-reference.com/teams/ram/2017.htm
+2017,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (9-7-0),,Marty Mornhinweg,Dean Pees,,,,https://www.pro-football-reference.com/teams/rav/2017.htm
+2017,sdg,Los Angeles Chargers,Anthony Lynn,Anthony Lynn (9-7-0),,Ken Whisenhunt,Gus Bradley,,,,https://www.pro-football-reference.com/teams/sdg/2017.htm
+2017,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (9-7-0),,Darrell Bevell,Kris Richard,,,,https://www.pro-football-reference.com/teams/sea/2017.htm
+2017,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (6-10-0),,,Robert Saleh,,,,https://www.pro-football-reference.com/teams/sfo/2017.htm
+2017,tam,Tampa Bay Buccaneers,Dirk Koetter,Dirk Koetter (5-11-0),,Todd Monken,Mike Smith,,,,https://www.pro-football-reference.com/teams/tam/2017.htm
+2017,was,Washington Commanders,Jay Gruden,Jay Gruden (7-9-0),,Matt Cavanaugh,Greg Manusky,,,,https://www.pro-football-reference.com/teams/was/2017.htm
+2018,atl,Atlanta Falcons,Dan Quinn,Dan Quinn (7-9-0),,Steve Sarkisian,Marquand Manuel,,,,https://www.pro-football-reference.com/teams/atl/2018.htm
+2018,buf,Buffalo Bills,Sean McDermott,Sean McDermott (6-10-0),,Brian Daboll,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/buf/2018.htm
+2018,car,Carolina Panthers,Ron Rivera,Ron Rivera (7-9-0),,Norv Turner,Eric Washington,,,,https://www.pro-football-reference.com/teams/car/2018.htm
+2018,chi,Chicago Bears,Matt Nagy,Matt Nagy (12-4-0),,Mark Helfrich,Vic Fangio,,,,https://www.pro-football-reference.com/teams/chi/2018.htm
+2018,cin,Cincinnati Bengals,Marvin Lewis,Marvin Lewis (6-10-0),,Bill Lazor,Teryl Austin,,,,https://www.pro-football-reference.com/teams/cin/2018.htm
+2018,cle,Cleveland Browns,"Hue Jackson, Gregg Williams",Hue Jackson (2-5-1) and Gregg Williams (5-3-0),Hue Jackson (2-5-1) and Gregg Williams (5-3-0),"Todd Haley , Freddie Kitchens",Gregg Williams,,,,https://www.pro-football-reference.com/teams/cle/2018.htm
+2018,clt,Indianapolis Colts,Frank Reich,Frank Reich (10-6-0),,Nick Sirianni,Matt Eberflus,,,,https://www.pro-football-reference.com/teams/clt/2018.htm
+2018,crd,Arizona Cardinals,Steve Wilks,Steve Wilks (3-13-0),,"Byron Leftwich , Mike McCoy",Al Holcomb,,,,https://www.pro-football-reference.com/teams/crd/2018.htm
+2018,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (10-6-0),,Scott Linehan,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/dal/2018.htm
+2018,den,Denver Broncos,Vance Joseph,Vance Joseph (6-10-0),,Bill Musgrave,Joe Woods,,,,https://www.pro-football-reference.com/teams/den/2018.htm
+2018,det,Detroit Lions,Matt Patricia,Matt Patricia (6-10-0),,Jim Bob Cooter,Paul Pasqualoni,,,,https://www.pro-football-reference.com/teams/det/2018.htm
+2018,gnb,Green Bay Packers,"Joe Philbin, Mike McCarthy",Joe Philbin (2-2-0) and Mike McCarthy (4-7-1),Joe Philbin (2-2-0) and Mike McCarthy (4-7-1),Joe Philbin,Mike Pettine,,,,https://www.pro-football-reference.com/teams/gnb/2018.htm
+2018,htx,Houston Texans,Bill O'Brien,Bill O'Brien (11-5-0),,,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/htx/2018.htm
+2018,jax,Jacksonville Jaguars,Doug Marrone,Doug Marrone (5-11-0),,Nathaniel Hackett,Todd Wash,,,,https://www.pro-football-reference.com/teams/jax/2018.htm
+2018,kan,Kansas City Chiefs,Andy Reid,Andy Reid (12-4-0),,Eric Bieniemy,Bob Sutton,,,,https://www.pro-football-reference.com/teams/kan/2018.htm
+2018,mia,Miami Dolphins,Adam Gase,Adam Gase (7-9-0),,Dowell Loggains,Matt Burke,,,,https://www.pro-football-reference.com/teams/mia/2018.htm
+2018,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (8-7-1),,John DeFilippo,George Edwards,,,,https://www.pro-football-reference.com/teams/min/2018.htm
+2018,nor,New Orleans Saints,Sean Payton,Sean Payton (13-3-0),,Pete Carmichael,Dennis Allen,,,,https://www.pro-football-reference.com/teams/nor/2018.htm
+2018,nwe,New England Patriots,Bill Belichick,Bill Belichick (11-5-0),,Josh McDaniels,,,,,https://www.pro-football-reference.com/teams/nwe/2018.htm
+2018,nyg,New York Giants,Pat Shurmur,Pat Shurmur (5-11-0),,Mike Shula,James Bettcher,,,,https://www.pro-football-reference.com/teams/nyg/2018.htm
+2018,nyj,New York Jets,Todd Bowles,Todd Bowles (4-12-0),,Jeremy Bates,Kacy Rodgers,,,,https://www.pro-football-reference.com/teams/nyj/2018.htm
+2018,oti,Tennessee Titans,Mike Vrabel,Mike Vrabel (9-7-0),,Matt LaFleur,Dean Pees,,,,https://www.pro-football-reference.com/teams/oti/2018.htm
+2018,phi,Philadelphia Eagles,Doug Pederson,Doug Pederson (9-7-0),,Mike Groh,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/phi/2018.htm
+2018,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (9-6-1),,Randy Fichtner,Keith Butler,,,,https://www.pro-football-reference.com/teams/pit/2018.htm
+2018,rai,Las Vegas Raiders,Jon Gruden,Jon Gruden (4-12-0),,Greg Olson,Paul Guenther,,,,https://www.pro-football-reference.com/teams/rai/2018.htm
+2018,ram,Los Angeles Rams,Sean McVay,Sean McVay (13-3-0),,,Wade Phillips,,,,https://www.pro-football-reference.com/teams/ram/2018.htm
+2018,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (10-6-0),,Marty Mornhinweg,Don Martindale,,,,https://www.pro-football-reference.com/teams/rav/2018.htm
+2018,sdg,Los Angeles Chargers,Anthony Lynn,Anthony Lynn (12-4-0),,Ken Whisenhunt,Gus Bradley,,,,https://www.pro-football-reference.com/teams/sdg/2018.htm
+2018,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (10-6-0),,Brian Schottenheimer,Ken Norton,,,,https://www.pro-football-reference.com/teams/sea/2018.htm
+2018,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (4-12-0),,,Robert Saleh,,,,https://www.pro-football-reference.com/teams/sfo/2018.htm
+2018,tam,Tampa Bay Buccaneers,Dirk Koetter,Dirk Koetter (5-11-0),,Todd Monken,"Mark Duffner , Mike Smith",,,,https://www.pro-football-reference.com/teams/tam/2018.htm
+2018,was,Washington Commanders,Jay Gruden,Jay Gruden (7-9-0),,Matt Cavanaugh,Greg Manusky,,,,https://www.pro-football-reference.com/teams/was/2018.htm
+2019,atl,Atlanta Falcons,Dan Quinn,Dan Quinn (7-9-0),,Dirk Koetter,Dan Quinn,,,,https://www.pro-football-reference.com/teams/atl/2019.htm
+2019,buf,Buffalo Bills,Sean McDermott,Sean McDermott (10-6-0),,Brian Daboll,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/buf/2019.htm
+2019,car,Carolina Panthers,"Perry Fewell, Ron Rivera",Perry Fewell (0-4-0) and Ron Rivera (5-7-0),Perry Fewell (0-4-0) and Ron Rivera (5-7-0),"Norv Turner , Scott Turner",Eric Washington,,,,https://www.pro-football-reference.com/teams/car/2019.htm
+2019,chi,Chicago Bears,Matt Nagy,Matt Nagy (8-8-0),,Mark Helfrich,Chuck Pagano,,,,https://www.pro-football-reference.com/teams/chi/2019.htm
+2019,cin,Cincinnati Bengals,Zac Taylor,Zac Taylor (2-14-0),,Brian Callahan,Lou Anarumo,,,,https://www.pro-football-reference.com/teams/cin/2019.htm
+2019,cle,Cleveland Browns,Freddie Kitchens,Freddie Kitchens (6-10-0),,Todd Monken,Steve Wilks,,,,https://www.pro-football-reference.com/teams/cle/2019.htm
+2019,clt,Indianapolis Colts,Frank Reich,Frank Reich (7-9-0),,Nick Sirianni,Matt Eberflus,,,,https://www.pro-football-reference.com/teams/clt/2019.htm
+2019,crd,Arizona Cardinals,Kliff Kingsbury,Kliff Kingsbury (5-10-1),,,Vance Joseph,,,,https://www.pro-football-reference.com/teams/crd/2019.htm
+2019,dal,Dallas Cowboys,Jason Garrett,Jason Garrett (8-8-0),,Kellen Moore,Rod Marinelli,,,,https://www.pro-football-reference.com/teams/dal/2019.htm
+2019,den,Denver Broncos,Vic Fangio,Vic Fangio (7-9-0),,Rich Scangarello,Ed Donatell,,,,https://www.pro-football-reference.com/teams/den/2019.htm
+2019,det,Detroit Lions,Matt Patricia,Matt Patricia (3-12-1),,Darrell Bevell,Paul Pasqualoni,,,,https://www.pro-football-reference.com/teams/det/2019.htm
+2019,gnb,Green Bay Packers,Matt LaFleur,Matt LaFleur (13-3-0),,Nathaniel Hackett,Mike Pettine,,,,https://www.pro-football-reference.com/teams/gnb/2019.htm
+2019,htx,Houston Texans,Bill O'Brien,Bill O'Brien (10-6-0),,Tim Kelly,Romeo Crennel,,,,https://www.pro-football-reference.com/teams/htx/2019.htm
+2019,jax,Jacksonville Jaguars,Doug Marrone,Doug Marrone (6-10-0),,John DeFilippo,Todd Wash,,,,https://www.pro-football-reference.com/teams/jax/2019.htm
+2019,kan,Kansas City Chiefs,Andy Reid,Andy Reid (12-4-0),,Eric Bieniemy,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/kan/2019.htm
+2019,mia,Miami Dolphins,Brian Flores,Brian Flores (5-11-0),,Chad O'Shea,Patrick Graham,,,,https://www.pro-football-reference.com/teams/mia/2019.htm
+2019,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (10-6-0),,Kevin Stefanski,George Edwards,,,,https://www.pro-football-reference.com/teams/min/2019.htm
+2019,nor,New Orleans Saints,Sean Payton,Sean Payton (13-3-0),,Pete Carmichael,Dennis Allen,,,,https://www.pro-football-reference.com/teams/nor/2019.htm
+2019,nwe,New England Patriots,Bill Belichick,Bill Belichick (12-4-0),,Josh McDaniels,,,,,https://www.pro-football-reference.com/teams/nwe/2019.htm
+2019,nyg,New York Giants,Pat Shurmur,Pat Shurmur (4-12-0),,Mike Shula,James Bettcher,,,,https://www.pro-football-reference.com/teams/nyg/2019.htm
+2019,nyj,New York Jets,Adam Gase,Adam Gase (7-9-0),,Dowell Loggains,Gregg Williams,,,,https://www.pro-football-reference.com/teams/nyj/2019.htm
+2019,oti,Tennessee Titans,Mike Vrabel,Mike Vrabel (9-7-0),,Arthur Smith,Dean Pees,,,,https://www.pro-football-reference.com/teams/oti/2019.htm
+2019,phi,Philadelphia Eagles,Doug Pederson,Doug Pederson (9-7-0),,Mike Groh,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/phi/2019.htm
+2019,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (8-8-0),,Randy Fichtner,Keith Butler,,,,https://www.pro-football-reference.com/teams/pit/2019.htm
+2019,rai,Las Vegas Raiders,Jon Gruden,Jon Gruden (7-9-0),,Greg Olson,Paul Guenther,,,,https://www.pro-football-reference.com/teams/rai/2019.htm
+2019,ram,Los Angeles Rams,Sean McVay,Sean McVay (9-7-0),,,Wade Phillips,,,,https://www.pro-football-reference.com/teams/ram/2019.htm
+2019,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (14-2-0),,Greg Roman,Don Martindale,,,,https://www.pro-football-reference.com/teams/rav/2019.htm
+2019,sdg,Los Angeles Chargers,Anthony Lynn,Anthony Lynn (5-11-0),,"Shane Steichen , Ken Whisenhunt",Gus Bradley,,,,https://www.pro-football-reference.com/teams/sdg/2019.htm
+2019,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (11-5-0),,Brian Schottenheimer,Ken Norton,,,,https://www.pro-football-reference.com/teams/sea/2019.htm
+2019,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (13-3-0),,,Robert Saleh,,,,https://www.pro-football-reference.com/teams/sfo/2019.htm
+2019,tam,Tampa Bay Buccaneers,Bruce Arians,Bruce Arians (7-9-0),,Byron Leftwich,Todd Bowles,,,,https://www.pro-football-reference.com/teams/tam/2019.htm
+2019,was,Washington Commanders,"Jay Gruden, Bill Callahan",Jay Gruden (0-5-0) and Bill Callahan (3-8-0),Jay Gruden (0-5-0) and Bill Callahan (3-8-0),Kevin O'Connell,Greg Manusky,,,,https://www.pro-football-reference.com/teams/was/2019.htm
+2020,atl,Atlanta Falcons,"Dan Quinn, Raheem Morris",Dan Quinn (0-5-0) and Raheem Morris (4-7-0),Dan Quinn (0-5-0) and Raheem Morris (4-7-0),Dirk Koetter,"Raheem Morris , Jeff Ulbrich",,,,https://www.pro-football-reference.com/teams/atl/2020.htm
+2020,buf,Buffalo Bills,Sean McDermott,Sean McDermott (13-3-0),,Brian Daboll,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/buf/2020.htm
+2020,car,Carolina Panthers,Matt Rhule,Matt Rhule (5-11-0),,Joe Brady,Phil Snow,,,,https://www.pro-football-reference.com/teams/car/2020.htm
+2020,chi,Chicago Bears,Matt Nagy,Matt Nagy (8-8-0),,Bill Lazor,Chuck Pagano,,,,https://www.pro-football-reference.com/teams/chi/2020.htm
+2020,cin,Cincinnati Bengals,Zac Taylor,Zac Taylor (4-11-1),,Brian Callahan,Lou Anarumo,,,,https://www.pro-football-reference.com/teams/cin/2020.htm
+2020,cle,Cleveland Browns,Kevin Stefanski,Kevin Stefanski (11-5-0),,Alex Van Pelt,Joe Woods,,,,https://www.pro-football-reference.com/teams/cle/2020.htm
+2020,clt,Indianapolis Colts,Frank Reich,Frank Reich (11-5-0),,Nick Sirianni,Matt Eberflus,,,,https://www.pro-football-reference.com/teams/clt/2020.htm
+2020,crd,Arizona Cardinals,Kliff Kingsbury,Kliff Kingsbury (8-8-0),,,Vance Joseph,,,,https://www.pro-football-reference.com/teams/crd/2020.htm
+2020,dal,Dallas Cowboys,Mike McCarthy,Mike McCarthy (6-10-0),,Kellen Moore,Mike Nolan,,,,https://www.pro-football-reference.com/teams/dal/2020.htm
+2020,den,Denver Broncos,Vic Fangio,Vic Fangio (5-11-0),,Pat Shurmur,Ed Donatell,,,,https://www.pro-football-reference.com/teams/den/2020.htm
+2020,det,Detroit Lions,"Darrell Bevell, Matt Patricia",Darrell Bevell (1-4-0) and Matt Patricia (4-7-0),Darrell Bevell (1-4-0) and Matt Patricia (4-7-0),Darrell Bevell,Cory Undlin,,,,https://www.pro-football-reference.com/teams/det/2020.htm
+2020,gnb,Green Bay Packers,Matt LaFleur,Matt LaFleur (13-3-0),,Nathaniel Hackett,Mike Pettine,,,,https://www.pro-football-reference.com/teams/gnb/2020.htm
+2020,htx,Houston Texans,"Bill O'Brien, Romeo Crennel",Bill O'Brien (0-4-0) and Romeo Crennel (4-8-0),Bill O'Brien (0-4-0) and Romeo Crennel (4-8-0),Tim Kelly,Anthony Weaver,,,,https://www.pro-football-reference.com/teams/htx/2020.htm
+2020,jax,Jacksonville Jaguars,Doug Marrone,Doug Marrone (1-15-0),,Jay Gruden,Todd Wash,,,,https://www.pro-football-reference.com/teams/jax/2020.htm
+2020,kan,Kansas City Chiefs,Andy Reid,Andy Reid (14-2-0),,Eric Bieniemy,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/kan/2020.htm
+2020,mia,Miami Dolphins,Brian Flores,Brian Flores (10-6-0),,Chan Gailey,Josh Boyer,,,,https://www.pro-football-reference.com/teams/mia/2020.htm
+2020,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (7-9-0),,Gary Kubiak,"Andre Patterson , Adam Zimmer",,,,https://www.pro-football-reference.com/teams/min/2020.htm
+2020,nor,New Orleans Saints,Sean Payton,Sean Payton (12-4-0),,Pete Carmichael,Dennis Allen,,,,https://www.pro-football-reference.com/teams/nor/2020.htm
+2020,nwe,New England Patriots,Bill Belichick,Bill Belichick (7-9-0),,Josh McDaniels,,,,,https://www.pro-football-reference.com/teams/nwe/2020.htm
+2020,nyg,New York Giants,Joe Judge,Joe Judge (6-10-0),,Jason Garrett,Patrick Graham,,,,https://www.pro-football-reference.com/teams/nyg/2020.htm
+2020,nyj,New York Jets,Adam Gase,Adam Gase (2-14-0),,Dowell Loggains,"Gregg Williams , Frank Bush",,,,https://www.pro-football-reference.com/teams/nyj/2020.htm
+2020,oti,Tennessee Titans,Mike Vrabel,Mike Vrabel (11-5-0),,Arthur Smith,,,,,https://www.pro-football-reference.com/teams/oti/2020.htm
+2020,phi,Philadelphia Eagles,Doug Pederson,Doug Pederson (4-11-1),,,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/phi/2020.htm
+2020,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (12-4-0),,Randy Fichtner,Keith Butler,,,,https://www.pro-football-reference.com/teams/pit/2020.htm
+2020,rai,Las Vegas Raiders,Jon Gruden,Jon Gruden (8-8-0),,Greg Olson,"Paul Guenther , Rod Marinelli",,,,https://www.pro-football-reference.com/teams/rai/2020.htm
+2020,ram,Los Angeles Rams,Sean McVay,Sean McVay (10-6-0),,Kevin O'Connell,Brandon Staley,,,,https://www.pro-football-reference.com/teams/ram/2020.htm
+2020,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (11-5-0),,Greg Roman,Don Martindale,,,,https://www.pro-football-reference.com/teams/rav/2020.htm
+2020,sdg,Los Angeles Chargers,Anthony Lynn,Anthony Lynn (7-9-0),,Shane Steichen,Gus Bradley,,,,https://www.pro-football-reference.com/teams/sdg/2020.htm
+2020,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (12-4-0),,Brian Schottenheimer,Ken Norton,,,,https://www.pro-football-reference.com/teams/sea/2020.htm
+2020,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (6-10-0),,,Robert Saleh,,,,https://www.pro-football-reference.com/teams/sfo/2020.htm
+2020,tam,Tampa Bay Buccaneers,Bruce Arians,Bruce Arians (11-5-0),,Byron Leftwich,Todd Bowles,,,,https://www.pro-football-reference.com/teams/tam/2020.htm
+2020,was,Washington Commanders,Ron Rivera,Ron Rivera (7-9-0),,Scott Turner,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/was/2020.htm
+2021,atl,Atlanta Falcons,Arthur Smith,Arthur Smith (7-10-0),,Dave Ragone,Dean Pees,,,,https://www.pro-football-reference.com/teams/atl/2021.htm
+2021,buf,Buffalo Bills,Sean McDermott,Sean McDermott (11-6-0),,Brian Daboll,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/buf/2021.htm
+2021,car,Carolina Panthers,Matt Rhule,Matt Rhule (5-12-0),,"Joe Brady , Jeff Nixon",Phil Snow,,,,https://www.pro-football-reference.com/teams/car/2021.htm
+2021,chi,Chicago Bears,Matt Nagy,Matt Nagy (6-11-0),,Bill Lazor,Sean Desai,,,,https://www.pro-football-reference.com/teams/chi/2021.htm
+2021,cin,Cincinnati Bengals,Zac Taylor,Zac Taylor (10-7-0),,Brian Callahan,Lou Anarumo,,,,https://www.pro-football-reference.com/teams/cin/2021.htm
+2021,cle,Cleveland Browns,Kevin Stefanski,Kevin Stefanski (8-9-0),,Alex Van Pelt,Joe Woods,,,,https://www.pro-football-reference.com/teams/cle/2021.htm
+2021,clt,Indianapolis Colts,Frank Reich,Frank Reich (9-8-0),,Marcus Brady,Matt Eberflus,,,,https://www.pro-football-reference.com/teams/clt/2021.htm
+2021,crd,Arizona Cardinals,Kliff Kingsbury,Kliff Kingsbury (11-6-0),,,Vance Joseph,,,,https://www.pro-football-reference.com/teams/crd/2021.htm
+2021,dal,Dallas Cowboys,Mike McCarthy,Mike McCarthy (12-5-0),,Kellen Moore,Dan Quinn,,,,https://www.pro-football-reference.com/teams/dal/2021.htm
+2021,den,Denver Broncos,Vic Fangio,Vic Fangio (7-10-0),,Pat Shurmur,Ed Donatell,,,,https://www.pro-football-reference.com/teams/den/2021.htm
+2021,det,Detroit Lions,Dan Campbell,Dan Campbell (3-13-1),,Anthony Lynn,Aaron Glenn,,,,https://www.pro-football-reference.com/teams/det/2021.htm
+2021,gnb,Green Bay Packers,Matt LaFleur,Matt LaFleur (13-4-0),,Nathaniel Hackett,Joe Barry,,,,https://www.pro-football-reference.com/teams/gnb/2021.htm
+2021,htx,Houston Texans,David Culley,David Culley (4-13-0),,Tim Kelly,Lovie Smith,,,,https://www.pro-football-reference.com/teams/htx/2021.htm
+2021,jax,Jacksonville Jaguars,"Darrell Bevell, Urban Meyer",Darrell Bevell (1-3-0) and Urban Meyer (2-11-0),Darrell Bevell (1-3-0) and Urban Meyer (2-11-0),Darrell Bevell,Joe Cullen,,,,https://www.pro-football-reference.com/teams/jax/2021.htm
+2021,kan,Kansas City Chiefs,Andy Reid,Andy Reid (12-5-0),,Eric Bieniemy,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/kan/2021.htm
+2021,mia,Miami Dolphins,Brian Flores,Brian Flores (9-8-0),,"George Godsey , Eric Studesville",Josh Boyer,,,,https://www.pro-football-reference.com/teams/mia/2021.htm
+2021,min,Minnesota Vikings,Mike Zimmer,Mike Zimmer (8-9-0),,Klint Kubiak,"Andre Patterson , Adam Zimmer",,,,https://www.pro-football-reference.com/teams/min/2021.htm
+2021,nor,New Orleans Saints,Sean Payton,Sean Payton (9-8-0),,Pete Carmichael,Dennis Allen,,,,https://www.pro-football-reference.com/teams/nor/2021.htm
+2021,nwe,New England Patriots,Bill Belichick,Bill Belichick (10-7-0),,Josh McDaniels,,,,,https://www.pro-football-reference.com/teams/nwe/2021.htm
+2021,nyg,New York Giants,Joe Judge,Joe Judge (4-13-0),,"Jason Garrett , Freddie Kitchens",Patrick Graham,,,,https://www.pro-football-reference.com/teams/nyg/2021.htm
+2021,nyj,New York Jets,Robert Saleh,Robert Saleh (4-13-0),,Mike LaFleur,Jeff Ulbrich,,,,https://www.pro-football-reference.com/teams/nyj/2021.htm
+2021,oti,Tennessee Titans,Mike Vrabel,Mike Vrabel (12-5-0),,Todd Downing,Shane Bowen,,,,https://www.pro-football-reference.com/teams/oti/2021.htm
+2021,phi,Philadelphia Eagles,Nick Sirianni,Nick Sirianni (9-8-0),,Shane Steichen,Jonathan Gannon,,,,https://www.pro-football-reference.com/teams/phi/2021.htm
+2021,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (9-7-1),,Matt Canada,Keith Butler,,,,https://www.pro-football-reference.com/teams/pit/2021.htm
+2021,rai,Las Vegas Raiders,"Jon Gruden, Rich Bisaccia",Jon Gruden (3-2-0) and Rich Bisaccia (7-5-0),Jon Gruden (3-2-0) and Rich Bisaccia (7-5-0),Greg Olson,Gus Bradley,,,,https://www.pro-football-reference.com/teams/rai/2021.htm
+2021,ram,Los Angeles Rams,Sean McVay,Sean McVay (12-5-0),,Kevin O'Connell,Raheem Morris,,,,https://www.pro-football-reference.com/teams/ram/2021.htm
+2021,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (8-9-0),,Greg Roman,Don Martindale,,,,https://www.pro-football-reference.com/teams/rav/2021.htm
+2021,sdg,Los Angeles Chargers,Brandon Staley,Brandon Staley (9-8-0),,Joe Lombardi,Renaldo Hill,,,,https://www.pro-football-reference.com/teams/sdg/2021.htm
+2021,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (7-10-0),,Shane Waldron,Ken Norton,,,,https://www.pro-football-reference.com/teams/sea/2021.htm
+2021,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (10-7-0),,Mike McDaniel,DeMeco Ryans,,,,https://www.pro-football-reference.com/teams/sfo/2021.htm
+2021,tam,Tampa Bay Buccaneers,Bruce Arians,Bruce Arians (13-4-0),,Byron Leftwich,Todd Bowles,,,,https://www.pro-football-reference.com/teams/tam/2021.htm
+2021,was,Washington Commanders,Ron Rivera,Ron Rivera (7-10-0),,Scott Turner,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/was/2021.htm
+2022,atl,Atlanta Falcons,Arthur Smith,Arthur Smith (7-10-0),,Dave Ragone,Dean Pees,,,,https://www.pro-football-reference.com/teams/atl/2022.htm
+2022,buf,Buffalo Bills,Sean McDermott,Sean McDermott (13-3-0),,Ken Dorsey,Leslie Frazier,,,,https://www.pro-football-reference.com/teams/buf/2022.htm
+2022,car,Carolina Panthers,"Matt Rhule, Steve Wilks",Matt Rhule (1-4-0) and Steve Wilks (6-6-0),Matt Rhule (1-4-0) and Steve Wilks (6-6-0),Ben McAdoo,"Al Holcomb , Phil Snow",,,,https://www.pro-football-reference.com/teams/car/2022.htm
+2022,chi,Chicago Bears,Matt Eberflus,Matt Eberflus (3-14-0),,Luke Getsy,Alan Williams,,,,https://www.pro-football-reference.com/teams/chi/2022.htm
+2022,cin,Cincinnati Bengals,Zac Taylor,Zac Taylor (12-4-0),,Brian Callahan,Lou Anarumo,,,,https://www.pro-football-reference.com/teams/cin/2022.htm
+2022,cle,Cleveland Browns,Kevin Stefanski,Kevin Stefanski (7-10-0),,Alex Van Pelt,Joe Woods,,,,https://www.pro-football-reference.com/teams/cle/2022.htm
+2022,clt,Indianapolis Colts,"Jeff Saturday, Frank Reich",Jeff Saturday (1-7-0) and Frank Reich (3-5-1),Jeff Saturday (1-7-0) and Frank Reich (3-5-1),Marcus Brady,Gus Bradley,,,,https://www.pro-football-reference.com/teams/clt/2022.htm
+2022,crd,Arizona Cardinals,Kliff Kingsbury,Kliff Kingsbury (4-13-0),,,Vance Joseph,,,,https://www.pro-football-reference.com/teams/crd/2022.htm
+2022,dal,Dallas Cowboys,Mike McCarthy,Mike McCarthy (12-5-0),,Kellen Moore,Dan Quinn,,,,https://www.pro-football-reference.com/teams/dal/2022.htm
+2022,den,Denver Broncos,"Jerry Rosburg, Nathaniel Hackett",Jerry Rosburg (1-1-0) and Nathaniel Hackett (4-11-0),Jerry Rosburg (1-1-0) and Nathaniel Hackett (4-11-0),Justin Outten,Ejiro Evero,,,,https://www.pro-football-reference.com/teams/den/2022.htm
+2022,det,Detroit Lions,Dan Campbell,Dan Campbell (9-8-0),,Ben Johnson,Aaron Glenn,,,,https://www.pro-football-reference.com/teams/det/2022.htm
+2022,gnb,Green Bay Packers,Matt LaFleur,Matt LaFleur (8-9-0),,Adam Stenavich,Joe Barry,,,,https://www.pro-football-reference.com/teams/gnb/2022.htm
+2022,htx,Houston Texans,Lovie Smith,Lovie Smith (3-13-1),,Pep Hamilton,,,,,https://www.pro-football-reference.com/teams/htx/2022.htm
+2022,jax,Jacksonville Jaguars,Doug Pederson,Doug Pederson (9-8-0),,Press Taylor,Mike Caldwell,,,,https://www.pro-football-reference.com/teams/jax/2022.htm
+2022,kan,Kansas City Chiefs,Andy Reid,Andy Reid (14-3-0),,Eric Bieniemy,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/kan/2022.htm
+2022,mia,Miami Dolphins,Mike McDaniel,Mike McDaniel (9-8-0),,Frank Smith,Josh Boyer,,,,https://www.pro-football-reference.com/teams/mia/2022.htm
+2022,min,Minnesota Vikings,Kevin O'Connell,Kevin O'Connell (13-4-0),,Wes Phillips,Ed Donatell,,,,https://www.pro-football-reference.com/teams/min/2022.htm
+2022,nor,New Orleans Saints,Dennis Allen,Dennis Allen (7-10-0),,Pete Carmichael,"Ryan Nielsen , Kris Richard",,,,https://www.pro-football-reference.com/teams/nor/2022.htm
+2022,nwe,New England Patriots,Bill Belichick,Bill Belichick (8-9-0),,,,,,,https://www.pro-football-reference.com/teams/nwe/2022.htm
+2022,nyg,New York Giants,Brian Daboll,Brian Daboll (9-7-1),,Mike Kafka,Don Martindale,,,,https://www.pro-football-reference.com/teams/nyg/2022.htm
+2022,nyj,New York Jets,Robert Saleh,Robert Saleh (7-10-0),,Mike LaFleur,Jeff Ulbrich,,,,https://www.pro-football-reference.com/teams/nyj/2022.htm
+2022,oti,Tennessee Titans,Mike Vrabel,Mike Vrabel (7-10-0),,Todd Downing,Shane Bowen,,,,https://www.pro-football-reference.com/teams/oti/2022.htm
+2022,phi,Philadelphia Eagles,Nick Sirianni,Nick Sirianni (14-3-0),,Shane Steichen,Jonathan Gannon,,,,https://www.pro-football-reference.com/teams/phi/2022.htm
+2022,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (9-8-0),,Matt Canada,Teryl Austin,,,,https://www.pro-football-reference.com/teams/pit/2022.htm
+2022,rai,Las Vegas Raiders,Josh McDaniels,Josh McDaniels (6-11-0),,Mick Lombardi,Patrick Graham,,,,https://www.pro-football-reference.com/teams/rai/2022.htm
+2022,ram,Los Angeles Rams,Sean McVay,Sean McVay (5-12-0),,Liam Coen,Raheem Morris,,,,https://www.pro-football-reference.com/teams/ram/2022.htm
+2022,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (10-7-0),,Greg Roman,Mike Macdonald,,,,https://www.pro-football-reference.com/teams/rav/2022.htm
+2022,sdg,Los Angeles Chargers,Brandon Staley,Brandon Staley (10-7-0),,Joe Lombardi,Renaldo Hill,,,,https://www.pro-football-reference.com/teams/sdg/2022.htm
+2022,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (9-8-0),,Shane Waldron,Clint Hurtt,,,,https://www.pro-football-reference.com/teams/sea/2022.htm
+2022,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (13-4-0),,,DeMeco Ryans,,,,https://www.pro-football-reference.com/teams/sfo/2022.htm
+2022,tam,Tampa Bay Buccaneers,Todd Bowles,Todd Bowles (8-9-0),,Byron Leftwich,"Larry Foote , Kacy Rodgers",,,,https://www.pro-football-reference.com/teams/tam/2022.htm
+2022,was,Washington Commanders,Ron Rivera,Ron Rivera (8-8-1),,Scott Turner,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/was/2022.htm
+2023,atl,Atlanta Falcons,Arthur Smith,Arthur Smith (7-10-0),,Dave Ragone,Ryan Nielsen,,,,https://www.pro-football-reference.com/teams/atl/2023.htm
+2023,buf,Buffalo Bills,Sean McDermott,Sean McDermott (11-6-0),,"Joe Brady , Ken Dorsey",,,,,https://www.pro-football-reference.com/teams/buf/2023.htm
+2023,car,Carolina Panthers,"Frank Reich, Chris Tabor",Frank Reich (1-10-0) and Chris Tabor (1-5-0),Frank Reich (1-10-0) and Chris Tabor (1-5-0),Thomas Brown,Ejiro Evero,,,,https://www.pro-football-reference.com/teams/car/2023.htm
+2023,chi,Chicago Bears,Matt Eberflus,Matt Eberflus (7-10-0),,Luke Getsy,Alan Williams,,,,https://www.pro-football-reference.com/teams/chi/2023.htm
+2023,cin,Cincinnati Bengals,Zac Taylor,Zac Taylor (9-8-0),,Brian Callahan,Lou Anarumo,,,,https://www.pro-football-reference.com/teams/cin/2023.htm
+2023,cle,Cleveland Browns,Kevin Stefanski,Kevin Stefanski (11-6-0),,Alex Van Pelt,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/cle/2023.htm
+2023,clt,Indianapolis Colts,Shane Steichen,Shane Steichen (9-8-0),,Jim Bob Cooter,Gus Bradley,,,,https://www.pro-football-reference.com/teams/clt/2023.htm
+2023,crd,Arizona Cardinals,Jonathan Gannon,Jonathan Gannon (4-13-0),,Drew Petzing,Nick Rallis,,,,https://www.pro-football-reference.com/teams/crd/2023.htm
+2023,dal,Dallas Cowboys,Mike McCarthy,Mike McCarthy (12-5-0),,Brian Schottenheimer,Dan Quinn,,,,https://www.pro-football-reference.com/teams/dal/2023.htm
+2023,den,Denver Broncos,Sean Payton,Sean Payton (8-9-0),,Joe Lombardi,Vance Joseph,,,,https://www.pro-football-reference.com/teams/den/2023.htm
+2023,det,Detroit Lions,Dan Campbell,Dan Campbell (12-5-0),,Ben Johnson,Aaron Glenn,,,,https://www.pro-football-reference.com/teams/det/2023.htm
+2023,gnb,Green Bay Packers,Matt LaFleur,Matt LaFleur (9-8-0),,Adam Stenavich,Joe Barry,,,,https://www.pro-football-reference.com/teams/gnb/2023.htm
+2023,htx,Houston Texans,DeMeco Ryans,DeMeco Ryans (10-7-0),,Bobby Slowik,Matt Burke,,,,https://www.pro-football-reference.com/teams/htx/2023.htm
+2023,jax,Jacksonville Jaguars,Doug Pederson,Doug Pederson (9-8-0),,Press Taylor,Mike Caldwell,,,,https://www.pro-football-reference.com/teams/jax/2023.htm
+2023,kan,Kansas City Chiefs,Andy Reid,Andy Reid (11-6-0),,Matt Nagy,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/kan/2023.htm
+2023,mia,Miami Dolphins,Mike McDaniel,Mike McDaniel (11-6-0),,Frank Smith,Vic Fangio,,,,https://www.pro-football-reference.com/teams/mia/2023.htm
+2023,min,Minnesota Vikings,Kevin O'Connell,Kevin O'Connell (7-10-0),,Wes Phillips,Brian Flores,,,,https://www.pro-football-reference.com/teams/min/2023.htm
+2023,nor,New Orleans Saints,Dennis Allen,Dennis Allen (9-8-0),,Pete Carmichael,Joe Woods,,,,https://www.pro-football-reference.com/teams/nor/2023.htm
+2023,nwe,New England Patriots,Bill Belichick,Bill Belichick (4-13-0),,Bill O'Brien,,,,,https://www.pro-football-reference.com/teams/nwe/2023.htm
+2023,nyg,New York Giants,Brian Daboll,Brian Daboll (6-11-0),,Mike Kafka,Don Martindale,,,,https://www.pro-football-reference.com/teams/nyg/2023.htm
+2023,nyj,New York Jets,Robert Saleh,Robert Saleh (7-10-0),,Nathaniel Hackett,Jeff Ulbrich,,,,https://www.pro-football-reference.com/teams/nyj/2023.htm
+2023,oti,Tennessee Titans,Mike Vrabel,Mike Vrabel (6-11-0),,Tim Kelly,Shane Bowen,,,,https://www.pro-football-reference.com/teams/oti/2023.htm
+2023,phi,Philadelphia Eagles,Nick Sirianni,Nick Sirianni (11-6-0),,Brian Johnson,Sean Desai,,,,https://www.pro-football-reference.com/teams/phi/2023.htm
+2023,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (10-7-0),,"Matt Canada , Eddie Faulkner",Teryl Austin,,,,https://www.pro-football-reference.com/teams/pit/2023.htm
+2023,rai,Las Vegas Raiders,"Josh McDaniels, Antonio Pierce",Josh McDaniels (3-5-0) and Antonio Pierce (5-4-0),Josh McDaniels (3-5-0) and Antonio Pierce (5-4-0),"Bo Hardegree , Mick Lombardi",Patrick Graham,,,,https://www.pro-football-reference.com/teams/rai/2023.htm
+2023,ram,Los Angeles Rams,Sean McVay,Sean McVay (10-7-0),,Mike LaFleur,Raheem Morris,,,,https://www.pro-football-reference.com/teams/ram/2023.htm
+2023,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (13-4-0),,Todd Monken,Mike Macdonald,,,,https://www.pro-football-reference.com/teams/rav/2023.htm
+2023,sdg,Los Angeles Chargers,"Giff Smith, Brandon Staley",Giff Smith (0-3-0) and Brandon Staley (5-9-0),Giff Smith (0-3-0) and Brandon Staley (5-9-0),Kellen Moore,Derrick Ansley,,,,https://www.pro-football-reference.com/teams/sdg/2023.htm
+2023,sea,Seattle Seahawks,Pete Carroll,Pete Carroll (9-8-0),,Shane Waldron,Clint Hurtt,,,,https://www.pro-football-reference.com/teams/sea/2023.htm
+2023,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (12-5-0),,,Steve Wilks,,,,https://www.pro-football-reference.com/teams/sfo/2023.htm
+2023,tam,Tampa Bay Buccaneers,Todd Bowles,Todd Bowles (9-8-0),,Dave Canales,"Larry Foote , Kacy Rodgers",,,,https://www.pro-football-reference.com/teams/tam/2023.htm
+2023,was,Washington Commanders,Ron Rivera,Ron Rivera (4-13-0),,Eric Bieniemy,Jack Del Rio,,,,https://www.pro-football-reference.com/teams/was/2023.htm
+2024,atl,Atlanta Falcons,Raheem Morris,Raheem Morris (8-9-0),,Zac Robinson,Jimmy Lake,,,,https://www.pro-football-reference.com/teams/atl/2024.htm
+2024,buf,Buffalo Bills,Sean McDermott,Sean McDermott (13-4-0),,Joe Brady,Bobby Babich,,,,https://www.pro-football-reference.com/teams/buf/2024.htm
+2024,car,Carolina Panthers,Dave Canales,Dave Canales (5-12-0),,Brad Idzik,Ejiro Evero,,,,https://www.pro-football-reference.com/teams/car/2024.htm
+2024,chi,Chicago Bears,"Thomas Brown, Matt Eberflus",Thomas Brown (1-4-0) and Matt Eberflus (4-8-0),Thomas Brown (1-4-0) and Matt Eberflus (4-8-0),"Shane Waldron , Thomas Brown , Chris Beatty",Eric Washington,,,,https://www.pro-football-reference.com/teams/chi/2024.htm
+2024,cin,Cincinnati Bengals,Zac Taylor,Zac Taylor (9-8-0),,Dan Pitcher,Lou Anarumo,,,,https://www.pro-football-reference.com/teams/cin/2024.htm
+2024,cle,Cleveland Browns,Kevin Stefanski,Kevin Stefanski (3-14-0),,Ken Dorsey,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/cle/2024.htm
+2024,clt,Indianapolis Colts,Shane Steichen,Shane Steichen (8-9-0),,Jim Bob Cooter,Gus Bradley,,,,https://www.pro-football-reference.com/teams/clt/2024.htm
+2024,crd,Arizona Cardinals,Jonathan Gannon,Jonathan Gannon (8-9-0),,Drew Petzing,Nick Rallis,,,,https://www.pro-football-reference.com/teams/crd/2024.htm
+2024,dal,Dallas Cowboys,Mike McCarthy,Mike McCarthy (7-10-0),,Brian Schottenheimer,Mike Zimmer,,,,https://www.pro-football-reference.com/teams/dal/2024.htm
+2024,den,Denver Broncos,Sean Payton,Sean Payton (10-7-0),,Joe Lombardi,Vance Joseph,,,,https://www.pro-football-reference.com/teams/den/2024.htm
+2024,det,Detroit Lions,Dan Campbell,Dan Campbell (15-2-0),,Ben Johnson,Aaron Glenn,,,,https://www.pro-football-reference.com/teams/det/2024.htm
+2024,gnb,Green Bay Packers,Matt LaFleur,Matt LaFleur (11-6-0),,Adam Stenavich,Jeff Hafley,,,,https://www.pro-football-reference.com/teams/gnb/2024.htm
+2024,htx,Houston Texans,DeMeco Ryans,DeMeco Ryans (10-7-0),,Bobby Slowik,Matt Burke,,,,https://www.pro-football-reference.com/teams/htx/2024.htm
+2024,jax,Jacksonville Jaguars,Doug Pederson,Doug Pederson (4-13-0),,Press Taylor,Ryan Nielsen,,,,https://www.pro-football-reference.com/teams/jax/2024.htm
+2024,kan,Kansas City Chiefs,Andy Reid,Andy Reid (15-2-0),,Matt Nagy,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/kan/2024.htm
+2024,mia,Miami Dolphins,Mike McDaniel,Mike McDaniel (8-9-0),,Frank Smith,Anthony Weaver,,,,https://www.pro-football-reference.com/teams/mia/2024.htm
+2024,min,Minnesota Vikings,Kevin O'Connell,Kevin O'Connell (14-3-0),,Wes Phillips,Brian Flores,,,,https://www.pro-football-reference.com/teams/min/2024.htm
+2024,nor,New Orleans Saints,"Dennis Allen, Darren Rizzi",Dennis Allen (2-7-0) and Darren Rizzi (3-5-0),Dennis Allen (2-7-0) and Darren Rizzi (3-5-0),Klint Kubiak,Joe Woods,,,,https://www.pro-football-reference.com/teams/nor/2024.htm
+2024,nwe,New England Patriots,Jerod Mayo,Jerod Mayo (4-13-0),,Alex Van Pelt,DeMarcus Covington,,,,https://www.pro-football-reference.com/teams/nwe/2024.htm
+2024,nyg,New York Giants,Brian Daboll,Brian Daboll (3-14-0),,Mike Kafka,Shane Bowen,,,,https://www.pro-football-reference.com/teams/nyg/2024.htm
+2024,nyj,New York Jets,"Robert Saleh, Jeff Ulbrich",Robert Saleh (2-3-0) and Jeff Ulbrich (3-9-0),Robert Saleh (2-3-0) and Jeff Ulbrich (3-9-0),Nathaniel Hackett,Jeff Ulbrich,,,,https://www.pro-football-reference.com/teams/nyj/2024.htm
+2024,oti,Tennessee Titans,Brian Callahan,Brian Callahan (3-14-0),,Nick Holz,Dennard Wilson,,,,https://www.pro-football-reference.com/teams/oti/2024.htm
+2024,phi,Philadelphia Eagles,Nick Sirianni,Nick Sirianni (14-3-0),,Kellen Moore,Vic Fangio,,,,https://www.pro-football-reference.com/teams/phi/2024.htm
+2024,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin (10-7-0),,Arthur Smith,Teryl Austin,,,,https://www.pro-football-reference.com/teams/pit/2024.htm
+2024,rai,Las Vegas Raiders,Antonio Pierce,Antonio Pierce (4-13-0),,"Luke Getsy , Scott Turner",Patrick Graham,,,,https://www.pro-football-reference.com/teams/rai/2024.htm
+2024,ram,Los Angeles Rams,Sean McVay,Sean McVay (10-7-0),,Mike LaFleur,Chris Shula,,,,https://www.pro-football-reference.com/teams/ram/2024.htm
+2024,rav,Baltimore Ravens,John Harbaugh,John Harbaugh (12-5-0),,Todd Monken,Zach Orr,,,,https://www.pro-football-reference.com/teams/rav/2024.htm
+2024,sdg,Los Angeles Chargers,Jim Harbaugh,Jim Harbaugh (11-6-0),,Greg Roman,Jesse Minter,,,,https://www.pro-football-reference.com/teams/sdg/2024.htm
+2024,sea,Seattle Seahawks,Mike Macdonald,Mike Macdonald (10-7-0),,Ryan Grubb,Aden Durde,,,,https://www.pro-football-reference.com/teams/sea/2024.htm
+2024,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan (6-11-0),,,Nick Sorensen,,,,https://www.pro-football-reference.com/teams/sfo/2024.htm
+2024,tam,Tampa Bay Buccaneers,Todd Bowles,Todd Bowles (10-7-0),,Liam Coen,"Larry Foote , Kacy Rodgers",,,,https://www.pro-football-reference.com/teams/tam/2024.htm
+2024,was,Washington Commanders,Dan Quinn,Dan Quinn (12-5-0),,Kliff Kingsbury,Joe Whitt,,,,https://www.pro-football-reference.com/teams/was/2024.htm
+2025,atl,Atlanta Falcons,Raheem Morris,Raheem Morris,,Zac Robinson,Jeff Ulbrich,,,,https://www.pro-football-reference.com/teams/atl/2025.htm
+2025,buf,Buffalo Bills,Sean McDermott,Sean McDermott,,Joe Brady,Bobby Babich,,,,https://www.pro-football-reference.com/teams/buf/2025.htm
+2025,car,Carolina Panthers,Dave Canales,Dave Canales,,Brad Idzik,Ejiro Evero,,,,https://www.pro-football-reference.com/teams/car/2025.htm
+2025,chi,Chicago Bears,Ben Johnson,Ben Johnson,,Declan Doyle,Dennis Allen,,,,https://www.pro-football-reference.com/teams/chi/2025.htm
+2025,cin,Cincinnati Bengals,Zac Taylor,Zac Taylor,,Dan Pitcher,Al Golden,,,,https://www.pro-football-reference.com/teams/cin/2025.htm
+2025,cle,Cleveland Browns,Kevin Stefanski,Kevin Stefanski,,Tommy Rees,Jim Schwartz,,,,https://www.pro-football-reference.com/teams/cle/2025.htm
+2025,clt,Indianapolis Colts,Shane Steichen,Shane Steichen,,Jim Bob Cooter,Lou Anarumo,,,,https://www.pro-football-reference.com/teams/clt/2025.htm
+2025,crd,Arizona Cardinals,Jonathan Gannon,Jonathan Gannon,,Drew Petzing,Nick Rallis,,,,https://www.pro-football-reference.com/teams/crd/2025.htm
+2025,dal,Dallas Cowboys,Brian Schottenheimer,Brian Schottenheimer,,Klayton Adams,Matt Eberflus,,,,https://www.pro-football-reference.com/teams/dal/2025.htm
+2025,den,Denver Broncos,Sean Payton,Sean Payton,,Joe Lombardi,Vance Joseph,,,,https://www.pro-football-reference.com/teams/den/2025.htm
+2025,det,Detroit Lions,Dan Campbell,Dan Campbell,,John Morton,Kelvin Sheppard,,,,https://www.pro-football-reference.com/teams/det/2025.htm
+2025,gnb,Green Bay Packers,Matt LaFleur,Matt LaFleur,,Adam Stenavich,Jeff Hafley,,,,https://www.pro-football-reference.com/teams/gnb/2025.htm
+2025,htx,Houston Texans,DeMeco Ryans,DeMeco Ryans,,Nick Caley,Matt Burke,,,,https://www.pro-football-reference.com/teams/htx/2025.htm
+2025,jax,Jacksonville Jaguars,Liam Coen,Liam Coen,,Grant Udinski,Anthony Campanile,,,,https://www.pro-football-reference.com/teams/jax/2025.htm
+2025,kan,Kansas City Chiefs,Andy Reid,Andy Reid,,Matt Nagy,Steve Spagnuolo,,,,https://www.pro-football-reference.com/teams/kan/2025.htm
+2025,mia,Miami Dolphins,Mike McDaniel,Mike McDaniel,,Frank Smith,Anthony Weaver,,,,https://www.pro-football-reference.com/teams/mia/2025.htm
+2025,min,Minnesota Vikings,Kevin O'Connell,Kevin O'Connell,,Wes Phillips,Brian Flores,,,,https://www.pro-football-reference.com/teams/min/2025.htm
+2025,nor,New Orleans Saints,Kellen Moore,Kellen Moore,,Doug Nussmeier,Brandon Staley,,,,https://www.pro-football-reference.com/teams/nor/2025.htm
+2025,nwe,New England Patriots,Mike Vrabel,Mike Vrabel,,Josh McDaniels,Terrell Williams,,,,https://www.pro-football-reference.com/teams/nwe/2025.htm
+2025,nyg,New York Giants,"Brian Daboll, Mike Kafka",Brian Daboll and Mike Kafka,Brian Daboll and Mike Kafka,Mike Kafka,"Shane Bowen , Charlie Bullen",,,,https://www.pro-football-reference.com/teams/nyg/2025.htm
+2025,nyj,New York Jets,Aaron Glenn,Aaron Glenn,,Tanner Engstrand,Steve Wilks,,,,https://www.pro-football-reference.com/teams/nyj/2025.htm
+2025,oti,Tennessee Titans,"Brian Callahan, Mike McCoy",Brian Callahan and Mike McCoy,Brian Callahan and Mike McCoy,Nick Holz,Dennard Wilson,,,,https://www.pro-football-reference.com/teams/oti/2025.htm
+2025,phi,Philadelphia Eagles,Nick Sirianni,Nick Sirianni,,Kevin Patullo,Vic Fangio,,,,https://www.pro-football-reference.com/teams/phi/2025.htm
+2025,pit,Pittsburgh Steelers,Mike Tomlin,Mike Tomlin,,Arthur Smith,Teryl Austin,,,,https://www.pro-football-reference.com/teams/pit/2025.htm
+2025,rai,Las Vegas Raiders,Pete Carroll,Pete Carroll,,"Chip Kelly , Greg Olson",Patrick Graham,,,,https://www.pro-football-reference.com/teams/rai/2025.htm
+2025,ram,Los Angeles Rams,Sean McVay,Sean McVay,,Mike LaFleur,Chris Shula,,,,https://www.pro-football-reference.com/teams/ram/2025.htm
+2025,rav,Baltimore Ravens,John Harbaugh,John Harbaugh,,Todd Monken,Zach Orr,,,,https://www.pro-football-reference.com/teams/rav/2025.htm
+2025,sdg,Los Angeles Chargers,Jim Harbaugh,Jim Harbaugh,,Greg Roman,Jesse Minter,,,,https://www.pro-football-reference.com/teams/sdg/2025.htm
+2025,sea,Seattle Seahawks,Mike Macdonald,Mike Macdonald,,Klint Kubiak,Aden Durde,,,,https://www.pro-football-reference.com/teams/sea/2025.htm
+2025,sfo,San Francisco 49ers,Kyle Shanahan,Kyle Shanahan,,Klay Kubiak,Robert Saleh,,,,https://www.pro-football-reference.com/teams/sfo/2025.htm
+2025,tam,Tampa Bay Buccaneers,Todd Bowles,Todd Bowles,,Josh Grizzard,,,,,https://www.pro-football-reference.com/teams/tam/2025.htm
+2025,was,Washington Commanders,Dan Quinn,Dan Quinn,,Kliff Kingsbury,"Joe Whitt , Dan Quinn",,,,https://www.pro-football-reference.com/teams/was/2025.htm

@@ -1,0 +1,2 @@
+test,n_events,pearson_r,p_one_sided,p_two_sided,ols_slope,ols_r2,direction_agreement,verdict
+OC rz_shotgun_rate portability,151,0.48330545098291966,0.0,0.0,0.45972157237585926,0.233584158949803,0.6887417218543046,PORTABLE — OC profile forecasts RZ shotgun shift; forecastability gate PASSES

@@ -1,158 +1,114 @@
 # two-locus-nfl-coaching
 
-Replication package for **"The Coach Locus is Offensive and Two-Tiered: A Multi-Resolution Event-Study Decomposition of NFL Coaching Effects with a Bounded Defensive Null"** (Humphrey, 2026).
+Replication package for **"The Portable Coach: Which NFL Coaching Effects Transfer Across Rosters, and How
+Confidently"** (Humphrey, 2026). The internal name of the analysis is *two-locus*.
 
-Paper PDF: [docs/Two_Locus_NFL.pdf](docs/Two_Locus_NFL.pdf)
-
-## What's here
-
-A four-layer decomposition of NFL coaching effects tested at four resolutions of the same partition (`(HC, OC, DC)` triple at each team-season) under identical SNR discipline:
-
-1. **Layer 1** — season-aggregate static test
-2. **Layer 2** — within-season event study around coaching changes (with propensity matching)
-3. **Layer 3** — within-game schematic identity by score bucket
-4. **Layer 4** — within-game stress adaptation (0/32 NULL, reported)
-5. **Layer 5** — predictive validation (forecastability of incoming coach prior profile)
-
-Plus:
-- Coach fingerprint clustering (k=4 HC, k=5 OC, silhouettes 0.28–0.34)
-- Defensive personnel vs DC variance decomposition under permutation-null correction
-- Continuous-staff placebo + Reid-PHI-2013 influence robustness checks
-- Pre-registered teammate-composition signal-check (rejected at registered thresholds)
-
-## Headline findings
-
-| Layer | Finding | Magnitude |
-|---|---|---|
-| 2a (HC mid-season) | pass-rate shift | 1.36× p=0.002 (n=45) |
-| 2a' (HC off-season) | plays/game shift | 1.17× p=0.021 (n=142) |
-| 2d (OC off-season) | RZ shotgun-rate shift | 1.34× p=0.0002 (n=159) |
-| 5 (HC predictive) | r=0.39, p=0.004, slope contaminated | existence-level only |
-| 5 (OC predictive) | r=0.48, p<0.0001, slope=0.45 | placebo-confirmed |
-| Defensive acute | 12 cells, MDE 1.16–1.22× at 80% power | bounded null |
-| Defensive chronic | DC identity NET R² 0.14–0.18 on 3/7 cells | moderate signal |
-
-## Requirements
-
-- Python 3.11+
-- `pip install -r requirements.txt`
-- ~5GB disk for data (downloaded by fetcher, not bundled)
-- Internet for first-run data fetch
-
-## Quick start
+**One command reproduces every number from frozen inputs** (no download, no scraping). The run ends by checking
+each output against `results/expected/`.
 
 ```bash
 git clone https://github.com/mrnathanhumphrey-droid/two-locus-nfl-coaching
 cd two-locus-nfl-coaching
-pip install -r requirements.txt
-bash reproduce.sh
+pip install -r requirements.txt          # pinned: the versions the expected results were produced with
+bash reproduce.sh                        # about 5 minutes; ends with "submitted: 27 of 27 outputs match"
 ```
 
-End-to-end runtime ~45 min (data fetch ~15 min on first run, analysis ~30 min). Caching makes subsequent runs ~10× faster.
+| Command | What it does |
+|---|---|
+| `bash reproduce.sh` | Runs every test on the inputs the paper used. Writes `results/submitted/` and checks it against `results/expected/submitted/`. |
+| `bash reproduce.sh verify` | Rebuilds the three analysis panels from the raw frozen files with the original builders, and checks they equal the frozen panels. |
+| `bash reproduce.sh corrected` | Runs the same analysis with every team under one team-code standard (see [Team codes](#team-codes)). Checks against `results/expected/corrected/`. |
 
-## Per-stage reproduction
+Requires Python 3.12 and bash. On Windows, Git Bash works.
 
-```bash
-bash reproduce.sh fetch              # data only (~15 min)
-bash reproduce.sh layer1             # static test
-bash reproduce.sh layer2             # event studies
-bash reproduce.sh layer3             # within-game schematic
-bash reproduce.sh layer5             # predictive validation + robustness
-bash reproduce.sh propensity         # propensity matching
-bash reproduce.sh defensive_chronic  # §5.3 chronic defensive test
-bash reproduce.sh fingerprint        # coach clustering
-bash reproduce.sh svi                # SVI-analogue decomposition
+## What the tests are
+
+The `(HC, OC, DC)` staff of each team-season is tested at several resolutions under one permutation-null
+discipline (real coaching changes vs continuous-staff placebo team-seasons).
+
+| Layer | Script | Output |
+|---|---|---|
+| 1 Season-aggregate static | `snr_test_static.py` | `snr_test_static_*.csv` |
+| 2a HC mid-season / off-season | `hc_midseason_vs_offseason.py` | `hc_midseason_vs_offseason_results.csv` |
+| 2b OC changes | `oc_change_event_study.py` | `oc_change_event_*.csv` |
+| 2c DC changes | `dc_change_event_study.py` | `dc_change_event_*.csv` |
+| 2d OC red-zone detail | `oc_rz_focused_followup.py` | `oc_rz_focused_*.csv` |
+| 2e DC red-zone detail | `dc_rz_focused_followup.py` | `dc_rz_focused_*.csv` |
+| 2f HC changes × defense | `hc_offseason_defense_test.py` | `hc_offseason_defense_*.csv` |
+| 3 Within-game schematic | `oc_schematic_isolation.py`, `snr_test_within_game.py` | `oc_schematic_isolation_results.csv`, `snr_within_game_*.csv` |
+| 5 Predictive validation | `hc_predictive_validation.py`, `oc_predictive_validation.py` | `*_predictive_validation_*.csv` |
+| 5 Placebo + influence checks | `predictive_validation_robustness.py` | `predictive_validation_robustness.csv` |
+| Propensity matching | `hc_propensity_matched.py` | `hc_propensity_matched_results.csv` |
+| Defensive chronic (personnel vs DC) | `defensive_personnel_vs_coaching_decomp.py` | `defensive_svi_decomposition.csv` |
+| Team identity vs coaching history | `snr_test_svi_analogue.py` | `snr_svi_*.csv` |
+| Coach fingerprints | `coach_fingerprint_clustering.py` | `*_fingerprint_clusters.csv`, `figures/` |
+
+Headline values, as produced by `bash reproduce.sh` (file: `results/expected/submitted/`):
+
+| Finding | Value | File |
+|---|---|---|
+| HC mid-season change, pass-rate shift | 1.364×, p=0.002, n=45 | `hc_midseason_vs_offseason_results.csv` |
+| HC off-season change, plays shift | 1.169×, p=0.021, n=142 | `hc_midseason_vs_offseason_results.csv` |
+| OC change, red-zone shotgun-rate shift | 1.343×, p=0.0002, n=175 | `oc_rz_focused_summary.csv` |
+| HC portability (pass rate) | r=0.386, one-sided p=0.0044, slope 0.306, n=43 | `hc_predictive_validation_summary.csv` |
+| OC portability (red-zone shotgun rate) | r=0.483, p<0.0001, slope 0.460, n=151 | `oc_predictive_validation_summary.csv` |
+
+## Two data windows
+
+The study ran in two passes, and each test reproduces on the data it ran on:
+- **Seasons through 2024:**
+  - Layers 1 to 3
+  - the event studies
+  - within-game
+  - the defensive decomposition
+  - team identity
+  - fingerprints
+- **Through 2025:** the predictive validation, its robustness checks and propensity matching, which were re-run
+  after the 2025 season was added.
+
+`reproduce.sh` stages each window in turn (`scripts/build/stage.py`).
+
+## Team codes
+
+The play-by-play uses each franchise's current code. The schedule, roster and injury files use the code of the
+time (STL, SD and OAK; the rosters also use SL, ARZ, BLT, CLV and HST). In the submitted analysis, joins across
+those files did not match the following, so those team-games carry no residual and drop out of the tests:
+- the St. Louis Rams 2000–2015
+- the San Diego Chargers 2000–2016
+- the Oakland Raiders 2000–2019
+- the roster-continuity seasons in which a code changed
+
+`bash reproduce.sh` reproduces the submitted analysis exactly as computed. `bash reproduce.sh corrected` applies
+one code standard before every join (`CANON` in `scripts/build/panels.py`) and runs the same, unchanged scripts.
+Its outputs are in `results/expected/corrected/`.
+
+## Layout
+
+```
+data/frozen/          the inputs (see data/frozen/SOURCES.md), with MANIFEST.sha256
+scripts/              the analysis scripts
+scripts/build/        stage.py (data windows), panels.py + the original panel builders, check_results.py
+results/expected/     the expected outputs, submitted and corrected
+docs/                 the research notes behind each layer
+figures/              fingerprint figures (regenerated by the run)
 ```
 
-## Data sources
-
-All data is free and public:
-
-- **nflverse** — play-by-play, weekly rosters, participation, draft picks ([nflverse-data releases](https://github.com/nflverse/nflverse-data/releases))
-- **Pro Football Reference** — coaching history (scraped at 1 req/sec via [`scripts/_fetch_coaching.py`](scripts/_fetch_coaching.py))
-
-No paid data feeds are used.
-
-## Directory layout
-
-```
-two-locus-nfl-coaching/
-├── README.md                 you are here
-├── LICENSE                   MIT
-├── CITATION.cff              citation metadata
-├── requirements.txt          Python deps
-├── reproduce.sh              end-to-end orchestrator
-│
-├── scripts/                  18 analysis + 1 fetcher
-│   ├── 00_fetch_data.py      download nflverse + PFR
-│   ├── _fetch_coaching.py    PFR scraper (1 req/sec, idempotent)
-│   ├── phase4_coach_pages.py PFR coach-page fetcher
-│   │
-│   ├── snr_test_static.py            Layer 1
-│   ├── hc_midseason_vs_offseason.py  Layer 2a (HC events)
-│   ├── oc_change_event_study.py      Layer 2b (OC events)
-│   ├── oc_rz_focused_followup.py     Layer 2d (OC RZ-fine-grain)
-│   ├── oc_schematic_isolation.py     Layer 3 (within-game F-stats)
-│   ├── dc_change_event_study.py      Layer 2c (DC events)
-│   ├── dc_rz_focused_followup.py     Layer 2e (DC RZ-fine-grain)
-│   ├── hc_offseason_defense_test.py  Layer 2f (HC × defense)
-│   ├── snr_test_within_game.py       Layer 3+4 (schematic + stress)
-│   │
-│   ├── hc_predictive_validation.py   Layer 5 — HC pass-rate portability
-│   ├── oc_predictive_validation.py   Layer 5 — OC RZ-shotgun portability
-│   ├── predictive_validation_robustness.py  placebo + Reid-influence
-│   │
-│   ├── hc_propensity_matched.py      causal rigor on Layer 2a
-│   ├── defensive_personnel_vs_coaching_decomp.py  §5.3 chronic
-│   ├── coach_fingerprint_clustering.py            k-means in style space
-│   ├── snr_test_svi_analogue.py      team-id vs coaching-history
-│
-├── docs/                     paper + synthesis docs
-│   ├── Two_Locus_NFL.pdf     the paper itself
-│   ├── coaching_signal_findings.md   primary synthesis (32K)
-│   ├── coach_fingerprint_clustering.md
-│   ├── hc_midseason_vs_offseason_results.md
-│   ├── oc_change_event_study_results.md
-│   ├── dc_change_and_oc_layered_results.md
-│   ├── hc_propensity_matched_results.md
-│   ├── predictive_validation_results.md
-│   ├── loso_recal_2026_05_15.md
-│   ├── within_game_test1_placebo_audit.md
-│   ├── within_game_test2_structural_audit.md
-│   ├── within_game_test2_redesign_summary.md
-│   ├── defensive_personnel_vs_coaching_summary.md
-│   └── TEAMMATE_COMPOSITION_SIGNAL_CHECK_PREREG.md  pre-registration
-│
-├── figures/                  PCA + radar plots (HC k=4, OC k=5)
-├── data/                     populated by fetcher (not committed)
-│   ├── raw/                  nflverse + PFR HTML cache
-│   └── processed/            built panels (state_residuals, staff, RZ)
-└── results/                  analysis output CSVs
-```
+`scripts/00_fetch_data.py`, `_fetch_coaching.py` and `phase4_coach_pages.py` are the original collection scripts,
+kept for provenance. They are not needed to reproduce the results. The live sources have changed since the data
+was collected, so they will not rebuild the frozen inputs byte for byte. The Pro Football Reference scraper waits
+4 seconds between requests.
 
 ## Pre-registration
 
-One pre-registered hypothesis was locked before data analysis: per-snap teammate-composition signal-check for three skill-position players (Kelce, Wilson, Pacheco). See [docs/TEAMMATE_COMPOSITION_SIGNAL_CHECK_PREREG.md](docs/TEAMMATE_COMPOSITION_SIGNAL_CHECK_PREREG.md) — verdict was NULL at registered thresholds and is reported in the paper's null catalog.
+One hypothesis was pre-registered before the data was touched: the per-snap teammate-composition signal check.
+See `docs/TEAMMATE_COMPOSITION_SIGNAL_CHECK_PREREG.md`. Its verdict was null at the registered thresholds. The
+layered decomposition itself was built iteratively, each layer's result motivating the next.
 
-The four-layer decomposition itself was constructed iteratively under standing SNR discipline as each layer's result motivated the next. The paper §2.2 is explicit about this: "discipline-pre-registered, architecture-iterative."
+## Data
 
-## Citation
-
-```bibtex
-@article{humphrey2026coach,
-  title   = {The Coach Locus is Offensive and Two-Tiered: A Multi-Resolution Event-Study Decomposition of NFL Coaching Effects with a Bounded Defensive Null},
-  author  = {Humphrey, Nathan},
-  year    = {2026},
-  month   = {5}
-}
-```
-
-See [CITATION.cff](CITATION.cff) for structured metadata.
+nflverse (CC-BY-4.0) and coaching facts compiled from Pro Football Reference, cited per row. Full attribution is
+in [data/frozen/SOURCES.md](data/frozen/SOURCES.md).
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
-
-## Contact
-
-Issues / PRs welcome via GitHub. The paper PDF in [docs/](docs/) is the canonical source for the empirical claims; this code package is for replication.
+Code: MIT, see [LICENSE](LICENSE). Data: see [data/frozen/SOURCES.md](data/frozen/SOURCES.md).

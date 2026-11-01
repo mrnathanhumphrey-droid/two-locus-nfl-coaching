@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "The Coach Locus is Offensive and Two-Tiered: A Multi-Resolution Event-Study Decomposition of NFL Coaching Effects with a Bounded Defensive Null"
+title: "The Portable Coach: Which NFL Coaching Effects Transfer Across Rosters, and How Confidently"
 authors:
   - family-names: Humphrey
     given-names: Nathan
@@ -8,7 +8,8 @@ type: software
 repository-code: "https://github.com/mrnathanhumphrey-droid/two-locus-nfl-coaching"
 abstract: >
   Replication package for the four-layer multi-resolution decomposition
-  of NFL coaching effects 2002-2024. Tests the same (HC, OC, DC) partition
+  of NFL coaching effects 2000-2025. Every result reproduces from frozen inputs with
+  `bash reproduce.sh`. Tests the same (HC, OC, DC) partition
   at season-aggregate, within-season event-study, within-game schematic,
   and within-game stress-adaptation resolutions under identical SNR
   discipline (B=1000 permutation null, cross-season holdout,
@@ -26,7 +27,7 @@ keywords:
   - sports-analytics
 preferred-citation:
   type: article
-  title: "The Coach Locus is Offensive and Two-Tiered: A Multi-Resolution Event-Study Decomposition of NFL Coaching Effects with a Bounded Defensive Null"
+  title: "The Portable Coach: Which NFL Coaching Effects Transfer Across Rosters, and How Confidently"
   authors:
     - family-names: Humphrey
       given-names: Nathan

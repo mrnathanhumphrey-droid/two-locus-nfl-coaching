@@ -1,0 +1,2 @@
+test,n_events,pearson_r,p_one_sided,p_two_sided,ols_slope,ols_r2,direction_agreement,verdict
+HC pass_rate portability,43,0.38612181073964436,0.0044,0.0098,0.3061139090811046,0.14909005272886156,0.6046511627906976,PORTABLE — HC profile forecasts shift; forecastability gate PASSES
