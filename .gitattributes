@@ -1,0 +1,11 @@
+# Unix line endings for anything a shell or Python reads, on every OS
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.cff text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.sha256 text eol=lf
+*.parquet binary
+*.png binary
+*.pdf binary
