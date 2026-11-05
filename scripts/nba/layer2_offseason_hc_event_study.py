@@ -22,7 +22,7 @@ import numpy as np
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[2] / "data" / "nba"
-NBA_PROJ = Path(__file__).resolve().parents[2] / "data" / "frozen" / "nba"
+NBA_PROJ = Path(__file__).resolve().parents[2] / "data" / "nba" / "inputs"   # staged per mode: scripts/build/stage_nba.py
 RESID = ROOT / "data" / "parquet" / "team_game_residuals.parquet"
 RESULTS = ROOT / "data" / "results"
 RESULTS.mkdir(parents=True, exist_ok=True)

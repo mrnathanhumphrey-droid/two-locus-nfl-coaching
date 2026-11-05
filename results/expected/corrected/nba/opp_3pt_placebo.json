@@ -1,0 +1,40 @@
+{
+ "mode": "corrected",
+ "observed_slope": 0.6685058185614673,
+ "n_events": 33,
+ "n_continuous_staff_candidates": 225,
+ "n_continuous_staff_team_seasons": 225,
+ "continuous_staff_dropped": [],
+ "pool_sizes_same_season": {
+  "min": 1,
+  "median": 4.0,
+  "max": 6,
+  "n_seasons": 9
+ },
+ "n_rows_using_fallback_pool_in_a": 30,
+ "a_same_season_with_fallback": {
+  "placebo_median": 0.2936616736757594,
+  "placebo_95ci": [
+   0.23569746153783158,
+   0.35160832593023184
+  ],
+  "observed_percentile": 1.0,
+  "excess": 0.3748441448857079
+ },
+ "b_all_seasons": {
+  "placebo_median": 0.32442539065663484,
+  "placebo_95ci": [
+   0.2614780062945609,
+   0.3885699357351458
+  ],
+  "observed_percentile": 1.0,
+  "excess": 0.34408042790483245
+ },
+ "B": 1000,
+ "K": 10,
+ "seed": 42,
+ "metric": "opp_three_pt_rate_residual",
+ "rng": "numpy default_rng(seed), a fresh generator per pool variant",
+ "script": "scripts/nba/opp_3pt_placebo.py",
+ "git_commit": "dce388ab51f2e555685b61d718cd6f3ff79f056d"
+}

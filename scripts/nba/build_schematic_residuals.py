@@ -20,7 +20,7 @@ from __future__ import annotations
 from pathlib import Path
 import pandas as pd
 
-NBA_PROJ = Path(__file__).resolve().parents[2] / "data" / "frozen" / "nba"
+NBA_PROJ = Path(__file__).resolve().parents[2] / "data" / "nba" / "inputs"   # staged per mode: scripts/build/stage_nba.py
 OUT = Path(__file__).resolve().parents[2] / "data" / "nba" / "data" / "parquet"
 OUT.mkdir(parents=True, exist_ok=True)
 

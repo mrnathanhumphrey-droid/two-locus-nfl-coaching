@@ -3,7 +3,8 @@
     python scripts/build/check_results.py submitted
 
 Walks every subfolder (revision/, nba/). Every expected .csv, .json and .parquet must exist in the run and match
-exactly: numbers to 1e-9 (all randomness in the analysis is seeded, the Bayesian fits included), text exactly.
+exactly: numbers to 1e-9 (all randomness in the analysis is seeded, the Bayesian fits included), text exactly
+(except PROVENANCE keys such as the git commit a run came from).
 Exit 1 on any difference, naming the file and the column or key.
 """
 from __future__ import annotations
@@ -16,6 +17,7 @@ import pandas as pd
 
 REPO = Path(__file__).resolve().parents[2]
 TOL = 1e-9
+PROVENANCE = {".git_commit"}   # JSON keys that record where a run came from, not a result
 
 
 def compare_frames(a: pd.DataFrame, b: pd.DataFrame) -> str:
@@ -50,6 +52,8 @@ def compare_json(a, b) -> str:
     if set(la) != set(lb):
         return f"keys differ: {sorted(set(la) ^ set(lb))[:4]}"
     for k, x in la.items():
+        if k in PROVENANCE:
+            continue
         y = lb[k]
         if isinstance(x, (int, float)) and isinstance(y, (int, float)) and not isinstance(x, bool):
             if abs(float(x) - float(y)) > TOL:

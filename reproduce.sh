@@ -17,6 +17,7 @@ case "$MODE" in
   verify) exec "$PY" -u scripts/build/panels.py submitted ;;
   *) echo "usage: bash reproduce.sh [submitted|corrected|verify]"; exit 2 ;;
 esac
+export TWOLOCUS_MODE="$MODE"   # recorded by scripts/nba/opp_3pt_placebo.py
 
 (cd data/frozen && "$PY" -c "import hashlib, sys
 bad = [l.split()[1] for l in open('MANIFEST.sha256') if l.strip()
@@ -40,9 +41,9 @@ WINDOW_2025="hc_predictive_validation oc_predictive_validation predictive_valida
 # the Sloan revision analyses (scripts/revision), in dependency order, on the through-2025 data
 REVISION="oc_concept_family_portability fit_rc_event_study_pymc rc_propensity_refit rc_placebo_and_propensity
   dc_within_hc_event_study build_extended_defensive_panel dc_within_hc_extended dc_within_hc_era_strat make_sloan_figures"
-# the NBA transfer check (scripts/nba): same framework, nba.com data in data/frozen/nba
+# the NBA transfer check (scripts/nba): same framework, inputs from data/frozen/nba staged per mode (stage_nba.py)
 NBA="build_schematic_residuals layer1_partition layer2_midseason_vs_offseason layer2_offseason_hc_event_study
-  layer2_defensive_analog hc_predictive_validation opp_3pt_predictive_validation propensity_with_roster
+  layer2_defensive_analog hc_predictive_validation opp_3pt_predictive_validation opp_3pt_placebo propensity_with_roster
   nextgen_event_study nextgen_propensity coach_fingerprint_clustering"
 
 OUT="results/$MODE"; rm -rf "$OUT"; mkdir -p "$OUT"
@@ -69,11 +70,12 @@ for W in 2024 2025; do
 done
 
 rm -rf data/nba; mkdir -p data/nba/data/results data/nba/data/parquet "$OUT/nba"
+"$PY" -u scripts/build/stage_nba.py "$MODE"
 for s in $NBA; do
   echo "==> [$MODE, nba] $s"
   "$PY" -u "scripts/nba/$s.py" > "$OUT/nba/$s.log" 2>&1 || { echo "   FAILED, see $OUT/nba/$s.log"; exit 1; }
 done
-cp data/nba/data/results/*.csv data/nba/data/parquet/*.parquet "$OUT/nba/"
+cp data/nba/data/results/*.{csv,json} data/nba/data/parquet/*.parquet "$OUT/nba/"
 
 echo ""
 if [[ "$MODE" == "submitted" ]]; then

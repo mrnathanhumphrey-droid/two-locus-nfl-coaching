@@ -26,7 +26,7 @@ import numpy as np
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[2] / "data" / "nba"
-NBA_PROJ = Path(__file__).resolve().parents[2] / "data" / "frozen" / "nba"
+NBA_PROJ = Path(__file__).resolve().parents[2] / "data" / "nba" / "inputs"   # staged per mode: scripts/build/stage_nba.py
 RESULTS = ROOT / "data" / "results"
 
 K = 10

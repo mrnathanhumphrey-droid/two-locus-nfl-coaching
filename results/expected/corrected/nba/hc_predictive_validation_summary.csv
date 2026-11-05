@@ -1,2 +1,2 @@
 test,n_events,pearson_r,p_one_sided,p_two_sided,ols_slope,ols_r2,direction_agreement,verdict
-NBA HC pace portability,24,0.5571966150864865,0.0016,0.004,0.581839956007059,0.3104680678638383,0.6666666666666666,PORTABLE - HC pace profile forecasts shift
+NBA HC pace portability,33,0.5313538860076452,0.0004,0.0012,0.4836625281488073,0.28233695217542587,0.696969696969697,PORTABLE - HC pace profile forecasts shift
